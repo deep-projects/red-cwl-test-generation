@@ -1,0 +1,54 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "baseCommand": "run-knime",
+    "doc": "KNIME Labelfree Quantification.",
+    "inputs": {
+        "input_dir": {
+            "type": "Directory",
+            "inputBinding": {
+                "position": 0
+            },
+            "doc": "Input directory containing datasets and databases subdirectories."
+        },
+        "database_name": {
+            "type": "string",
+            "inputBinding": {
+                "position": 1
+            },
+            "doc": "Name of database file located in databases subdirectory."
+        }
+    },
+    "outputs": {
+        "execute_log": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "execute.log"
+            }
+        },
+        "peptide_background_quantification": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "peptide_background_quantification.csv"
+            }
+        },
+        "protein_background_quantification": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "protein_background_quantification.csv"
+            }
+        },
+        "peptide_quantification": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "peptide_quantification.csv"
+            }
+        },
+        "protein_quantification": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "protein_quantification.csv"
+            }
+        }
+    }
+}
