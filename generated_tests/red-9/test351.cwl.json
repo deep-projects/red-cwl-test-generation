@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "I8UV4": {
+            "type": "string?",
+            "inputBinding": {
+                "itemSeparator": "sit officia"
+            },
+            "doc": "in sit"
+        }
+    },
+    "outputs": {}
+}

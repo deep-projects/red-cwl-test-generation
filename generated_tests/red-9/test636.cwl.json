@@ -1,0 +1,78 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "HbspuT": {
+            "type": "float[]?",
+            "inputBinding": {
+                "position": 81177010
+            }
+        }
+    },
+    "outputs": {
+        "T8goZ": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "et nostrud aliqua cupidat"
+            },
+            "doc": "voluptate"
+        }
+    },
+    "baseCommand": [
+        "laboris",
+        "Duis quis nostrud",
+        "ex dolore aliquip",
+        "et sed mollit qui",
+        "ut ipsum incididunt",
+        "sit",
+        "eiusmod id nulla aute in",
+        "a",
+        "nisi sint cupidatat ullamco magna",
+        "tempor cupidatat",
+        "ullamco laborum dolore nisi",
+        "minim anim deserunt",
+        "cupidatat dolor",
+        "fugiat aliqua sint",
+        "sed reprehenderit proident",
+        "sit aliquip ex ",
+        "lab",
+        "d",
+        "esse",
+        "mollit",
+        "veniam in dolor",
+        "consectetur nostrud",
+        "nulla",
+        "irure cillum mollit anim laborum",
+        "aliqua aliquip",
+        "incididunt minim consequat nulla reprehenderit",
+        "exercitation culpa pariatur aliqua magna",
+        "nisi",
+        "sint nulla esse magna",
+        "labore magna",
+        "nisi magna occaecat mollit sit",
+        "occaecat",
+        "ad",
+        "pariatur",
+        "nostrud occaecat in in Duis",
+        "eu dolore do in velit",
+        "in elit",
+        "dolor consequat in ea",
+        "e",
+        "veniam qui Excepteur occaecat consequat",
+        "qui",
+        "eiusmod tempor laborum nulla",
+        "pariatur qui",
+        "ut aute",
+        "non tempor",
+        "id non Lorem",
+        "non qui exercitation n",
+        "dolor",
+        "laboris amet Excepteur irure consectetur",
+        "ut in",
+        "anim adipisicing non qui",
+        "nostrud cillum commodo nulla proident",
+        "eu",
+        "aute cupidatat voluptate consequat elit"
+    ],
+    "doc": "incididunt voluptate amet Duis"
+}

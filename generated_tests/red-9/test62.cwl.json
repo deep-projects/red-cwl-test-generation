@@ -1,0 +1,58 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "5L": {
+            "type": "double",
+            "inputBinding": {
+                "itemSeparator": "ipsum"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "dolore nisi irure ullamco",
+        "ex reprehenderit fugiat culpa deserunt",
+        "et dolor sit do",
+        "magna do",
+        "ea adipisicing",
+        "magna dolore est",
+        "ad nulla deserunt non",
+        "dolore veniam ",
+        "ad sed ipsum ea magna",
+        "dolore",
+        "veniam aliqua",
+        "est id ",
+        "in",
+        "aliquip",
+        "Ut et elit aliqua",
+        "al",
+        "elit dolor nostrud",
+        "est et fugiat",
+        "non do cillum dolor",
+        "Lorem nisi",
+        "magna sit",
+        "cillum qui adipisicing",
+        "deserunt ea ad",
+        "est occaecat ad",
+        "dolor sit",
+        "Duis dolore dolore elit",
+        "ut labore deserunt dolor",
+        "et",
+        "fugia",
+        "do",
+        "officia exercitation",
+        "ut laboris fugiat commodo dolore",
+        "veniam eu et pariatur",
+        "dolore",
+        "anim reprehenderit",
+        "in officia tempor laborum commodo",
+        "ex officia pariatur Excepteur",
+        "ullamco in",
+        "irure exercitation inci",
+        "ut ad dolore sint aliqua",
+        "do non consectetur magna elit"
+    ],
+    "stdout": "sint incididunt ex",
+    "stderr": "do incididunt eiusmod magna"
+}

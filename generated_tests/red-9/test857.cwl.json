@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "IsHlPAO": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "proident ad"
+            }
+        }
+    },
+    "doc": "non consectetur velit"
+}

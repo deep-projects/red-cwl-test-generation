@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "3xIk0_Igrd6": {
+            "type": "Directory?",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "amet in"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "ut proident quis aute sed"
+}

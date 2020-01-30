@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "JqicZj12X": {
+            "type": "Directory",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stderr": "in sunt reprehenderit officia cillum"
+}

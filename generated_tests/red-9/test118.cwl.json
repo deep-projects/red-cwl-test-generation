@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Ty0Q": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "eu consequat ut aute"
+            },
+            "doc": "in tempor in"
+        }
+    }
+}

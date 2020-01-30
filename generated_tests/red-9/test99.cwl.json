@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "wgTOp6Xrb_": {
+            "type": "double[]",
+            "inputBinding": {
+                "prefix": "id quis ad"
+            },
+            "doc": "sed"
+        }
+    },
+    "outputs": {}
+}

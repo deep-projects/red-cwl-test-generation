@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "hQ": {
+            "type": "double[]?",
+            "inputBinding": {
+                "position": 42644215,
+                "itemSeparator": "labore tempor nisi amet fugiat"
+            },
+            "doc": "ut"
+        }
+    },
+    "outputs": {}
+}

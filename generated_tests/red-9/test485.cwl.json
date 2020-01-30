@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sffJTMK6qte": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "prefix": "dolor ad est elit",
+                "separate": true
+            }
+        }
+    },
+    "outputs": {
+        "j8wwws5r": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "dolor",
+    "stderr": "elit",
+    "doc": "velit tempor"
+}

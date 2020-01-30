@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "mzxK1": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "repreh",
+    "stdout": "aliqua",
+    "stderr": "commodo"
+}

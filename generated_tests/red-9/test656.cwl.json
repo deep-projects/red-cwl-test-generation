@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "eRzgttqA": {
+            "type": "Directory",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "nulla incididunt"
+            },
+            "doc": "Ut sunt laborum"
+        }
+    },
+    "outputs": {
+        "zSsJWrf5OX": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "enim"
+            },
+            "doc": "consectetur"
+        }
+    },
+    "stdout": "Ut cillum commodo et"
+}

@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "czI_p": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "ipsum reprehenderit laboris dolor cupidatat",
+    "stderr": "cupidatat eu dolore esse"
+}

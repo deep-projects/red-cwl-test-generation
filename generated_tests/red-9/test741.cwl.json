@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "-b57wjFOm": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "Ut"
+            }
+        }
+    },
+    "doc": "eiusmod adipisicing"
+}

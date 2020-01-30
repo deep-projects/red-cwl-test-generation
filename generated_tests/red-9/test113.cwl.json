@@ -1,0 +1,33 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "T-EdJsX": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "sed id et Duis reprehenderit"
+            }
+        }
+    },
+    "baseCommand": [
+        "dolore ut",
+        "dolore cillum",
+        "laboris est in voluptate deserunt",
+        "ex esse",
+        "id in elit eiusmod Lorem",
+        "ea mollit in dolore pariatur",
+        "velit",
+        "pariatur",
+        "sint elit officia",
+        "Excepteur dolore",
+        "oc",
+        "ullamco consectetur",
+        "ea ad elit in",
+        "aliquip id consectetur",
+        "tempor aliquip dolore",
+        "",
+        "esse voluptate nulla consequat do"
+    ],
+    "stderr": "exercitation ea dolor et"
+}

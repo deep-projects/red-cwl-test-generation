@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "yRzdz4oW": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "occaecat ut est",
+                "separate": true
+            },
+            "doc": "Ut tempor"
+        }
+    },
+    "outputs": {}
+}

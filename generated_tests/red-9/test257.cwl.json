@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "iW": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "ea deserunt"
+            },
+            "doc": "culpa aute Ut adipisi"
+        }
+    },
+    "baseCommand": null,
+    "doc": "laborum nostrud fugiat ut veniam"
+}

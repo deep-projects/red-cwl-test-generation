@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "xvsJP2U-qT": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "pariatur reprehenderit non occaecat"
+            }
+        }
+    },
+    "stderr": "adipisicing velit voluptate"
+}

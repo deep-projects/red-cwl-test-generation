@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "DC5AWU_Y62": {
+            "type": "float[]?",
+            "inputBinding": {
+                "itemSeparator": "amet"
+            },
+            "doc": "enim"
+        }
+    },
+    "outputs": {
+        "Ww": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "Ut"
+            },
+            "doc": "id ut mol"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "minim"
+}

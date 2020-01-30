@@ -1,0 +1,47 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "p": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "",
+        "ex ut deserunt adipisicing",
+        "consectetur",
+        "irure",
+        "laboris incididunt",
+        "Excepteur reprehenderit nisi cillum",
+        "laboris nisi quis aute ad",
+        "cillum aliquip ad ut dolor",
+        "nisi reprehenderit",
+        "et in",
+        "consectetur sed culpa",
+        "consectetur nostrud quis in ea",
+        "adipisicing",
+        "minim ut enim aliquip",
+        "ullamco nisi velit adipisicing",
+        "in quis nisi adipisicing",
+        "eu mollit in",
+        "aliquip commodo",
+        "pariatur non",
+        "sit",
+        "cillum aliq",
+        "minim vel",
+        "ut ad sit",
+        "magna adipisicing Excepteur voluptate",
+        "Excepteur ea exercitation et in",
+        "irure",
+        "ex",
+        "Ut deserunt",
+        "nostrud in Lorem",
+        "labore pariatur in",
+        "eiusmod Lorem",
+        "adipisicing magna Duis aliquip",
+        "do labore esse in ut",
+        "occaecat ad ex qui laborum",
+        "dolor"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Cr-EYY3": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "labore adipisicing quis in"
+            },
+            "doc": "proident ipsum ea "
+        }
+    },
+    "baseCommand": "consectetur",
+    "stdout": "sint in"
+}

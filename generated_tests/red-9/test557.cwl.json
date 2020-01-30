@@ -1,0 +1,8 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "mollit ipsum",
+    "stderr": "do est in dolore"
+}

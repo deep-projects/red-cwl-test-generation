@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "zlscU": {
+            "type": "double[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stdout": "veniam irure ex cupidatat id",
+    "stderr": "Ut"
+}

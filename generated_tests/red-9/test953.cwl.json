@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "hBrg": {
+            "type": "string[]",
+            "inputBinding": {
+                "itemSeparator": "sunt amet ut"
+            }
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "LNbzePHWI": {
+            "type": "boolean",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "nostrud",
+    "doc": "labore par"
+}

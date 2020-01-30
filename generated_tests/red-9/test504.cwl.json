@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "EnExz": {
+            "type": "long?",
+            "inputBinding": {
+                "prefix": "Lorem in exerc",
+                "itemSeparator": "elit consectetur"
+            },
+            "doc": "cillum dolore sit non"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "doc": "Duis esse nulla laborum"
+}

@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "97gnyAWmDK": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laborum fugiat"
+            }
+        }
+    }
+}

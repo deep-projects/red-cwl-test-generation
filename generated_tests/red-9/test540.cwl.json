@@ -1,0 +1,55 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "kT": {
+            "type": "double[]",
+            "inputBinding": {
+                "prefix": "nulla exercitation veniam ut consectetur",
+                "itemSeparator": "irure cupidatat aute"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "in sint dolor aliqua",
+        "sint et dolore Ut laboris",
+        "in reprehenderit aliquip pariatur tempor",
+        "dolore in non",
+        "magna consectetur exercitation",
+        "sint commodo dolor",
+        "non Ut occaecat sed id",
+        "occaecat au",
+        "ut ullamco consectetur",
+        "dolore aliqua et",
+        "sit sunt",
+        "",
+        "voluptate",
+        "aliquip nostrud",
+        "eiusmod ess",
+        "ex sit commodo",
+        "deserunt Duis",
+        "ad dolor",
+        "ex",
+        "dolor irure officia",
+        "qui",
+        "ut est officia dolore",
+        "Lorem",
+        "ullamco proident",
+        "Lorem aute in",
+        "magna aliquip",
+        "non",
+        "culpa",
+        "sit anim",
+        "laborum ut dolor quis labore",
+        "Ut",
+        "minim esse",
+        "laboris anim aliquip enim ",
+        "labore laboris anim reprehenderit et",
+        "ut",
+        "laborum eu magna commodo cillum",
+        "est ut reprehenderit",
+        "mollit"
+    ],
+    "stderr": "incididunt nostrud culpa ipsum"
+}

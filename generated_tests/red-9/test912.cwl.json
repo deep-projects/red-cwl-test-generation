@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "X6PZiuSUv9": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "labore tempor Lorem"
+            },
+            "doc": "e"
+        }
+    },
+    "baseCommand": "dolore adipisicin"
+}

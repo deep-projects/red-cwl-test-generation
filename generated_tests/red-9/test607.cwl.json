@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Xw0ZzGI": {
+            "type": "int",
+            "inputBinding": {
+                "itemSeparator": "quis"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "ea Excepteur sunt nostrud",
+    "doc": "ad id qui"
+}

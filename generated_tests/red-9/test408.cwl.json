@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "bZ": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "nisi",
+    "doc": "officia velit"
+}

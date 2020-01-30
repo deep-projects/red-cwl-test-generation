@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Zhds5jJ": {
+            "type": "Directory?",
+            "inputBinding": {},
+            "doc": "ex non"
+        }
+    },
+    "outputs": {}
+}

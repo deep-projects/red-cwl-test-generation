@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "k": {
+            "type": "File[]?",
+            "inputBinding": {
+                "prefix": "exercitation est eu",
+                "position": 49993759
+            }
+        }
+    },
+    "outputs": {
+        "r4JmhoMZ": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "officia Duis dolore",
+    "doc": ""
+}

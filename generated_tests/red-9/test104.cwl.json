@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "2wdbs-RpRj": {
+            "type": "int?",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {}
+}

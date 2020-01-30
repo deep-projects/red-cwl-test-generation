@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8Yq-aI": {
+            "type": "double[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 91936444
+            }
+        }
+    },
+    "outputs": {
+        "I": {
+            "type": "stdout"
+        }
+    }
+}

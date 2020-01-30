@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "T6Njc": {
+            "type": "int[]",
+            "inputBinding": {
+                "position": 20206807
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "aute",
+    "doc": "veniam eiusmod tempor pariatur"
+}

@@ -19,6 +19,10 @@ let cwlSchema = {
     $ref: '#/definitions/cli'
 };
 
+jsf.option({
+    optionalsProbability: 0.75
+})
+
 for (var i = 0; i < numTestsToGenerate; i++) {
     let generatedData = jsf.generate(cwlSchema);
     let outputFile = util.format('test%d.cwl.json', i);

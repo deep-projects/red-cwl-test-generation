@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "QT0BX8": {
+            "type": "Directory[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "8EYAgif": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "pariatur"
+            },
+            "doc": "dolore nisi enim dolore"
+        }
+    }
+}

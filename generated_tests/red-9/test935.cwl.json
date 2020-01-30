@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "E0HN": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "position": 19068494
+            },
+            "doc": "tempor consequat nostrud proident veniam"
+        }
+    },
+    "outputs": {}
+}

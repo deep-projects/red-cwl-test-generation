@@ -1,0 +1,28 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "J": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": [
+        "eiusmod",
+        "consectetur in ut ex",
+        "mollit est nisi pariatur",
+        "et eu amet laboris",
+        "velit commodo occaecat officia",
+        "reprehenderit",
+        "nisi consectetur Ut",
+        "velit anim exerc",
+        "dolore elit Excepteur velit",
+        "reprehenderit",
+        "labore ad incididunt",
+        "Ut deserunt qui labore dolor",
+        "quis amet reprehenderit non adipisicing",
+        "ipsum velit voluptate dolore officia",
+        "sint sunt ullamco veniam"
+    ],
+    "doc": "occaecat"
+}

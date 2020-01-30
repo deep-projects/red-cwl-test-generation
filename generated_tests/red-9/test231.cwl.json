@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "IrMzYiWj8A1": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "reprehenderit ut do"
+}

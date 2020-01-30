@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "iAG7x9iWF": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "irure adipisicing exercitation dol"
+            },
+            "doc": "exercitation aliquip culpa Ut voluptate"
+        }
+    },
+    "stdout": "magna"
+}

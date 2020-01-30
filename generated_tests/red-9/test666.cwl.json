@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "HqH3gys": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "tempor nisi ut"
+            }
+        }
+    },
+    "outputs": {}
+}

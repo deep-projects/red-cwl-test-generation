@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Y1ATV7iIz": {
+            "type": "long",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stdout": "amet commodo et esse non",
+    "doc": "fugiat sunt"
+}

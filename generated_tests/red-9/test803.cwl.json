@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "XCoF53f": {
+            "type": "long[]?",
+            "inputBinding": {
+                "prefix": "culpa voluptate eiusmod irure ut",
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "Dbh": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "adipisicing consequat",
+    "doc": "eiusmod eu elit non in"
+}

@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1Hapq": {
+            "type": "File",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stdout": "aliquip incididunt cupidatat in"
+}

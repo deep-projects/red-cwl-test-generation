@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "I2pj": {
+            "type": "int[]?",
+            "inputBinding": {
+                "itemSeparator": "Ut enim sed et exercitation"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "in dolore anim"
+}

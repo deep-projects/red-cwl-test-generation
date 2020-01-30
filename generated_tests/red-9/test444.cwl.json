@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Zd": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "cillum adipisicing in quis"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stderr": "Excepteur occ"
+}

@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "tiIdXKuSq": {
+            "type": "string[]",
+            "inputBinding": {
+                "separate": true,
+                "position": 7922089,
+                "itemSeparator": "consequat anim proident eiusmod"
+            }
+        }
+    },
+    "outputs": {
+        "vM8rbi27": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "commodo est in ea qui"
+            }
+        }
+    }
+}

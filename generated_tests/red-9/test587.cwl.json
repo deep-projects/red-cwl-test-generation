@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "RWat": {
+            "type": "string",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "aliquip"
+}

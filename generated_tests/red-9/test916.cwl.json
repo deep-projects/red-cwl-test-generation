@@ -1,0 +1,31 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": [
+        "dolor anim amet mollit commodo",
+        "quis sunt",
+        "irure culpa dolor",
+        "dolor incididunt adipisicing",
+        "veniam id",
+        "minim esse dolor",
+        "et nostrud esse do",
+        "Excepteur ut et aute",
+        "aliquip velit proident des",
+        "officia",
+        "sit ea proident aliquip",
+        "Ut ullamco cupidatat tempor eu",
+        "adipisicing officia nostrud Ut",
+        "ut incididunt et commodo",
+        "pariatur proident laborum es",
+        "magna ullamco co",
+        "sint ex ut dolor",
+        "mollit",
+        "dolore consequat",
+        "velit commodo tempor dolor non",
+        "voluptate",
+        "Lorem",
+        "cupidatat sed aliquip pariatur"
+    ]
+}

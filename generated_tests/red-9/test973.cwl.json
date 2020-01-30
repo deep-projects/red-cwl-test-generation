@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "85nyo": {
+            "type": "File[]?",
+            "inputBinding": {
+                "position": 22501224,
+                "itemSeparator": "tempor amet dolor"
+            }
+        }
+    },
+    "outputs": {}
+}

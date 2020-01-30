@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "d4r_dodshN": {
+            "type": "string[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "nWNY": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "laborum non ea mollit"
+            }
+        }
+    },
+    "baseCommand": "",
+    "stdout": "in amet cillum"
+}

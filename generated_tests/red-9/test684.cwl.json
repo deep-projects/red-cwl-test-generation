@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "0": {
+            "type": "float?",
+            "inputBinding": {},
+            "doc": "ipsum reprehenderit sunt commodo"
+        }
+    },
+    "outputs": {},
+    "doc": "amet eiusmod aliqua sunt"
+}

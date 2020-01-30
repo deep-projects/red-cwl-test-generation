@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "scDv6SGmn1I": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "in cupidatat labore nulla elit",
+                "position": 11899791,
+                "itemSeparator": "aute minim amet ea"
+            }
+        }
+    },
+    "outputs": {}
+}

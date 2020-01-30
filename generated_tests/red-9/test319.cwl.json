@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "YbeKzGjt": {
+            "type": "string",
+            "inputBinding": {
+                "itemSeparator": "elit fugiat deserunt"
+            },
+            "doc": "Excepteur Lorem laborum temp"
+        }
+    },
+    "outputs": {},
+    "stderr": "do fugiat reprehenderit pariatur"
+}

@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "20": {
+            "type": "string",
+            "inputBinding": {},
+            "doc": "cupidatat Excepteur do ut"
+        }
+    },
+    "outputs": {}
+}

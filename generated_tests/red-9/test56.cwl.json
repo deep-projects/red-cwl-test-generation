@@ -1,0 +1,30 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "vDdwxb9": {
+            "type": "float[]?",
+            "inputBinding": {},
+            "doc": "id non pariatur"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "dolor cillum",
+        "pariatur est dolore",
+        "Ut et magna aliqua dolore",
+        "minim culpa sint ad occaecat",
+        "labore minim consectetur",
+        "enim eiusmod",
+        "veniam laboris velit in dolor",
+        "officia",
+        "sed occaecat anim",
+        "laboris",
+        "ut",
+        "ipsum ad incididunt irure",
+        "e",
+        "est irure nisi commodo"
+    ],
+    "stdout": "dolor aliquip ad amet",
+    "doc": "Excepteur in"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fbjToxZo7yr": {
+            "type": "long?",
+            "inputBinding": {
+                "separate": true,
+                "position": 6544016,
+                "itemSeparator": "amet reprehenderit dolore aliquip in"
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "in ullamco elit dolor"
+}

@@ -1,0 +1,62 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "P": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "incididunt qui adipisicing cupidatat"
+            }
+        }
+    },
+    "baseCommand": [
+        "do ex elit occaecat dolor",
+        "occaecat",
+        "do magna in Duis",
+        "Lorem deserunt anim Excepteur",
+        "incididunt in labore",
+        "minim Ut ex",
+        "ut aute non dolore",
+        "ipsum pariatur id amet",
+        "dolor tempo",
+        "aliqua",
+        "dolore",
+        "in sit aliquip",
+        "aute",
+        "ullamco",
+        "sint",
+        "elit occaecat cupidatat minim veniam",
+        "in",
+        "esse dolore",
+        "sint elit aute laborum ut",
+        "magna commodo nisi adipisicing fugiat",
+        "aliquip Duis ut",
+        "dolor",
+        "voluptate irure ea aliqua nostrud",
+        "ut do",
+        "Lorem sit fugiat",
+        "labore ullamco",
+        "mollit",
+        "voluptate Duis",
+        "tempor incididunt adipisicing cupidata",
+        "occaecat re",
+        "incididunt magna tempor",
+        "enim dolore nisi",
+        "elit eu dolor labore in",
+        "et dolore ea ut deserunt",
+        "Exc",
+        "id reprehenderit consequat",
+        "et laboris dolor sint nostrud",
+        "magna dolore",
+        "qui deserunt velit am",
+        "et sint do",
+        "enim in aliqua elit",
+        "et tempor",
+        "id ipsum nisi",
+        "exercitation qui",
+        "veniam elit qui voluptate"
+    ],
+    "stdout": "sed of",
+    "doc": "non adipisicing"
+}

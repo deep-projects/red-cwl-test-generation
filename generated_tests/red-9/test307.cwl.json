@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-": {
+            "type": "long[]?",
+            "inputBinding": {
+                "prefix": "cillum ex",
+                "position": 46829184,
+                "itemSeparator": "quis non Ut ut"
+            }
+        }
+    },
+    "outputs": {
+        "ld-wxj1wLq": {
+            "type": "stdout"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "XkvghpM": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "anim magna"
+            },
+            "doc": "quis laboris ad"
+        }
+    },
+    "baseCommand": "ut consectetur ea laborum",
+    "stderr": "mollit proident laboris labore",
+    "doc": "u"
+}

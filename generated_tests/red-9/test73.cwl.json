@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "cRg": {
+            "type": "string?",
+            "inputBinding": {
+                "position": 6916444
+            },
+            "doc": "in Ut aliqua amet enim"
+        }
+    },
+    "outputs": {
+        "woX3o1yK": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "dolor ",
+    "doc": "ipsum id sed veniam"
+}

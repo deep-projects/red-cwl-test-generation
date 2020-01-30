@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "yd1MwU": {
+            "type": "File[]",
+            "inputBinding": {
+                "position": 8376727,
+                "itemSeparator": "consequat labore d"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "sint voluptate in aliquip",
+    "stderr": "incididunt",
+    "doc": "exercitation pariatur sint Ut officia"
+}

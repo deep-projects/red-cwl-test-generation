@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "v8leMX8": {
+            "type": "double[]?",
+            "inputBinding": {
+                "prefix": "pariatur in",
+                "separate": true,
+                "itemSeparator": ""
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "sunt Ut nostrud",
+    "doc": "do Excepteur deserunt"
+}

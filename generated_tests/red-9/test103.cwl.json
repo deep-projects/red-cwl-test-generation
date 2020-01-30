@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "3GpfrEBdoz": {
+            "type": "boolean",
+            "inputBinding": {
+                "separate": true,
+                "position": 61688104,
+                "itemSeparator": "sint ea sunt"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "laboris cul",
+    "stderr": "Excepteur magn"
+}

@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "VmyzKj": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "officia",
+    "doc": "ea pariatur ex magna consequ"
+}

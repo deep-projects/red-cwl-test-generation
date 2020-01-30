@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "cqWU": {
+            "type": "string",
+            "inputBinding": {
+                "position": 14095579
+            }
+        }
+    },
+    "outputs": {}
+}

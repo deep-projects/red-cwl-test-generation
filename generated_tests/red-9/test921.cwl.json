@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "HuK": {
+            "type": "Directory",
+            "inputBinding": {
+                "prefix": "sint enim nulla sit",
+                "itemSeparator": "sit amet ea"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "magna ullamco"
+}

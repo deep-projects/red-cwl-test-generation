@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "REO06E0p50": {
+            "type": "int[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 83717091,
+                "itemSeparator": "in"
+            }
+        }
+    },
+    "outputs": {}
+}

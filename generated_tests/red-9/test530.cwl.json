@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "hWNvOxBGuG": {
+            "type": "string?",
+            "inputBinding": {
+                "prefix": "adipisicing in nisi",
+                "separate": true,
+                "itemSeparator": "tempor in"
+            },
+            "doc": "dolor sed"
+        }
+    },
+    "outputs": {}
+}

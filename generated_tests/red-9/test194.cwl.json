@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "dg1wYvj274K": {
+            "type": "int?",
+            "inputBinding": {
+                "prefix": "sint incididunt non Excepteur",
+                "separate": false,
+                "itemSeparator": "sed"
+            }
+        }
+    },
+    "outputs": {
+        "5XMX6lS": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "in nisi labore"
+            }
+        }
+    },
+    "baseCommand": "veniam Duis consequat voluptate"
+}

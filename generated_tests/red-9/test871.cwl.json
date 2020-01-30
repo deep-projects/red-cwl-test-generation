@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "d": {
+            "type": "int[]",
+            "inputBinding": {
+                "itemSeparator": "labore commodo anim et dolore"
+            },
+            "doc": "est exercitation"
+        }
+    },
+    "outputs": {
+        "h-tALPZ": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "laboris",
+    "doc": "officia culpa"
+}

@@ -1,0 +1,10 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "DKm3TR5Z4": {
+            "type": "stderr"
+        }
+    }
+}

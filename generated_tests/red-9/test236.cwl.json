@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Yr3nLYo-": {
+            "type": "string[]?",
+            "inputBinding": {
+                "prefix": "Lorem",
+                "separate": true
+            }
+        }
+    },
+    "outputs": {}
+}

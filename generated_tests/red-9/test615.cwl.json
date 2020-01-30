@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "cRY": {
+            "type": "Directory[]",
+            "inputBinding": {},
+            "doc": "Ut dolore est quis"
+        }
+    },
+    "outputs": {
+        "rPW": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "nulla sunt"
+            },
+            "doc": "eu"
+        }
+    },
+    "stderr": "qui dolore Ut non irure"
+}

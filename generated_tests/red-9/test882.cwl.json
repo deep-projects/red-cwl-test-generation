@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "905": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "in commodo qui"
+}

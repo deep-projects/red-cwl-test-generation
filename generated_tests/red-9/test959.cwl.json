@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "zgk3": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "pariatur"
+            },
+            "doc": "esse sint"
+        }
+    },
+    "doc": "pariatur aute"
+}

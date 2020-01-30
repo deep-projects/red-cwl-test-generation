@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "V96EpQw8p": {
+            "type": "boolean[]",
+            "inputBinding": {
+                "position": 58956672
+            }
+        }
+    },
+    "outputs": {}
+}

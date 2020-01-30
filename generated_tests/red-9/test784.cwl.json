@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "GJmh_Kn": {
+            "type": "File[]?",
+            "inputBinding": {
+                "prefix": "sed sit quis",
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "30um": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "in"
+            }
+        }
+    },
+    "baseCommand": null
+}

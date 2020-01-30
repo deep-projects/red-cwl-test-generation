@@ -1,0 +1,31 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8": {
+            "type": "boolean",
+            "inputBinding": {
+                "prefix": "d",
+                "itemSeparator": "nisi est ut cupidatat"
+            }
+        }
+    },
+    "outputs": {
+        "OQ": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": ""
+            }
+        }
+    },
+    "baseCommand": [
+        "labore in ea",
+        "ut dolore",
+        "in Excepteur minim veniam",
+        "voluptate",
+        "consectetur Excepteur aute",
+        "velit magna commodo nostrud exercitation",
+        "ex consequat aliquip ut"
+    ],
+    "stderr": "cupidatat culpa occaecat ullamco ipsum"
+}

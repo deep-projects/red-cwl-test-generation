@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "g": {
+            "type": "File",
+            "inputBinding": {
+                "itemSeparator": "in id mollit"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "anim"
+}

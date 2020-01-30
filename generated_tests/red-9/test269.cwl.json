@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "2fuSTfaq": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "nisi "
+            },
+            "doc": "Duis elit irure anim"
+        }
+    },
+    "stdout": "dolore ipsum id",
+    "doc": "sunt ullamco quis consectetur"
+}

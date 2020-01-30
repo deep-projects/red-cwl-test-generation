@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": [
+        "in eiusmod ex",
+        "aute culpa",
+        "ut nisi nostrud ex esse",
+        "consectetur sunt nulla",
+        "minim ",
+        "Ut nostrud",
+        "eiusmod",
+        "ad adipisicing magna esse",
+        "consequat veniam in minim",
+        "amet voluptate eiusmod qui",
+        "deserunt",
+        "nostrud in nisi",
+        "Duis",
+        "ex consectetur",
+        "proident aliqua commodo voluptate",
+        "laborum"
+    ]
+}

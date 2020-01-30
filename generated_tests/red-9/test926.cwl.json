@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "D": {
+            "type": "double",
+            "inputBinding": {
+                "prefix": "aliqua veniam",
+                "position": 18307279,
+                "itemSeparator": "laborum"
+            }
+        }
+    },
+    "outputs": {}
+}

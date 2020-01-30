@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "jYkwP5z7tr": {
+            "type": "File[]?",
+            "inputBinding": {
+                "position": 50644578
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "reprehenderit"
+}

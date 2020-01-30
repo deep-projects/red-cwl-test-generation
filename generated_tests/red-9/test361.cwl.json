@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Sw-eatDbA": {
+            "type": "boolean[]",
+            "inputBinding": {},
+            "doc": "irure Lorem ipsum adipisicing"
+        }
+    },
+    "outputs": {
+        "lSnBcw0b_": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laboris officia labore Duis incididunt"
+            },
+            "doc": "aute labore ad proident aliquip"
+        }
+    },
+    "stderr": "eiusmod "
+}

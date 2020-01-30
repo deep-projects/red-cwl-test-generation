@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "e": {
+            "type": "File[]?",
+            "inputBinding": {},
+            "doc": "velit consectetur labore in"
+        }
+    },
+    "outputs": {
+        "S4nnZk": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "voluptate dolore do in",
+    "doc": "sit ut tempor"
+}

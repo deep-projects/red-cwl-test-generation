@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "kub5N3j": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "position": 21364791,
+                "itemSeparator": "Lorem et irure incididunt laboris"
+            },
+            "doc": "tempor"
+        }
+    },
+    "outputs": {}
+}

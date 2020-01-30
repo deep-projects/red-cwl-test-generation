@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "3CjO1CW": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "dolore cupidatat n"
+}

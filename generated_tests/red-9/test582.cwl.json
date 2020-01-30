@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "jgzfgXOAI": {
+            "type": "boolean?",
+            "inputBinding": {
+                "prefix": "minim",
+                "separate": false,
+                "position": 67163750
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "officia occ",
+    "doc": "irure non minim"
+}

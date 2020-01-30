@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "qui quis proident commodo",
+    "stderr": "id in et",
+    "doc": "in quis exercitation reprehenderit"
+}

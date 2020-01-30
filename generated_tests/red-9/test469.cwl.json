@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "vI0NWHEmDss": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "qui"
+            }
+        }
+    },
+    "baseCommand": "in nulla",
+    "stdout": "officia laboris sint",
+    "stderr": "labore aute non sed eu"
+}

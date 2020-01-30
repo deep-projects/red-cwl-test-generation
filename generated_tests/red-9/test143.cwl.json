@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "g08ktE8n9": {
+            "type": "float[]",
+            "inputBinding": {
+                "prefix": "deserunt eu exercitation",
+                "separate": false,
+                "position": 78329767
+            }
+        }
+    },
+    "outputs": {
+        "r3u2B5Yf": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "ea eiusmod est",
+    "stdout": "ex Lorem reprehenderit",
+    "stderr": "ex ut"
+}

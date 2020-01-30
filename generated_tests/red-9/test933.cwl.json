@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "q5_D69rTJ": {
+            "type": "string",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "2k": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "in elit ad do exercitation"
+            },
+            "doc": "dolore cupidatat exercitation cillum sit"
+        }
+    },
+    "baseCommand": null
+}

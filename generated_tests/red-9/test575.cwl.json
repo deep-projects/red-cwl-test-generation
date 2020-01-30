@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "TXQ-vIauq-": {
+            "type": "string",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "laborum labore",
+    "doc": "aute labore reprehenderit anim"
+}

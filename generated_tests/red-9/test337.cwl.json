@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "oRmHK": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "culpa dolore"
+            }
+        }
+    },
+    "doc": "ea deserunt"
+}

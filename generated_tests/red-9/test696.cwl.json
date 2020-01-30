@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Bd1ORr-10v": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "esse"
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "ja3P8_888L": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "Lorem ad minim"
+            }
+        }
+    },
+    "stderr": "Ut dolor"
+}

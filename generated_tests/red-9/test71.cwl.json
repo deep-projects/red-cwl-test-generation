@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "IK": {
+            "type": "double",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "anim incididunt"
+            },
+            "doc": "anim commodo "
+        }
+    },
+    "outputs": {
+        "DLjdJemV": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "quis"
+            }
+        }
+    },
+    "stdout": "commodo ullamco sint",
+    "doc": "ad incididunt pariat"
+}

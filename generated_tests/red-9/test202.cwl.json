@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Ir": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "e"
+}

@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8xthee": {
+            "type": "Directory?",
+            "inputBinding": {},
+            "doc": "tempor amet sed"
+        }
+    },
+    "outputs": {},
+    "stderr": "aute do"
+}

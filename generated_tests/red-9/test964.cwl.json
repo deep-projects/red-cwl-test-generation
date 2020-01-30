@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "nOh": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "minim ut",
+                "separate": true,
+                "position": 8265038
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "fugiat exercitation Excepteur dolore",
+    "stderr": "nostrud ipsum dolore",
+    "doc": "adipisicing Lorem labore qui laboris"
+}

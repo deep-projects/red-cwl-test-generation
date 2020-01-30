@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "iiE36": {
+            "type": "Directory?",
+            "inputBinding": {
+                "prefix": "ullamco"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "dolore voluptate exercitation officia",
+    "stderr": "laboris",
+    "doc": "aliquip dolor sint exercitation"
+}

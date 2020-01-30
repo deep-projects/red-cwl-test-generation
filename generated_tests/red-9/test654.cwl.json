@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "51Ds": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "dolor aliqua cillum",
+                "itemSeparator": "exercitation minim aliquip dolore"
+            }
+        }
+    },
+    "outputs": {}
+}

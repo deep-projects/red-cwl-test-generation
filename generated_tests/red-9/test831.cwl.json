@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "b_M": {
+            "type": "string?",
+            "inputBinding": {
+                "position": 57399746
+            },
+            "doc": "sunt sit eiusmod"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "in aliqua aute laboris occaecat",
+    "stdout": "labore fugiat ",
+    "doc": "eu et quis cillu"
+}

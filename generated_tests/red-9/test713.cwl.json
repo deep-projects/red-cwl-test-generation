@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ru45u": {
+            "type": "long?",
+            "inputBinding": {
+                "itemSeparator": "sit tempor veniam"
+            }
+        }
+    },
+    "outputs": {
+        "MpeeRRabqPc": {
+            "type": "stdout"
+        }
+    },
+    "doc": "aliqua"
+}

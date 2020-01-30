@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6ukcnliIH": {
+            "type": "File[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "akpv399rX": {
+            "type": "stdout"
+        }
+    }
+}

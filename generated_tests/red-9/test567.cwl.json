@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "FkN4hUH": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "ut culp"
+}

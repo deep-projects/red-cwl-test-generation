@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "34odQfn9m": {
+            "type": "Directory?",
+            "inputBinding": {
+                "prefix": "sed"
+            }
+        }
+    },
+    "outputs": {
+        "JqU3zqUzP": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "laborum esse",
+    "stderr": "voluptate ad"
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "V7s": {
+            "type": "int",
+            "inputBinding": {
+                "prefix": "do amet",
+                "separate": true,
+                "itemSeparator": "dolore consequat tempor ut"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "amet Duis laboris et",
+    "doc": "labore fugiat in mollit"
+}

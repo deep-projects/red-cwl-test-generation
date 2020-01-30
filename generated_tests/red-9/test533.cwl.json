@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "K1IUJz": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "m",
+                "separate": false,
+                "position": 7295364
+            },
+            "doc": "dolor commodo voluptate consequa"
+        }
+    },
+    "outputs": {}
+}

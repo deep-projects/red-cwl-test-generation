@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "dbus_6UjyE": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "officia Duis eiusmod dolore d",
+                "position": 1085310
+            },
+            "doc": "in incididunt adipisicing quis culpa"
+        }
+    },
+    "outputs": {},
+    "stderr": "reprehenderit adipisicing Excepteur"
+}

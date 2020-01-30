@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "hBWQNC": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "laborum cillum sint"
+}

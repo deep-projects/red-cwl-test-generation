@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "vJwv5nI": {
+            "type": "int[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "0Dn3cz_": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "eu ut ex commodo cillum"
+            },
+            "doc": "fugiat non exercitation in Lore"
+        }
+    },
+    "stderr": "exercitation sed r",
+    "doc": "cupidatat laboris irure"
+}

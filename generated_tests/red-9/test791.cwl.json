@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8Y5Lc": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "enim tempo",
+                "position": 44187952,
+                "itemSeparator": "pariatur mollit do reprehenderit"
+            }
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rZER22": {
+            "type": "float",
+            "inputBinding": {
+                "prefix": "qui cillum aliqua",
+                "separate": true,
+                "itemSeparator": "eiusmod officia"
+            }
+        }
+    },
+    "outputs": {
+        "yKBXEU8wIJ8": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "nisi est veniam do minim"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "id dolor"
+}

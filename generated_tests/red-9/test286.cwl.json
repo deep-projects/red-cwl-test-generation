@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "YQW-9YMr": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "aliquip consequat sit"
+            }
+        }
+    }
+}

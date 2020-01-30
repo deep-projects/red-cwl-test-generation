@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "non",
+    "doc": "id minim est sint Ut"
+}

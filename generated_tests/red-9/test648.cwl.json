@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "dHx92Os4vc": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "amet nulla irure"
+            }
+        }
+    },
+    "baseCommand": [
+        "qui consequat sed id",
+        "proident",
+        "proident qui",
+        "irure",
+        "incididunt",
+        "est Exc",
+        "consectetur nostrud proident Duis",
+        "in esse tempor paria",
+        "do ex consequat"
+    ],
+    "stdout": "mollit magna minim aliqua eu"
+}

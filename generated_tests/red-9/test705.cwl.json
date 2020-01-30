@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "ullamco labore",
+    "doc": "mollit ea ullamco in ex"
+}

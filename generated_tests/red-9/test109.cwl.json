@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1aor": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "prefix": "ut",
+                "position": 70841675,
+                "itemSeparator": "quis sit aliquip"
+            }
+        }
+    },
+    "outputs": {
+        "4q_A": {
+            "type": "stderr"
+        }
+    }
+}

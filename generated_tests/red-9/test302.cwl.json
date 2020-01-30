@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "7QE": {
+            "type": "File[]",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "laborum adipis"
+}

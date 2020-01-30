@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "MCc": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "prefix": "labore"
+            },
+            "doc": "amet non minim in"
+        }
+    },
+    "outputs": {},
+    "stdout": "eu"
+}

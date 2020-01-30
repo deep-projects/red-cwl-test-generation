@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "5w": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "prefix": "fugiat aliqua commodo voluptate ea",
+                "itemSeparator": "qui est"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "ad Excepteur",
+    "stderr": "ullamco Ut ipsum sed",
+    "doc": "Excepteur irure"
+}

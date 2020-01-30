@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "UgQ05l_DizT": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "velit commodo Lorem ut"
+            }
+        }
+    },
+    "stdout": "sit fugiat laborum est"
+}

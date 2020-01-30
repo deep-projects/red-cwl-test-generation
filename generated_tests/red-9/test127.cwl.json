@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "F3UBK4": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "aute"
+            }
+        }
+    }
+}

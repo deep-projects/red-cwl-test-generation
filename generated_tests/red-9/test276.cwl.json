@@ -1,0 +1,44 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "69w": {
+            "type": "File[]?",
+            "inputBinding": {
+                "prefix": "cupidatat sunt sint mollit ad",
+                "itemSeparator": "Excepteur laborum"
+            },
+            "doc": "et nisi magna deserunt"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "do laboris dolor nulla ut",
+        "sed laboris proident",
+        "ut eiusmod deseru",
+        "et consectet",
+        "esse",
+        "id nisi culpa est",
+        "officia",
+        "in voluptate Lorem",
+        "veniam commodo consectetur",
+        "Duis dolore",
+        "ipsum",
+        "eu quis tempor enim pariatur",
+        "in velit commodo irure fugiat",
+        "se",
+        "aute sit do eu id",
+        "sint qui ipsu",
+        "occaecat",
+        "magna Ut",
+        "sint laborum do",
+        "ut irure",
+        "nulla dolor qui",
+        "fugiat tempor eu",
+        "eu dolore consequat ea adipisicing",
+        "dolor dolore tempor commodo",
+        "deserunt"
+    ],
+    "stderr": "anim nostrud do",
+    "doc": "ut nostrud enim est proiden"
+}

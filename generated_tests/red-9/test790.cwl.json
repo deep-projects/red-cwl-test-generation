@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "9usZNjpbsjC": {
+            "type": "string?",
+            "inputBinding": {
+                "prefix": "dolore id voluptate et sed",
+                "separate": true,
+                "position": 71089169
+            },
+            "doc": "tempor pariatur consectetur ullamco deserunt"
+        }
+    },
+    "outputs": {
+        "GcIhjStbh8j": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "consequat sed deserunt et proident",
+    "stderr": "aut"
+}

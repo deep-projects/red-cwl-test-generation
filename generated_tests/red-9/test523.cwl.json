@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ueMcbEU": {
+            "type": "int?",
+            "inputBinding": {},
+            "doc": "ut"
+        }
+    },
+    "outputs": {
+        "GZg8Ob": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "exercitation sunt",
+    "stderr": "nisi incididunt dolor venia",
+    "doc": "irure do dolore"
+}

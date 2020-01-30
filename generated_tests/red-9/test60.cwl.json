@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "KmOm": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "minim esse irure",
+    "doc": "culpa magna"
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "9GwuD-oqTH": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "et"
+            },
+            "doc": "voluptate"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "voluptate in",
+    "stderr": "Duis enim dolore deserunt Lorem"
+}

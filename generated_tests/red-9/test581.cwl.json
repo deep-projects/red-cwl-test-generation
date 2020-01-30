@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "W9n": {
+            "type": "boolean",
+            "inputBinding": {
+                "prefix": "aute sunt",
+                "position": 41560715,
+                "itemSeparator": "ex"
+            }
+        }
+    },
+    "outputs": {}
+}

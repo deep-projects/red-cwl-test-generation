@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "gVU6Ga": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "fugiat cupidatat proident",
+    "stdout": "eiusmod laboris"
+}

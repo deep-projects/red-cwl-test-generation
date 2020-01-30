@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Q3h5": {
+            "type": "int",
+            "inputBinding": {
+                "itemSeparator": "in dolor commodo"
+            },
+            "doc": "id aliquip"
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-TuK0": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "itemSeparator": "commodo non sed ullamco"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "doc": "aliquip adipisicing reprehenderit ipsum"
+}

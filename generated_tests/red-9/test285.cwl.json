@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "xUKLbRcGPaY": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "nostrud",
+    "stdout": "sunt esse ut qui"
+}

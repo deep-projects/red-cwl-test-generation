@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "UJCa6I7X": {
+            "type": "int[]",
+            "inputBinding": {
+                "separate": true,
+                "position": 95002485,
+                "itemSeparator": "temp"
+            },
+            "doc": "aute eu Lorem in"
+        }
+    },
+    "outputs": {
+        "jpAmC7i0v2a": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "dolor"
+}

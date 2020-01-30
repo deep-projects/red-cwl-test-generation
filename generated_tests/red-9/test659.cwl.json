@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "JWl5H": {
+            "type": "long[]?",
+            "inputBinding": {
+                "position": 39459064,
+                "itemSeparator": "velit ex voluptate aute dolor"
+            }
+        }
+    },
+    "outputs": {
+        "z7": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "elit ea incididunt sit"
+            }
+        }
+    },
+    "stdout": "ad ex",
+    "stderr": "sit eiusmod voluptate",
+    "doc": "culpa ad ea officia eu"
+}

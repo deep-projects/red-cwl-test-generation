@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "z6p": {
+            "type": "Directory",
+            "inputBinding": {
+                "position": 1920890,
+                "itemSeparator": "consequat ex ea eiusmod est"
+            },
+            "doc": "consequat pariatur id"
+        }
+    },
+    "outputs": {},
+    "stdout": "nisi",
+    "doc": "laborum pariatur magna id"
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "j_uXI3": {
+            "type": "long",
+            "inputBinding": {
+                "position": 62880184
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "dolor consequat incididunt ea",
+    "doc": "commodo "
+}

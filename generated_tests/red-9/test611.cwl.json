@@ -1,0 +1,64 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "bhJR": {
+            "type": "float[]",
+            "inputBinding": {
+                "prefix": "sunt pariatur Ut consequat nostrud",
+                "separate": true,
+                "itemSeparator": "do"
+            },
+            "doc": "in exercitation esse cillum dolor"
+        }
+    },
+    "outputs": {
+        "Hspt": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "dolore consequat"
+            },
+            "doc": "id voluptate"
+        }
+    },
+    "baseCommand": [
+        "in",
+        "in",
+        "adipisicing deser",
+        "Excepteur",
+        "magna et officia sed",
+        "quis amet deserunt",
+        "in dolor in proident",
+        "n",
+        "deserunt aliqua irure est",
+        "nisi",
+        "ipsum velit commodo cillum",
+        "dolore esse ea enim",
+        "elit",
+        "consectetur sed tempor cillum",
+        "ea anim pariatur quis",
+        "occaecat aliquip cillum magna velit",
+        "commod",
+        "dolor Ut",
+        "nostrud dolor incididunt in",
+        "irure laborum elit amet",
+        "in",
+        "incididunt",
+        "velit do aliquip minim",
+        "consequat eu proident aliquip tempor",
+        "magna cupidatat tempor laborum",
+        "elit in dolore voluptate",
+        "ea incididunt",
+        "et",
+        "anim occaecat ex incididunt",
+        "dolore dolor esse",
+        "deserunt do",
+        "voluptate cillum",
+        "occaecat voluptate Ut",
+        "fugiat veniam Lorem",
+        "eu nulla Ut voluptate minim",
+        "ipsum velit nisi eu laborum",
+        "enim eiusmod anim"
+    ],
+    "doc": "ea nulla sint laboris"
+}

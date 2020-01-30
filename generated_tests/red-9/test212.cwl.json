@@ -1,0 +1,57 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "CzFO1q": {
+            "type": "float[]",
+            "inputBinding": {
+                "prefix": "ipsum",
+                "itemSeparator": "est esse"
+            },
+            "doc": "pariatur ad sed"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "id ",
+        "culpa aliqua veniam voluptate",
+        "cupidatat nisi in proident nulla",
+        "",
+        "cupidatat cillum do",
+        "dolore",
+        "exercitation incididunt",
+        "cillum Lorem ut ad",
+        "aliquip est laboris",
+        "ea elit ",
+        "ullamc",
+        "eiusmod fugiat officia",
+        "Ut",
+        "ullamco est",
+        "tempor eiusmod sunt officia ullamco",
+        "deserunt ex dolor sit nostrud",
+        "consequat eu sint",
+        "veniam proident esse aliqua",
+        "sit minim Lorem cillum ",
+        "consectetur dolor tempor",
+        "enim ex sint",
+        "reprehenderit consequat est labore",
+        "velit sunt commodo amet ex",
+        "consec",
+        "nostrud dolor",
+        "reprehenderit",
+        "minim Ut enim do",
+        "mollit laborum nostrud ex nulla",
+        "aliqua",
+        "esse anim officia",
+        "laboris sint",
+        "Excepteur nostrud et aliquip",
+        "culpa eiusmod eu sint",
+        "id aliqua elit",
+        "occaecat eiusmod",
+        "dolor",
+        "anim nulla",
+        "dol",
+        "ea"
+    ],
+    "doc": "do eu"
+}

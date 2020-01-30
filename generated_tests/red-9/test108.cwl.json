@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Ko": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "prefix": "qui culpa sint labore dolor",
+                "position": 25717097
+            }
+        }
+    },
+    "outputs": {
+        "2R2f9iR": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "Duis minim eu"
+            }
+        }
+    },
+    "stdout": "dolore",
+    "stderr": "sunt",
+    "doc": "fugiat incididunt commodo pariatur"
+}

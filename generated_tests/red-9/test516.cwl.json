@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "FIS": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "non voluptate"
+            }
+        }
+    }
+}

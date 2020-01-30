@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "WA8J_2Juq-l": {
+            "type": "long",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "F3WDR9C8": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "reprehenderit"
+            }
+        }
+    }
+}

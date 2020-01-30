@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rxamN0": {
+            "type": "long?",
+            "inputBinding": {
+                "prefix": "consectetur ad tempor aliquip sit",
+                "separate": false,
+                "itemSeparator": "est fugiat"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "dolore sunt nisi"
+}

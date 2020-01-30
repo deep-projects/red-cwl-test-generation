@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "RtVw5RD": {
+            "type": "long[]?",
+            "inputBinding": {
+                "position": 36102076
+            },
+            "doc": "officia quis proident ut"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "mollit consequat",
+    "stdout": "laboris dolore Excepteur officia qui"
+}

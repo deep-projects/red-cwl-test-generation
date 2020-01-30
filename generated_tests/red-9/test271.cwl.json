@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "s8G-uAEw6": {
+            "type": "double[]?",
+            "inputBinding": {
+                "itemSeparator": "irure aliquip esse fug"
+            },
+            "doc": "ad sunt"
+        }
+    },
+    "outputs": {},
+    "stdout": "velit nisi",
+    "stderr": "elit veniam qui Lorem",
+    "doc": "voluptate nulla non laborum"
+}

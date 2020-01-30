@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "F0ixh4Y": {
+            "type": "long[]",
+            "inputBinding": {
+                "position": 77325550
+            },
+            "doc": "deserunt dolor occaecat"
+        }
+    },
+    "outputs": {},
+    "doc": "cillum reprehenderit"
+}

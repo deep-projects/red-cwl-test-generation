@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "vM1Z": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "ipsum",
+                "separate": true
+            }
+        }
+    },
+    "outputs": {
+        "Pd": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "ad enim cupida"
+            }
+        }
+    },
+    "baseCommand": "nostrud ut e",
+    "stdout": "nostrud",
+    "stderr": "officia aute commodo laborum"
+}

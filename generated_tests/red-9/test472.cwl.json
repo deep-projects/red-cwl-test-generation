@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "jz-TB": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "in nisi"
+            }
+        }
+    },
+    "baseCommand": "culpa Duis",
+    "stdout": "exercitation anim amet dolor"
+}

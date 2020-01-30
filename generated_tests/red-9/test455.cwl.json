@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "L": {
+            "type": "float[]?",
+            "inputBinding": {
+                "position": 92677722
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "velit pariatur dolore ex dolore"
+}

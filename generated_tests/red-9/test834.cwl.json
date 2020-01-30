@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "i4EN": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "reprehenderit inc"
+            },
+            "doc": "dolore Excepteur ut reprehenderit"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-Cj6sUB5": {
+            "type": "float",
+            "inputBinding": {
+                "itemSeparator": "Duis dolore dolore"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "ad veniam occaecat Duis",
+    "doc": "Duis Ut"
+}

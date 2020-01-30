@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "eQEL0hSVB4": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": false,
+                "position": 31142279
+            },
+            "doc": "quis eiusmod Ut elit et"
+        }
+    },
+    "outputs": {
+        "kkT": {
+            "type": "stdout"
+        }
+    },
+    "doc": "in anim mollit ad"
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-Rj": {
+            "type": "float",
+            "inputBinding": {
+                "prefix": "ad",
+                "separate": false,
+                "position": 19355904
+            },
+            "doc": "id"
+        }
+    },
+    "outputs": {},
+    "stdout": "ipsum exercitation aliquip"
+}

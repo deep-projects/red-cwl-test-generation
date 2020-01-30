@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "RoZES2mi": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "prefix": "aliquip",
+                "separate": false,
+                "position": 87215514
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "ut nostrud ipsum est",
+    "stdout": "dolor tempor veniam eiusmod occaecat",
+    "doc": "Duis magna in"
+}

@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1Gsu": {
+            "type": "int",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "JbD7N": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "irure non incididunt laborum in"
+            }
+        }
+    }
+}

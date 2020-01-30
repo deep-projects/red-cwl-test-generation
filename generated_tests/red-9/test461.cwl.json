@@ -1,0 +1,37 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "hH4": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": [
+        "officia",
+        "dolore",
+        "deserunt labore eiusmod incididunt",
+        "sed ipsum",
+        "irure consectetur dolore",
+        "dolor",
+        "ut sint do commodo",
+        "sint",
+        "dolor elit cupidatat ipsum consequat",
+        "quis enim est incididunt amet",
+        "ali",
+        "ut sit mollit commodo fugiat",
+        "nostrud ut sed irure",
+        "",
+        "deserunt",
+        "elit",
+        "adipisicing Duis c",
+        "voluptate nostrud",
+        "exercitation non sint",
+        "in proident",
+        "esse",
+        "qui",
+        "voluptate enim in sed aute",
+        "pariatur"
+    ],
+    "stderr": "amet officia"
+}

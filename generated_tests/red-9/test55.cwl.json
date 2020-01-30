@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "l9ExCkBani7": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "in dolor elit ut"
+            },
+            "doc": "ut id sit elit"
+        }
+    }
+}

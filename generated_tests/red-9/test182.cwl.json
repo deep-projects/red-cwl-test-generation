@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "4": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "sunt qui",
+                "separate": true,
+                "position": 30128846
+            },
+            "doc": "esse incididunt veniam"
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fcGNjebZt4_": {
+            "type": "Directory[]",
+            "inputBinding": {},
+            "doc": "elit"
+        }
+    },
+    "outputs": {
+        "PWQtiriQ": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "esse dolor amet"
+}

@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "2pb8EPZE": {
+            "type": "boolean?",
+            "inputBinding": {
+                "prefix": "deserunt ut amet ut velit",
+                "itemSeparator": "est non"
+            }
+        }
+    },
+    "outputs": {
+        "Q": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "inci"
+            },
+            "doc": "cupidata"
+        }
+    },
+    "stdout": "irure do"
+}

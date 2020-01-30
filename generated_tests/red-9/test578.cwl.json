@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "K28eL": {
+            "type": "int?",
+            "inputBinding": {
+                "prefix": "ullamco officia reprehenderit anim ut",
+                "separate": true,
+                "itemSeparator": "ex ipsum"
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "esse ad do Lorem i"
+}

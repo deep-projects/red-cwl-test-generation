@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "3_rkmsG": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "aliqua velit mollit"
+            },
+            "doc": "est"
+        }
+    },
+    "baseCommand": "dolor in ut ullamco"
+}

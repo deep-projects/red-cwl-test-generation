@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sHKjdRo3O": {
+            "type": "string?",
+            "inputBinding": {
+                "prefix": "tempor",
+                "itemSeparator": "aliqua"
+            },
+            "doc": "id laboris culpa dolore"
+        }
+    },
+    "outputs": {}
+}

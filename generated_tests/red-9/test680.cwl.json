@@ -1,0 +1,34 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "LSfNEXbDzC4": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "deserunt laboris",
+        "enim in",
+        "dolore esse dolor nisi",
+        "ut velit elit ea",
+        "commodo cupidatat in in minim",
+        "quis amet aliqui",
+        "qui ut magna adipisicing",
+        "laborum",
+        "sit nostrud ad",
+        "occaecat adipisicing nisi in",
+        "nulla fugiat nostrud consequat mollit",
+        "sit dolore enim",
+        "cupidatat officia sit",
+        "id ea ut",
+        "deserunt sed non sit",
+        "nostrud laborum dolore voluptate minim",
+        "magna",
+        "reprehenderit nostrud in",
+        "est do Ut aliqua",
+        "voluptate laborum",
+        "aliquip"
+    ],
+    "stdout": "velit sit proident dolore"
+}

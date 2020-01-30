@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "9Gx8j5gM9c": {
+            "type": "float",
+            "inputBinding": {
+                "position": 13853132
+            },
+            "doc": "dolor sit ad"
+        }
+    },
+    "outputs": {
+        "OS6o": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "consequat do",
+    "doc": "Duis ut labor"
+}

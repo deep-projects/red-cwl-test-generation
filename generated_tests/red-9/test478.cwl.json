@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Kr": {
+            "type": "long[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stderr": "irure cillum velit aliquip ut"
+}

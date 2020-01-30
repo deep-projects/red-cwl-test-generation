@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "r": {
+            "type": "boolean",
+            "inputBinding": {
+                "prefix": "ea dolor cillum",
+                "separate": true,
+                "itemSeparator": "eiusmod est nulla"
+            },
+            "doc": "volupta"
+        }
+    },
+    "outputs": {
+        "4jkYMaXJ6O": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "consectetur sunt",
+    "stderr": "enim"
+}

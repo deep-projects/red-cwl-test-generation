@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "aTgBf4": {
+            "type": "string[]",
+            "inputBinding": {
+                "prefix": "elit exercitation incididunt minim officia",
+                "position": 5057687
+            }
+        }
+    },
+    "outputs": {}
+}

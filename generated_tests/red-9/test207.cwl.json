@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "GB6yiEwJPuq": {
+            "type": "long[]?",
+            "inputBinding": {
+                "position": 81162179
+            }
+        }
+    },
+    "outputs": {
+        "xT-hije_": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "irure Lorem voluptate",
+    "stderr": "nulla irure non exercitation",
+    "doc": "dolor enim"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "nX4cTmsfbmF": {
+            "type": "long",
+            "inputBinding": {
+                "position": 60983033
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "est aliqua quis",
+    "doc": "ut"
+}

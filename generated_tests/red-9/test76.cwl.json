@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "33": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "sed ut"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "pariatur nostrud officia"
+}

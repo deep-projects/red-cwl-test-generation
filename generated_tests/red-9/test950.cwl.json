@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "85T99_M": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "proident in sint labore reprehenderit",
+    "doc": "id tempor in magna"
+}

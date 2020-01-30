@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "5Swsfi1N": {
+            "type": "int[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stdout": "Duis cillum sint",
+    "doc": "irure consequat deserunt ullamco"
+}

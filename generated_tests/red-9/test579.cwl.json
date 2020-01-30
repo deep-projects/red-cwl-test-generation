@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "h9g": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "des"
+            },
+            "doc": "laboris ipsum"
+        }
+    },
+    "baseCommand": "ipsum adipisicing sed reprehenderit mollit",
+    "doc": "aute nulla eiusmod"
+}

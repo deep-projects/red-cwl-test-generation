@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fiYbl0t": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "prefix": "enim nisi",
+                "position": 84110091
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "aliqua est do laboris",
+    "stderr": "in quis elit consequat reprehenderit"
+}

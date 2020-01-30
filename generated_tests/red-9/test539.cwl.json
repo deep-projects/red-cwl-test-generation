@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "GWwTiEhl6uN": {
+            "type": "boolean[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "BLcq9": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "aliquip",
+    "doc": "mol"
+}

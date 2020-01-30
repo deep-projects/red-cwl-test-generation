@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "KiP": {
+            "type": "int",
+            "inputBinding": {
+                "prefix": "ut nisi",
+                "position": 98694185
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "esse ipsum",
+        "laboris aute ex nost",
+        "aliquip"
+    ],
+    "stdout": "ipsum proident non"
+}

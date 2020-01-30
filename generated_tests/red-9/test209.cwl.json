@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "5": {
+            "type": "int[]?",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "exercitation sint nulla do",
+    "stderr": "voluptate adipisicing"
+}

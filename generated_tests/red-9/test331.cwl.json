@@ -1,0 +1,43 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ZLLV": {
+            "type": "string?",
+            "inputBinding": {
+                "prefix": "proident exercitation Duis voluptate",
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "y1vLp": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "aute",
+        "Duis ullamco deserunt culpa",
+        "mollit Duis",
+        "in",
+        "laborum magna do Duis ut",
+        "consectetur",
+        "ipsum aute eu",
+        "sunt reprehenderit nulla",
+        "amet Excepteur",
+        "anim",
+        "do",
+        "in",
+        "fugiat anim amet dolor",
+        "dolor proident Ut ut",
+        "null",
+        "non cupidatat in proident",
+        "aliquip",
+        "non sit deserunt eu enim",
+        "in aute et velit",
+        "cillum incidid",
+        "in",
+        "voluptate"
+    ],
+    "stderr": "commodo sunt exercitation incididunt reprehenderit"
+}

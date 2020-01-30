@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "u6X": {
+            "type": "float[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "75cL0": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null
+}

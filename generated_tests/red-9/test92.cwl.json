@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "2Uz_OO2": {
+            "type": "Directory[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "yhU": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "ullamco repre",
+    "stderr": "occaecat fugiat nulla veniam"
+}

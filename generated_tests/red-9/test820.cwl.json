@@ -1,0 +1,26 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "3": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "prefix": "cupidatat quis Lorem exercitation",
+                "position": 85936367,
+                "itemSeparator": "occaecat consequat in"
+            },
+            "doc": "ut sint"
+        }
+    },
+    "outputs": {
+        "od": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "amet"
+            },
+            "doc": "magna minim cupidatat"
+        }
+    },
+    "baseCommand": null,
+    "doc": "ut"
+}

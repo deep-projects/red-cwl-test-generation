@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": "anim velit Duis elit",
+    "stdout": "laborum do dolore eu qui",
+    "doc": "id dolor"
+}

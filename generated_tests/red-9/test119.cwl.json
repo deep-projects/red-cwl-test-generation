@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": "veniam elit",
+    "stdout": "aute non officia magna aliquip",
+    "stderr": "ut sit qui"
+}

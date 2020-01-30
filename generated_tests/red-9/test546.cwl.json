@@ -1,0 +1,10 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "D-Eu_-5gK": {
+            "type": "stdout"
+        }
+    }
+}

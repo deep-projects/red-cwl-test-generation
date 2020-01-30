@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "UsTxZ36": {
+            "type": "File[]?",
+            "inputBinding": {},
+            "doc": "ut sunt commodo elit"
+        }
+    },
+    "outputs": {},
+    "stdout": "ut",
+    "stderr": "occaecat in anim pariatur cupidatat",
+    "doc": "laboris velit pariatur ut mag"
+}

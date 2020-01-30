@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "hj-dn8Hx": {
+            "type": "boolean",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "exercitation Lorem nulla"
+}

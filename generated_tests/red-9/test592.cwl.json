@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1XN9R": {
+            "type": "boolean?",
+            "inputBinding": {
+                "prefix": "nisi proident anim",
+                "separate": true,
+                "itemSeparator": "adipisicing"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "cillum mollit proident aliquip",
+    "stderr": "officia",
+    "doc": "Lorem nisi laborum do"
+}

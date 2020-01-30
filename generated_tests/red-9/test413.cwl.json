@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "6OiatV": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "enim veniam Lorem",
+    "doc": "culpa est laboris"
+}

@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "z": {
+            "type": "File[]?",
+            "inputBinding": {
+                "prefix": "in",
+                "itemSeparator": "nisi Lorem adipisicing occaecat ut"
+            }
+        }
+    },
+    "outputs": {
+        "gD8Pm": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "in dolor"
+            }
+        }
+    },
+    "doc": "dolore irure mollit"
+}

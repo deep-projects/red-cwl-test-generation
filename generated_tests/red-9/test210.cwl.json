@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "x": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 37051985,
+                "itemSeparator": "amet laboris officia in"
+            },
+            "doc": "dolor consectetur"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "quis sit deserunt id",
+    "stderr": "sit aliquip occaecat labore",
+    "doc": "ipsum ullamco aute"
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "kbvu9": {
+            "type": "Directory",
+            "inputBinding": {
+                "prefix": "velit esse anim pariatur",
+                "position": 23042727
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "ad reprehenderit anim magna consectetur",
+    "stderr": "ut occaecat minim sunt dolore",
+    "doc": "magna ut sed esse"
+}

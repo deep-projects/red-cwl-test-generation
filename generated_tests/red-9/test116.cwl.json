@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "PIAN8UTx6": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "cupidatat ea culpa incididunt"
+            }
+        }
+    },
+    "stdout": "Excepteur minim",
+    "stderr": "non ullamco sunt Duis"
+}

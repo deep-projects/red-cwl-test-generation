@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "ABlDcLJA_tc": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "cillum Duis ea"
+            }
+        }
+    }
+}

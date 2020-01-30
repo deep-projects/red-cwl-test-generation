@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "99ZsP": {
+            "type": "Directory",
+            "inputBinding": {
+                "prefix": "non ut"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "nisi culpa aute sunt"
+}

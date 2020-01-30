@@ -1,0 +1,80 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-mq": {
+            "type": "long[]",
+            "inputBinding": {
+                "separate": false,
+                "position": 51524491
+            },
+            "doc": "irure"
+        }
+    },
+    "outputs": {
+        "hCgW6": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": [
+        "commodo dolore ex ad",
+        "Ut nisi adipisicing labore",
+        "velit sunt dolore",
+        "exercitation qui",
+        "fugiat Ut dolor",
+        "ipsum",
+        "in aute proident quis nostrud",
+        "anim in laborum",
+        "ut ullamco consequat et reprehenderit",
+        "qui amet in consectetur nulla",
+        "deserunt dolore quis velit mollit",
+        "Excepteur id sint",
+        "consequat laborum ex nulla nisi",
+        "tempor sit",
+        "voluptate eiusmod eu tempor",
+        "velit c",
+        "aliquip qui",
+        "minim dolor laborum nisi",
+        "ut adipisicing tempor cupidatat",
+        "ad id",
+        "dolor proident esse voluptate nostrud",
+        "pariatur irure commodo elit anim",
+        "dolor incididunt",
+        "reprehenderit labore ullamco veniam",
+        "aliquip",
+        "labore",
+        "eiusmo",
+        "cillum",
+        "nisi",
+        "enim adipisicing nostrud eiusmod veniam",
+        "ex sit",
+        "ullamco amet enim irure",
+        "est nostrud sed",
+        "fugiat deserunt Ut commodo",
+        "",
+        "cillum proident ad elit anim",
+        "ut",
+        "fugiat pa",
+        "Excepteur dolore Lorem",
+        "dolor ut sint",
+        "ut proident occaecat commodo",
+        "dolore dolore eiusmod ullamco ve",
+        "sint consequat no",
+        "voluptate",
+        "anim et occaecat consequat",
+        "do",
+        "Ut consectetur in",
+        "qui tempor elit",
+        "Ut c",
+        "voluptate id",
+        "nostrud elit",
+        "cillum dolore in",
+        "ut nulla Lorem",
+        "veniam anim ipsum",
+        "veniam magna consectetur commodo",
+        "elit reprehenderit",
+        "quis proident id",
+        "sint nostrud"
+    ],
+    "stderr": "in mollit id"
+}

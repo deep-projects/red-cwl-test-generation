@@ -1,0 +1,26 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "gxo8mmcN": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "et",
+                "position": 85095639
+            },
+            "doc": "qui in"
+        }
+    },
+    "outputs": {
+        "iRkaVwJ": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "nisi"
+            },
+            "doc": "laborum"
+        }
+    },
+    "stdout": "nisi ad quis",
+    "stderr": "reprehenderit pariat",
+    "doc": "tempo"
+}

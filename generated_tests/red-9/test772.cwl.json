@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "vtRii1": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "veniam consectetur de"
+            }
+        }
+    },
+    "stdout": "consequat elit",
+    "stderr": "Ut officia",
+    "doc": "proident Duis anim "
+}

@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "8Y3Mxh790": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "in adipisicing aliquip tempor id"
+            }
+        }
+    },
+    "stderr": ""
+}

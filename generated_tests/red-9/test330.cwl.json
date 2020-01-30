@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "GDJxWL5q-_q": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "consectetur veniam ex in"
+            }
+        }
+    },
+    "baseCommand": "fugiat pariatur sed nisi magna",
+    "doc": "reprehe"
+}

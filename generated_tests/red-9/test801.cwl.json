@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "q9cA": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laborum"
+            },
+            "doc": "cillum"
+        }
+    },
+    "stdout": "veniam",
+    "stderr": "mollit aliqua",
+    "doc": "nisi minim"
+}

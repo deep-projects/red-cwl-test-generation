@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "f2r": {
+            "type": "Directory?",
+            "inputBinding": {
+                "position": 58060797,
+                "itemSeparator": "eu co"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "velit"
+}

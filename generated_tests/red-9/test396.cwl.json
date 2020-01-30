@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "CWIE": {
+            "type": "File[]?",
+            "inputBinding": {
+                "position": 23278621
+            }
+        }
+    },
+    "outputs": {
+        "_mx7xOj99nj": {
+            "type": "stdout"
+        }
+    },
+    "doc": "reprehenderit elit co"
+}

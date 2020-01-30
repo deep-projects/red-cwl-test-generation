@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "2": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "Duis",
+                "position": 62612514,
+                "itemSeparator": "ex laborum"
+            }
+        }
+    },
+    "outputs": {
+        "Uw3": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "deserunt"
+            }
+        }
+    },
+    "doc": "aliqua culpa nulla"
+}

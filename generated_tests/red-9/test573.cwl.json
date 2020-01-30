@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "NRe": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "separate": false,
+                "position": 71741545,
+                "itemSeparator": "mollit in est sunt dolor"
+            }
+        }
+    },
+    "outputs": {}
+}

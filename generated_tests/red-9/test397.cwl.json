@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "hgASEQnigdA": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "veniam"
+            }
+        }
+    },
+    "baseCommand": "reprehenderi"
+}

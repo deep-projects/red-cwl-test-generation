@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rOpVstf": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "eiusmod",
+                "position": 35092796,
+                "itemSeparator": "in consequat ad in cillum"
+            },
+            "doc": "eiusmod consectetur"
+        }
+    },
+    "outputs": {},
+    "stdout": "aute veniam",
+    "doc": "sint Lorem sit n"
+}

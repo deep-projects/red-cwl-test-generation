@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "TZ-xYqDhFI": {
+            "type": "File?",
+            "inputBinding": {},
+            "doc": "aliqua anim aute nulla"
+        }
+    },
+    "outputs": {}
+}

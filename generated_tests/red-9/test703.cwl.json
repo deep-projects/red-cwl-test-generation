@@ -1,0 +1,10 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "_hzPzCio9": {
+            "type": "stderr"
+        }
+    }
+}

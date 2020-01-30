@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "RNOCPubEbYU": {
+            "type": "string[]?",
+            "inputBinding": {
+                "separate": true
+            },
+            "doc": "ullamco"
+        }
+    },
+    "outputs": {
+        "E": {
+            "type": "stdout"
+        }
+    }
+}

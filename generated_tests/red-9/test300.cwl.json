@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "FNP": {
+            "type": "double[]",
+            "inputBinding": {
+                "position": 14101660
+            }
+        }
+    },
+    "outputs": {
+        "m2": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "tempor"
+            },
+            "doc": "sed minim adipisicing sunt anim"
+        }
+    },
+    "stderr": "in ea enim laborum eius"
+}

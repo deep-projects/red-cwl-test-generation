@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "MeSfAyl5j": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "in enim veniam"
+}

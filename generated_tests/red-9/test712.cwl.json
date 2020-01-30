@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "4fcAvN": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "ea in veniam voluptate ei"
+            }
+        }
+    }
+}

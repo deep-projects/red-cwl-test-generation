@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Jtuqb-N": {
+            "type": "int[]",
+            "inputBinding": {},
+            "doc": "sit voluptate cupidatat in"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "doc": "dolore"
+}

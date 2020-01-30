@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "nx": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "prefix": "in exercitation nisi ipsum aliqua",
+                "separate": true,
+                "itemSeparator": "consectetur"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "magna irure"
+}

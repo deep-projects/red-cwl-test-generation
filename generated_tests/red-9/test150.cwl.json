@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "tsfX": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "sint et nisi",
+    "doc": "ut sed in cillum dolore"
+}

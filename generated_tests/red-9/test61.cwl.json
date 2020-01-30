@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1fL": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 19048414
+            },
+            "doc": "magna nisi dolore in"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "sed id qui laborum ut"
+}

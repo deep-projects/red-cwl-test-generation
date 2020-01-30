@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "akG": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "Ut aliquip"
+            },
+            "doc": "enim pariatur occaecat voluptate"
+        }
+    }
+}

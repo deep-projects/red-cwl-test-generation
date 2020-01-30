@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Z414-l-2M7Y": {
+            "type": "long[]?",
+            "inputBinding": {
+                "separate": true
+            },
+            "doc": "magna "
+        }
+    },
+    "outputs": {
+        "pA1mj8ATe": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "enim magna Ut",
+    "stdout": "nostrud tempor ex irure"
+}

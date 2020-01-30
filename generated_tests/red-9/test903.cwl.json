@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "B": {
+            "type": "string?",
+            "inputBinding": {
+                "position": 56246650
+            },
+            "doc": "adipisicing deserunt mollit aliquip"
+        }
+    },
+    "outputs": {
+        "5Wb7RctG": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "ad tempor minim enim cupidatat"
+            }
+        }
+    },
+    "baseCommand": "amet",
+    "stderr": "ipsum voluptate"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "tC": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "et non",
+                "position": 71638780,
+                "itemSeparator": "ut et"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "exercitation pariatur enim cillum"
+}

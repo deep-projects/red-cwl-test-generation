@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-Urr6Nuc": {
+            "type": "float[]?",
+            "inputBinding": {
+                "position": 72922238
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "",
+    "stderr": "dolor reprehend"
+}

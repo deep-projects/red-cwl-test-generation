@@ -1,0 +1,28 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": [
+        "ea sunt proident ipsum",
+        "nulla proident anim",
+        "consequat",
+        "aliquip Excepteur cillum ad",
+        "sunt proident veniam",
+        "et reprehenderit dolor anim amet",
+        "consectetur",
+        "dolor ex eiusmod",
+        "ullamco sunt ipsum",
+        "consequat aliquip",
+        "incididunt officia",
+        "in voluptate culpa in dolore",
+        "anim nostrud",
+        "veniam in velit",
+        "adipisicing",
+        "nisi la",
+        "aliquip i",
+        "ut sin",
+        "non"
+    ],
+    "stdout": "labore et ut dolore fugiat"
+}

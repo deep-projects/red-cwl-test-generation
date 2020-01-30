@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "FLa74GF": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "deserunt culpa"
+            },
+            "doc": "minim dolor "
+        }
+    }
+}

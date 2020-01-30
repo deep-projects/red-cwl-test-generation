@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "CEFfyx91b": {
+            "type": "File?",
+            "inputBinding": {
+                "prefix": "eu in consequat non laboris",
+                "position": 5948020
+            },
+            "doc": "reprehend"
+        }
+    },
+    "outputs": {},
+    "stdout": "reprehenderit",
+    "stderr": "ea anim eiusmod L",
+    "doc": "sint sunt irure e"
+}

@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "NldbD5": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "adipisi"
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "0XRdvBYZ4_": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "quis ut"
+            }
+        }
+    },
+    "stdout": "fugiat minim velit",
+    "stderr": "eiusmod"
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "rb2": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "ut nostrud dolore aliquip tempor"
+            },
+            "doc": "anim culpa proident"
+        }
+    },
+    "stdout": "consequat ut voluptate tempor",
+    "stderr": "consectetur in",
+    "doc": "voluptate deserunt qui laboris do"
+}

@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6hUY5zTqYeb": {
+            "type": "int?",
+            "inputBinding": {
+                "separate": false
+            },
+            "doc": "in dolor amet aliqua"
+        }
+    },
+    "outputs": {}
+}

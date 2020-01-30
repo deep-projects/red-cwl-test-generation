@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": "voluptate ",
+    "stdout": "et officia aliqua",
+    "stderr": "te"
+}

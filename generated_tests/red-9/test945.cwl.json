@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "QqijqLW": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "labore"
+            }
+        }
+    },
+    "outputs": {
+        "Sgdz321faJ": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "Ut ut"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "sed incididunt reprehenderit"
+}

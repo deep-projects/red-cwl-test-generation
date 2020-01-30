@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "rQbuRYMsIcu": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "exercitation"
+            },
+            "doc": "Lorem anim"
+        }
+    },
+    "stdout": "ex proident consequat minim veniam",
+    "stderr": "amet officia commodo",
+    "doc": "consequat ex eiusmod"
+}

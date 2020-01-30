@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "4yqc": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "sint c"
+            }
+        }
+    },
+    "baseCommand": "in laboris eu sint",
+    "stdout": "officia occaecat nostrud",
+    "doc": "ullamco nostrud exercitation anim esse"
+}

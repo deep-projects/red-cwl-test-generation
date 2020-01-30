@@ -1,0 +1,65 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "LBvD": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "occaecat dolore adipisicin",
+                "position": 19328657,
+                "itemSeparator": "tempor Excepteur enim mini"
+            }
+        }
+    },
+    "outputs": {
+        "Bt": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": [
+        "amet eu tempor",
+        "nostrud ut ad officia",
+        "elit in ex",
+        "eiusmod",
+        "elit",
+        "ullamco proident",
+        "sed labore mollit proident",
+        "laboris",
+        "deserunt commodo laboris officia sed",
+        "Excepteur",
+        "dolor Excepteur qui",
+        "laboris dolore aliqua",
+        "reprehenderit commodo",
+        "et non laborum",
+        "Ut ullamco e",
+        "magna id",
+        "mo",
+        "in",
+        "ut",
+        "adipisicing sed occaecat",
+        "eiusmod cillum fugiat in consequat",
+        "magna amet",
+        "deserunt qui",
+        "ullamco minim",
+        "nisi sed",
+        "pariatur ad culpa",
+        "Lorem do",
+        "Excepteur",
+        "ex consectetur Duis dolor",
+        "Excepteur fugiat",
+        "voluptate tempor in dolore deserunt",
+        "deserunt",
+        "non quis laborum",
+        "deserunt nulla",
+        "qui ut officia eiusmod elit",
+        "irure",
+        "non culpa laboris cupidatat",
+        "Ut et dolor aliquip",
+        "fugiat",
+        "Ut",
+        "ipsum reprehenderit in est officia",
+        "dolore ullamco proident sunt"
+    ],
+    "stdout": "Duis",
+    "stderr": "in dolor Ut sed mollit"
+}

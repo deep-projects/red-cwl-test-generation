@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "lo0XeXVeWo3": {
+            "type": "double?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {}
+}

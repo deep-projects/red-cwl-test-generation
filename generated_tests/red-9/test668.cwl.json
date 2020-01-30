@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "khr": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "elit ei",
+                "separate": false,
+                "position": 76020100
+            },
+            "doc": "eiusmod dolore"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "consequat in qui non"
+}

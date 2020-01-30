@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "UB": {
+            "type": "long",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": "nostrud nulla",
+    "stderr": "consectetur ut nostrud"
+}

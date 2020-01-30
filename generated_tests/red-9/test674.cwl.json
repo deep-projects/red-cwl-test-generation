@@ -1,0 +1,42 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "IbOaE7Po": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "veniam mollit culpa eiusmod"
+            },
+            "doc": "anim tempor Ut enim"
+        }
+    },
+    "baseCommand": [
+        "ad ut aliqua et",
+        "aliqua",
+        "dolore laborum Ut esse",
+        "Lorem",
+        "laboris tempor irure",
+        "Lorem ad aute laboris",
+        "cillum",
+        "in Excepteur ut eu adipisicing",
+        "sed do",
+        "enim",
+        "anim ad",
+        "qui",
+        "consequat dolor deserunt",
+        "ipsum aliqua est",
+        "in ullamco nostrud",
+        "sint",
+        "et velit id voluptate consequat",
+        "velit pariatur dolor",
+        "aute aliqua commodo proident",
+        "quis sit pariatur eu",
+        "ullamco",
+        "minim amet ut",
+        "reprehenderit ullamco fugiat officia amet",
+        "non ipsum Excepteur velit"
+    ],
+    "stdout": "culpa consequat cupidatat cillum",
+    "doc": "in pariatur Excepteur qui"
+}

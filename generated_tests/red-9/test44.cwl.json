@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "oIrOm": {
+            "type": "File",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stdout": "Duis eiusmod sint",
+    "stderr": "veniam fugiat",
+    "doc": "esse Ut"
+}

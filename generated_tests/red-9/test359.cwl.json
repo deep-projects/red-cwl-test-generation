@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "5cqHeGvnDDx": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "dolor ex fugiat est"
+            },
+            "doc": "dolor aute"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "consequat esse in aute officia",
+    "doc": "irure in fugiat aliquip non"
+}

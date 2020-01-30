@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "E": {
+            "type": "File",
+            "inputBinding": {
+                "separate": true,
+                "position": 20909247
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "labore officia dolor laboris Excepteur"
+}

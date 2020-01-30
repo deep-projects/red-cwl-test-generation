@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "_9fyb": {
+            "type": "boolean[]",
+            "inputBinding": {
+                "prefix": "cupidatat minim et deseru",
+                "position": 93928565,
+                "itemSeparator": "adipisicing laboris"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "minim",
+    "doc": "sit ut ex labore"
+}

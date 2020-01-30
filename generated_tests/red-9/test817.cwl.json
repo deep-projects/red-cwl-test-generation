@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "F05ALCCFHM": {
+            "type": "string[]",
+            "inputBinding": {},
+            "doc": "ex esse ipsum"
+        }
+    },
+    "outputs": {
+        "bLnYbjS6": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "sint non",
+    "doc": "qui ad magna nulla"
+}

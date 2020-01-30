@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "_MshEJ": {
+            "type": "double",
+            "inputBinding": {
+                "prefix": "irure voluptate mollit eu amet",
+                "itemSeparator": "irure"
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "reprehenderit"
+}

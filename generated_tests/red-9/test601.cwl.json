@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "BhpAXJaIeq": {
+            "type": "File?",
+            "inputBinding": {
+                "prefix": "ullamco",
+                "itemSeparator": "veniam"
+            },
+            "doc": "dolore minim"
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "S6MF": {
+            "type": "string?",
+            "inputBinding": {
+                "itemSeparator": "cillum fugiat"
+            }
+        }
+    },
+    "outputs": {}
+}

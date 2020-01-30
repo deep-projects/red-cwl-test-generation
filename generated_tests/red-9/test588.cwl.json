@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "7O": {
+            "type": "double[]",
+            "inputBinding": {
+                "prefix": "ad non",
+                "position": 38546728,
+                "itemSeparator": "irure minim cupidatat ea"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "fugiat"
+}

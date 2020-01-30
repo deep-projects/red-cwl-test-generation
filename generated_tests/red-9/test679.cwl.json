@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "hM6NEUyZJn": {
+            "type": "double[]?",
+            "inputBinding": {
+                "position": 82876394
+            }
+        }
+    },
+    "outputs": {
+        "t3Tdw": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "ullamco"
+}

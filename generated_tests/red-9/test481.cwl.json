@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": [
+        "cupidatat consectetur nulla ad elit",
+        "au",
+        "ex",
+        "exercitation labore aliqua consectetur",
+        "sint id nulla aute"
+    ],
+    "stdout": "commodo sit sunt amet in",
+    "doc": "sit culpa"
+}

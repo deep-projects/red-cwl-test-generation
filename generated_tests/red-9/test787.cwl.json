@@ -1,0 +1,8 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stderr": "mollit aliqua qui",
+    "doc": "qui tempor reprehenderit"
+}

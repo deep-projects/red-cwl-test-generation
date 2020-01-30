@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "qMugIAlxeZm": {
+            "type": "long",
+            "inputBinding": {
+                "position": 40685064
+            },
+            "doc": "Lorem"
+        }
+    },
+    "outputs": {
+        "q1r9uqFi6O": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "enim eu commodo sit",
+    "doc": "in mollit exercitation"
+}

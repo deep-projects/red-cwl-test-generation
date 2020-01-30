@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rfl": {
+            "type": "float",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "reprehenderit labore tempor"
+            }
+        }
+    },
+    "outputs": {
+        "MGAAwGbk0": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "Lorem quis "
+            },
+            "doc": "et do in"
+        }
+    }
+}

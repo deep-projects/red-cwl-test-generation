@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "dImqAq": {
+            "type": "File",
+            "inputBinding": {
+                "separate": true,
+                "position": 44756841
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "aliqua id reprehenderit"
+}

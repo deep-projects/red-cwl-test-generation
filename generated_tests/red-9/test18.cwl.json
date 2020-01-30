@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6KhXzXrHdkc": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "ullamco sed",
+                "separate": true,
+                "itemSeparator": "adipisicing oc"
+            },
+            "doc": "enim Excepteur officia ut"
+        }
+    },
+    "outputs": {},
+    "stdout": "laborum"
+}

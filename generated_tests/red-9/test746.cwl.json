@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "rqKhzP0VST": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "in laboris",
+    "stderr": "dolor dolore"
+}

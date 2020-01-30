@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "PQ": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "quis",
+                "position": 64016166
+            }
+        }
+    },
+    "outputs": {
+        "h5cO": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "Ut"
+            },
+            "doc": ""
+        }
+    },
+    "baseCommand": "ei",
+    "stderr": "dolore deserunt velit mollit",
+    "doc": "eu quis"
+}

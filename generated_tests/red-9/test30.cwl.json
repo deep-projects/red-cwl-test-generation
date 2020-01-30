@@ -1,0 +1,10 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "I_f1": {
+            "type": "stdout"
+        }
+    }
+}

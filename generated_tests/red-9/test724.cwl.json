@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "SPbrJ": {
+            "type": "long[]",
+            "inputBinding": {
+                "prefix": "ut reprehenderit magna adipisicing",
+                "position": 75690806,
+                "itemSeparator": "cupidatat culpa aliqua"
+            },
+            "doc": "nostrud reprehenderit Excepteur dolor"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "non occaecat elit",
+    "stdout": "irure cupidatat",
+    "doc": "reprehenderit"
+}

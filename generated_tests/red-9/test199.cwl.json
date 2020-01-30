@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "TZd0": {
+            "type": "int",
+            "inputBinding": {},
+            "doc": "adipisicing magna"
+        }
+    },
+    "outputs": {},
+    "stderr": "id ea dolore",
+    "doc": "sed incididunt ullamco fugiat"
+}

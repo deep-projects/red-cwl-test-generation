@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "mjgVKRvUgW": {
+            "type": "int[]?",
+            "inputBinding": {
+                "position": 86462289
+            },
+            "doc": "veniam exercitation magna sit Lorem"
+        }
+    },
+    "outputs": {}
+}

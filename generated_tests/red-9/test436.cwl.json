@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "CRnWiRz": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "officia Duis ullamco dolor"
+            },
+            "doc": "eiusmod nostrud tempor id"
+        }
+    }
+}

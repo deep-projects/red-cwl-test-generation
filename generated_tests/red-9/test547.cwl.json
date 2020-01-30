@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "zS": {
+            "type": "File[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": null
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "KMN": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "occaecat"
+            },
+            "doc": "magna esse reprehenderit nulla"
+        }
+    },
+    "stdout": "nisi proident veniam eu c",
+    "stderr": "esse",
+    "doc": "minim incididunt proident culpa"
+}

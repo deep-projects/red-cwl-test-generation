@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ZpA79m": {
+            "type": "boolean",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": "Excepteur eiusmod sunt",
+    "stderr": "ipsum tempor nisi",
+    "doc": "id est quis cillum irure"
+}

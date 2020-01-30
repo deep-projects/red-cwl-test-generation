@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "EC": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "Excepteur esse"
+            },
+            "doc": "cillum aliquip nisi eiusmod ullamco"
+        }
+    },
+    "doc": "eiusmod ut"
+}

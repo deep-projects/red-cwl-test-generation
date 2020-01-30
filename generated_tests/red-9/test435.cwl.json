@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "C2KetJIv": {
+            "type": "long[]",
+            "inputBinding": {
+                "prefix": "anim cupidatat",
+                "separate": false,
+                "position": 52472711
+            },
+            "doc": "sint Excepteur mollit ullamco culpa"
+        }
+    },
+    "outputs": {},
+    "stderr": "et esse",
+    "doc": "non sint"
+}

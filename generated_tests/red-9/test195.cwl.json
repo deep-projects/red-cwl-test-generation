@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6dafAbdf": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "ad",
+                "separate": true,
+                "itemSeparator": "officia"
+            },
+            "doc": "sit ut sint nulla"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "aute"
+}

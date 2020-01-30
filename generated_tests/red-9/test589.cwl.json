@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "LAPs": {
+            "type": "boolean[]?",
+            "inputBinding": {},
+            "doc": "tempor id Duis eiusmod"
+        }
+    },
+    "outputs": {}
+}

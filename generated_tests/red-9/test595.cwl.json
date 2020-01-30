@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "dhjG8dW8D": {
+            "type": "float[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": "labore",
+    "stdout": "occaecat veniam ad"
+}

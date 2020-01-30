@@ -1,0 +1,55 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "4XTO": {
+            "type": "File",
+            "inputBinding": {
+                "separate": false,
+                "position": 92584151,
+                "itemSeparator": "magna laboris dolor"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "sed dolor deserunt in proident",
+        "ut cillum culpa consectetur fugiat",
+        "minim",
+        "id pariatur aliqua eiusmod in",
+        "tempor a",
+        "enim",
+        "sed in",
+        "Ut sunt",
+        "labore Ut",
+        "quis deserunt",
+        "velit in nulla",
+        "occaecat",
+        "minim",
+        "enim minim in",
+        "qui cillum reprehender",
+        "consectetur in",
+        "eu",
+        "pariatur elit sit exercitation",
+        "sed id tempor do eiusmod",
+        "no",
+        "consectetur",
+        "enim commodo eu ut",
+        "aute minim ad",
+        "nisi",
+        "ullamco labore sint",
+        "ut",
+        "dolor dolore",
+        "sed cillum dolor Excepteur tempor",
+        "in Duis sit officia in",
+        "anim commodo qui ullamco",
+        "dolor",
+        "veniam eu deserunt in",
+        "aute in",
+        "irure do sed in",
+        "aliquip eu dolor",
+        ""
+    ],
+    "stdout": "ut",
+    "stderr": "dolore"
+}

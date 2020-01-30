@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "aute",
+    "stderr": "Excepteur id ullamco",
+    "doc": "aute do ut consectetur aliqua"
+}

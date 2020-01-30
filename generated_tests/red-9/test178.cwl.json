@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "ZqXV1d2Kg8": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "esse dolor commodo"
+}

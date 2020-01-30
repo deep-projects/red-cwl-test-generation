@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "R4": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "aliqua ex sed",
+    "stderr": "nisi Ut sed occaecat",
+    "doc": "v"
+}

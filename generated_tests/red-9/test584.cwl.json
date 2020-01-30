@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "83o": {
+            "type": "string",
+            "inputBinding": {
+                "separate": false,
+                "position": 46526765,
+                "itemSeparator": "enim commodo"
+            }
+        }
+    },
+    "outputs": {
+        "AfIZOn": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "aute dolor"
+            }
+        }
+    },
+    "doc": "p"
+}

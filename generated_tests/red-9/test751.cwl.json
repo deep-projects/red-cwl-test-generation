@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "4SaeX3Va": {
+            "type": "File[]?",
+            "inputBinding": {
+                "position": 34644319
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "eu aute in sint"
+}

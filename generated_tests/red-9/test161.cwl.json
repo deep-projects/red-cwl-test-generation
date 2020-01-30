@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "f": {
+            "type": "double",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": "eiusmod laboris id exercitation aliquip",
+    "stderr": "fugiat pariatur ipsum magna tempor",
+    "doc": "voluptate occaecat eiusmod laboris ullamco"
+}

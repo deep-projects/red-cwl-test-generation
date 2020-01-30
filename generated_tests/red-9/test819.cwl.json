@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "qMpjF4": {
+            "type": "int[]",
+            "inputBinding": {
+                "position": 59575212,
+                "itemSeparator": "magna aute sint"
+            }
+        }
+    },
+    "outputs": {}
+}

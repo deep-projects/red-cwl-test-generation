@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Oi6": {
+            "type": "int[]?",
+            "inputBinding": {},
+            "doc": "dolor exercitation pariatur in"
+        }
+    },
+    "outputs": {
+        "vcJhO6BOrF6": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "ullamco"
+            }
+        }
+    },
+    "stdout": "consectetur qui non sint ut",
+    "stderr": "aute"
+}

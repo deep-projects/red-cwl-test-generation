@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "dXTb": {
+            "type": "float?",
+            "inputBinding": {
+                "prefix": "ipsum eiusmod dolor aute",
+                "position": 74550874
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "ex",
+    "doc": "Lore"
+}

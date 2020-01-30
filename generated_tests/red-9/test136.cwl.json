@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fKG2": {
+            "type": "boolean",
+            "inputBinding": {
+                "prefix": "ut tempor",
+                "separate": true,
+                "itemSeparator": "mollit exercitation sit"
+            }
+        }
+    },
+    "outputs": {
+        "shL95Y": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "esse ex aute reprehenderi"
+            },
+            "doc": "commodo voluptate exercitation laboris deserunt"
+        }
+    },
+    "stdout": "eiusmod occaecat cillum est mollit"
+}

@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "6gK6dK": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "enim et ex d"
+}

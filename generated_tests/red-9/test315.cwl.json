@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "_7uN": {
+            "type": "string[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 93208366,
+                "itemSeparator": "pariatur proident"
+            },
+            "doc": "ut culpa adipisicing"
+        }
+    },
+    "outputs": {}
+}

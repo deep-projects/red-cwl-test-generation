@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "ARNc": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "pariatur ullamco mollit est labore"
+            },
+            "doc": "in amet proident pariatur"
+        }
+    }
+}

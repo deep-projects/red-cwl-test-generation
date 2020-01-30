@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-Z": {
+            "type": "int[]?",
+            "inputBinding": {
+                "prefix": "cillum dolore non nostrud dolor",
+                "position": 24628760
+            }
+        }
+    },
+    "outputs": {
+        "uRld": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "irure ad"
+            }
+        }
+    },
+    "baseCommand": null,
+    "doc": "consectetur ullamco"
+}

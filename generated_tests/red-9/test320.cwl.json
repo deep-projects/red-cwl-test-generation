@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sf7nrxT3HQS": {
+            "type": "float",
+            "inputBinding": {
+                "prefix": "in dolore laboris",
+                "position": 68157905,
+                "itemSeparator": "reprehenderit aute paria"
+            }
+        }
+    },
+    "outputs": {
+        "4Uzq7BO": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "velit aliqua elit"
+            }
+        }
+    },
+    "baseCommand": "nisi amet Excepteur",
+    "stderr": "velit enim"
+}

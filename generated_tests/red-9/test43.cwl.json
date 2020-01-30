@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "qZGwRR1wUe": {
+            "type": "long?",
+            "inputBinding": {
+                "prefix": "commodo",
+                "position": 10957765,
+                "itemSeparator": "mollit esse"
+            },
+            "doc": "ad veniam"
+        }
+    },
+    "outputs": {},
+    "stdout": "enim"
+}

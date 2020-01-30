@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "B": {
+            "type": "boolean?",
+            "inputBinding": {},
+            "doc": "pariatur commodo labore consequat"
+        }
+    },
+    "outputs": {
+        "WZ_c8nSUMbQ": {
+            "type": "stderr"
+        }
+    }
+}

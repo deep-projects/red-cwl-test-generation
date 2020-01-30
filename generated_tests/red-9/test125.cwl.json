@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fr-gl": {
+            "type": "Directory",
+            "inputBinding": {},
+            "doc": "aliquip officia enim"
+        }
+    },
+    "outputs": {
+        "mAN": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "amet do labore mollit"
+            },
+            "doc": "qui velit Ut voluptate aliqua"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "nostrud dolore in adipisicing labore",
+    "stderr": "eu"
+}

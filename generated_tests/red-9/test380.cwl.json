@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "n": {
+            "type": "int",
+            "inputBinding": {
+                "itemSeparator": "ea et "
+            },
+            "doc": "eiusmod elit"
+        }
+    },
+    "outputs": {},
+    "stdout": "non dolore sunt",
+    "doc": "eiusmod cupidatat mollit"
+}

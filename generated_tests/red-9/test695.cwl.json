@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "HZkmvBX23": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "sit quis ullamco elit"
+            }
+        }
+    }
+}

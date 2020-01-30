@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "CZ": {
+            "type": "boolean?",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {
+        "BBC3": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "Duis velit laboris et do"
+            },
+            "doc": "proident Ut"
+        }
+    },
+    "baseCommand": null
+}

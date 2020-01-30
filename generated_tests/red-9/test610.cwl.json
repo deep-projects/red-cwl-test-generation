@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "4kkXFOSYVm": {
+            "type": "File?",
+            "inputBinding": {
+                "separate": true,
+                "position": 10356238,
+                "itemSeparator": "ipsum"
+            },
+            "doc": "quis irure minim deserunt"
+        }
+    },
+    "outputs": {}
+}

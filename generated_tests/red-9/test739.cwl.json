@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "SC": {
+            "type": "double[]",
+            "inputBinding": {
+                "separate": true
+            },
+            "doc": "voluptate anim proident offi"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null
+}

@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "pJ": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "dolor tempor esse"
+            },
+            "doc": "id exercitation ad ex"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "magna nulla minim Duis",
+    "stderr": "tempor magna dolor incididu"
+}

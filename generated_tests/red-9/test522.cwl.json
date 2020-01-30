@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sbGjoZCNR9": {
+            "type": "boolean[]?",
+            "inputBinding": {},
+            "doc": "ad"
+        }
+    },
+    "outputs": {
+        "q": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "sed"
+            },
+            "doc": "ut sunt dolore"
+        }
+    }
+}

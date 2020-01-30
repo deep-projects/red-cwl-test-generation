@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "B-": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "et dolor id aute anim"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "ipsum cillum null",
+    "stderr": "exercitation fugiat enim sunt"
+}

@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "4": {
+            "type": "boolean",
+            "inputBinding": {
+                "prefix": "sit in cillu"
+            },
+            "doc": "eiusmod laboris"
+        }
+    },
+    "outputs": {
+        "5VP5Z": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null
+}

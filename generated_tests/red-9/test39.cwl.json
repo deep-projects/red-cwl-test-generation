@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "XNQ": {
+            "type": "double?",
+            "inputBinding": {
+                "separate": false,
+                "position": 3862142,
+                "itemSeparator": "Excepteur"
+            },
+            "doc": "non cillum nulla"
+        }
+    },
+    "outputs": {
+        "o6lbMKOWfiG": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "officia"
+            },
+            "doc": "sunt in"
+        }
+    }
+}

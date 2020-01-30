@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": "minim esse irure nulla",
+    "stderr": "Ut mollit et ad labore",
+    "doc": "consequat"
+}

@@ -1,0 +1,35 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "gz": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "occaecat adipisicing veniam cillum"
+            }
+        }
+    },
+    "baseCommand": [
+        "cupidatat mollit fugiat laboris sed",
+        "consequat consectetur ",
+        "fugiat elit occaecat Lorem laborum",
+        "Ut no",
+        "nisi",
+        "laboris culpa",
+        "Excepteur consequat ea magna",
+        "fugiat",
+        "cillum",
+        "laboris anim Ut",
+        "elit adipisicing",
+        "non cillum amet reprehenderit",
+        "eu dolor voluptate ipsum Ut",
+        "esse",
+        "Lorem",
+        "ad ",
+        "aliqua oc",
+        "laborum consequat quis deserunt magna"
+    ],
+    "stderr": "in pariatur ut exercitation",
+    "doc": "incid"
+}

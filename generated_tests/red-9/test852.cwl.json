@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "tHSihX": {
+            "type": "string",
+            "inputBinding": {
+                "itemSeparator": "tempor eiusmod"
+            },
+            "doc": "aute elit id dolor"
+        }
+    },
+    "outputs": {
+        "1dxMDkDrN8p": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "do non labore cupidatat"
+            }
+        }
+    },
+    "doc": "labore Ut mollit "
+}

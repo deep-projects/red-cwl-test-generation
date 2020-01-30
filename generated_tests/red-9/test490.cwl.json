@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "JF1RYE": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "Lorem id eu enim in"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stderr": "officia",
+    "doc": "consequat eiusmod Excepteur in"
+}

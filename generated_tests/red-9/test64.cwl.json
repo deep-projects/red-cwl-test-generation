@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Pm1ntdb": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "fugiat non dolor in",
+    "doc": "elit"
+}

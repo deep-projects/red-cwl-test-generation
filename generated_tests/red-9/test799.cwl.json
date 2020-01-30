@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "6v53ZDwfjd": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "in mollit sunt in reprehenderit",
+    "doc": "aliqua labore dolor in reprehenderit"
+}

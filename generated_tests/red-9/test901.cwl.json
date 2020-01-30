@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "8r": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "magna proident id nisi",
+    "stderr": "qui"
+}

@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "JMdgk1XB": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "3": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "cons",
+    "stdout": ""
+}

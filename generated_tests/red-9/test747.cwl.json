@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "BacUoa5xIji": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "prefix": "",
+                "position": 8233772
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null
+}

@@ -1,0 +1,46 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "EQ": {
+            "type": "File[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 58414126,
+                "itemSeparator": "ullamco eiusmod aliqua"
+            },
+            "doc": "deserunt minim"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "labore elit",
+        "adipisicing nulla non et",
+        "aliqua fugiat mollit enim es",
+        "adipisicing ipsum culpa",
+        "elit nulla est in reprehenderit",
+        "qui labore consequat esse",
+        "ipsum do",
+        "cupidatat consequat culpa voluptate sunt",
+        "incididunt et occaecat",
+        "tempor",
+        "cupidatat",
+        "in",
+        "tempor dolore ea aute",
+        "dolore eiusmod occaecat",
+        "cupidatat aliqua tempor veniam id",
+        "elit ea cupidatat sint ",
+        "nisi laborum fugiat",
+        "consectetur non Lorem ut minim",
+        "qui eiusmod",
+        "velit",
+        "reprehenderit nisi ipsum labore consequat",
+        "Duis mini",
+        "occaecat pariatur",
+        "occaecat dolore",
+        "minim deserunt dolor",
+        "Duis ipsum esse ex",
+        "occaecat deserunt reprehenderit",
+        "velit ipsum laboris"
+    ]
+}

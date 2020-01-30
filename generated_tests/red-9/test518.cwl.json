@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "MNC4d": {
+            "type": "File",
+            "inputBinding": {
+                "prefix": "officia eu eiusmod",
+                "position": 31311283,
+                "itemSeparator": "Duis occaecat"
+            }
+        }
+    },
+    "outputs": {
+        "Lqv-L": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "ullamco anim eu fugiat qui",
+    "doc": "Ut sit"
+}

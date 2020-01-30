@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "zQbUNWWF_ay": {
+            "type": "File",
+            "inputBinding": {
+                "position": 68361125,
+                "itemSeparator": "enim consequat fugiat exercitation amet"
+            },
+            "doc": "velit sunt"
+        }
+    },
+    "outputs": {}
+}

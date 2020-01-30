@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "z14NiJ": {
+            "type": "Directory?",
+            "inputBinding": {
+                "prefix": "reprehenderit dolore deserunt eiusmod",
+                "separate": true,
+                "itemSeparator": "exercitation qui do"
+            },
+            "doc": "anim cillum ea ut consectetur"
+        }
+    },
+    "outputs": {},
+    "stdout": "culpa sint in sit",
+    "stderr": "veniam aliquip in esse ut"
+}

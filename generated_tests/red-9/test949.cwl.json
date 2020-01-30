@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "p": {
+            "type": "string?",
+            "inputBinding": {
+                "separate": false,
+                "position": 36677816,
+                "itemSeparator": "cillum eu sint ad sit"
+            }
+        }
+    },
+    "outputs": {
+        "d6ok": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "aliqua Ut dolore eiusmod enim",
+    "stdout": "magna ea",
+    "doc": "consequat reprehenderit id"
+}

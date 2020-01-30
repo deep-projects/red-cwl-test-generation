@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "TCEWwIQDKH8": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "in dolor sunt in D"
+}

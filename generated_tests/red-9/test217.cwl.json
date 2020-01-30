@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Bicryt2DY": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "officia"
+            }
+        }
+    },
+    "outputs": {
+        "5D1y6qoxBGT": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "in cillum adipisicing sit ullamco"
+            },
+            "doc": "id nulla"
+        }
+    },
+    "doc": "est pariatur cillum proid"
+}

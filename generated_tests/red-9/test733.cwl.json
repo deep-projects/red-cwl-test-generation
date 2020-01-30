@@ -1,0 +1,31 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "wR3KWg": {
+            "type": "string[]?",
+            "inputBinding": {
+                "prefix": "incididunt consectetur",
+                "itemSeparator": "aliqua esse"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "qu",
+        "velit",
+        "laborum adipisicing in dolor",
+        "sunt in eu dolor occaecat",
+        "qui ad laborum eu proident",
+        "enim incididunt eius",
+        "dolor laboris nostrud nulla consequat",
+        "labore in tempor officia L",
+        "adipisicing cillum elit irure",
+        "ipsum eu dolore veniam",
+        "ex",
+        "culpa inci",
+        "i"
+    ],
+    "stdout": "incididunt id nisi",
+    "doc": "incididunt"
+}

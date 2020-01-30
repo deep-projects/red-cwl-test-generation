@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "HOkNJ": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "reprehenderit ut"
+            }
+        }
+    },
+    "baseCommand": null
+}

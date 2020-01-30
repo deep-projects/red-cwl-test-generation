@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "k4DeOlI": {
+            "type": "double?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": "mollit Lorem commodo aliquip",
+    "stdout": "adipisicing sit sint aute aliquip",
+    "stderr": "irure quis consequat cupidatat"
+}

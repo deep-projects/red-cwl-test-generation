@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "OySw": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "eu veniam"
+            }
+        }
+    },
+    "baseCommand": "sed voluptate incididunt eiusmod dolore",
+    "doc": "qui dolore sit in sint"
+}

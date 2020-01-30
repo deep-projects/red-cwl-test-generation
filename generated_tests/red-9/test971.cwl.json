@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Kl-hKO": {
+            "type": "boolean",
+            "inputBinding": {},
+            "doc": "occaecat non ex"
+        }
+    },
+    "outputs": {
+        "51UgqgSeLZl": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "qui dolor irure ut"
+}

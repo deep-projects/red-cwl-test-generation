@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "UTwys4": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "veniam in Lorem ull",
+    "stderr": "aute minim velit ipsum fugiat",
+    "doc": "ea Lorem"
+}

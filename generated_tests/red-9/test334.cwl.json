@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "MAojN": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "velit Duis",
+                "separate": true,
+                "itemSeparator": "et sunt tempor minim"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": ""
+}

@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "oXjMaNDq": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "in aliquip labore"
+}

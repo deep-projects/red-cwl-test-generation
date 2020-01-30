@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "N": {
+            "type": "boolean[]",
+            "inputBinding": {
+                "prefix": "commodo anim nulla",
+                "itemSeparator": "dolor ad anim"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "officia",
+    "stderr": "ullamco nisi eiusmod sint sed",
+    "doc": "velit"
+}

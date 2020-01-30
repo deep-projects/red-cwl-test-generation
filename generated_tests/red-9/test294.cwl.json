@@ -1,0 +1,37 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "oPNdEimB6Kv": {
+            "type": "int",
+            "inputBinding": {
+                "separate": false,
+                "position": 26743276
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "nulla ad",
+        "dolore fugiat adipisicing culpa labore",
+        "ex labore Duis reprehenderit",
+        "occaecat exercitation",
+        "voluptate occaecat eiusmod veniam cill",
+        "labore ut irure",
+        "eu",
+        "in tempor incididunt sed",
+        "aliquip labore elit",
+        "c",
+        "ut elit est aliquip",
+        "irure ut aliquip officia minim",
+        "adipisicing",
+        "minim",
+        "tempor laborum sint ea",
+        "Ut culpa cupidatat",
+        "in dolore anim reprehenderit",
+        "aute elit",
+        "amet sunt consequat",
+        "Ut elit non exercitation incididunt",
+        "reprehenderit dolore"
+    ]
+}

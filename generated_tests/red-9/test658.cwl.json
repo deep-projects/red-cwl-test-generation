@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "lPZI2u": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "sunt do laboris dolor"
+            },
+            "doc": "dolore"
+        }
+    }
+}

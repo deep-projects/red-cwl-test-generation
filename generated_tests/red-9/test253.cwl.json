@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "YXA_VE8": {
+            "type": "long?",
+            "inputBinding": {
+                "prefix": "eu ut"
+            },
+            "doc": "in exercitation id reprehenderit tempor"
+        }
+    },
+    "outputs": {
+        "et": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "Duis ipsum",
+    "stderr": "in occaecat dolor ad ",
+    "doc": "voluptate irure in in eiusmod"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "QEO-XGo": {
+            "type": "double[]?",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "in reprehenderit laboris do"
+            },
+            "doc": "quis dolor"
+        }
+    },
+    "outputs": {},
+    "stderr": "esse aute"
+}

@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Yv": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "exercitation"
+            },
+            "doc": "qui esse dolor veniam laboris"
+        }
+    }
+}

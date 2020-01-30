@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "wNAe4vTMqa": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "do cillum aliquip sit sunt"
+            },
+            "doc": "tempor"
+        }
+    }
+}

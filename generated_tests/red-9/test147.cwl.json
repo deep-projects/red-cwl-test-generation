@@ -1,0 +1,33 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "oGxVXy": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "non enim incididunt"
+            },
+            "doc": "dolore Excepteur"
+        }
+    },
+    "baseCommand": [
+        "deserunt culpa nostrud id dolore",
+        "consequat eiusmod",
+        "anim nostrud sit minim",
+        "consectetur culpa ut",
+        "si",
+        "Ut ea",
+        "nisi ut",
+        "eu ea Duis veniam",
+        "nostrud",
+        "minim dolor sunt",
+        "",
+        "culpa nostrud officia laboris in",
+        "Duis enim occaecat est",
+        "culpa repr",
+        "consequat aliquip elit labore dolore"
+    ],
+    "stdout": "culpa amet",
+    "stderr": "ullamco aliquip"
+}

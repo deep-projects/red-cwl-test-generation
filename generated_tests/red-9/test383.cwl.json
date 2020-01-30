@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "-2l2UTDp": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laborum sunt id sed officia"
+            },
+            "doc": "Excepteur commodo"
+        }
+    },
+    "doc": "occaecat voluptate"
+}

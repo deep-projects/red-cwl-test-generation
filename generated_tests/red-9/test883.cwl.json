@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "xV2ElLq": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "culpa magna commodo quis aliqua",
+    "stderr": "enim sint culpa reprehenderit"
+}

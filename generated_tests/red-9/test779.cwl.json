@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "aNjr": {
+            "type": "int[]?",
+            "inputBinding": {},
+            "doc": "velit non tempor ex aliqua"
+        }
+    },
+    "outputs": {}
+}

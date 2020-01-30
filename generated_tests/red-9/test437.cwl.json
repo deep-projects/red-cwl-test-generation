@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "DO7cmEoV": {
+            "type": "float?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "y": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "elit est pariatur ex nisi"
+}

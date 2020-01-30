@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "A": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "amet culpa"
+            },
+            "doc": "officia Lorem in sunt labore"
+        }
+    },
+    "baseCommand": "Duis quis amet",
+    "stderr": "dolor commo",
+    "doc": "ea"
+}

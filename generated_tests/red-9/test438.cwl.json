@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "7gQ8f32BSdt": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "dolor commodo sint Duis reprehenderit"
+            }
+        }
+    },
+    "outputs": {
+        "jbpk": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "consectetur dolor anim Duis cillum",
+    "stderr": "reprehenderit cillum veniam et cupid",
+    "doc": "ut sed deserunt consectetur nulla"
+}

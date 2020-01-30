@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6LTHl": {
+            "type": "string[]",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "eiusmod Ut aliquip cupidatat"
+            }
+        }
+    },
+    "outputs": {}
+}

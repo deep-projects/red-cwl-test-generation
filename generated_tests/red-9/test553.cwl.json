@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "HWME": {
+            "type": "string[]?",
+            "inputBinding": {
+                "prefix": "sed esse Lorem",
+                "position": 19348971,
+                "itemSeparator": "dolor"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "nulla commodo",
+    "stdout": "veniam dolor tempor dolor",
+    "stderr": "nostrud dolore in mollit"
+}

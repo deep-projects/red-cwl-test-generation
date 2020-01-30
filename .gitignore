@@ -1,4 +1,4 @@
 /node_modules
-/venv
+/.venv
 /user_generated_tests
 /.vscode

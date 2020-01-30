@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "PLoB6qsd": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "anim commodo officia"
+            },
+            "doc": ""
+        }
+    },
+    "stdout": "ex proident velit anim"
+}

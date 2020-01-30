@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "PYEKshQXdkN": {
+            "type": "long[]",
+            "inputBinding": {
+                "prefix": "consequat Duis eiusmod cupidatat",
+                "position": 15233915,
+                "itemSeparator": "Excepteur"
+            },
+            "doc": "labo"
+        }
+    },
+    "outputs": {
+        "Ae": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "magna et"
+            }
+        }
+    }
+}

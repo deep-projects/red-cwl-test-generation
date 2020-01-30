@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "P": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "nostrud Duis"
+            },
+            "doc": "fugiat incididunt"
+        }
+    },
+    "stderr": "eiusmod ut commodo incididunt",
+    "doc": "in"
+}

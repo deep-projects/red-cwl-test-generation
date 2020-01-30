@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Imj": {
+            "type": "string[]",
+            "inputBinding": {
+                "prefix": "quis officia cillum magna ullamco",
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "zRB--M80ziQ": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "eiusmod aliqua nostrud"
+            }
+        }
+    }
+}

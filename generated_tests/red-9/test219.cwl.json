@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "o": {
+            "type": "int",
+            "inputBinding": {
+                "prefix": "veniam cillum amet incididunt aliqua",
+                "position": 59181531,
+                "itemSeparator": "dolor esse consectetur ullamco Dui"
+            },
+            "doc": "sint nulla enim"
+        }
+    },
+    "outputs": {
+        "q": {
+            "type": "stdout"
+        }
+    }
+}

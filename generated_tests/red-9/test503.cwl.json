@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "X0bT": {
+            "type": "double?",
+            "inputBinding": {
+                "separate": false,
+                "position": 91395210,
+                "itemSeparator": "tempor ut"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "adipisicing deserunt",
+    "doc": "velit sint incididunt anim mollit"
+}

@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "vYlC": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "prefix": "nulla",
+                "position": 65585718,
+                "itemSeparator": "fugiat commodo cillum ut exe"
+            },
+            "doc": "eu"
+        }
+    },
+    "outputs": {
+        "CFzBd": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "aliquip"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "xk7fQjTj_l": {
+            "type": "string[]?",
+            "inputBinding": {
+                "prefix": "sunt cupidatat commodo id",
+                "itemSeparator": "nisi dolor ullamco voluptate"
+            }
+        }
+    },
+    "outputs": {
+        "Aj": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "consequat"
+            }
+        }
+    },
+    "stdout": "aliqua",
+    "stderr": "labore consectetur",
+    "doc": "nostrud non aliquip anim"
+}

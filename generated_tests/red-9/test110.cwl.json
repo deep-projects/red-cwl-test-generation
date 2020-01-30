@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "L-ditJXjE": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "proident sit",
+                "position": 64212045,
+                "itemSeparator": "ullamco"
+            },
+            "doc": "velit"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null
+}

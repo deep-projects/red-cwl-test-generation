@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "K9LvJnmP": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "aliquip laborum velit",
+    "stderr": "nulla",
+    "doc": "cupidatat"
+}

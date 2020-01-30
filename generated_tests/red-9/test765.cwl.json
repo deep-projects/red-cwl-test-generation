@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "mujN1": {
+            "type": "File[]",
+            "inputBinding": {},
+            "doc": "Lorem commodo non minim Ut"
+        }
+    },
+    "outputs": {
+        "wQ6": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "ipsum q"
+            }
+        }
+    },
+    "stdout": "ipsum"
+}

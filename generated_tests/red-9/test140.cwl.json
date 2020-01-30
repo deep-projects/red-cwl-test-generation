@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "c4S3chn": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "do dolore"
+            },
+            "doc": "in"
+        }
+    },
+    "baseCommand": null
+}

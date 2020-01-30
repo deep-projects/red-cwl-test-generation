@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "bwnut-A": {
+            "type": "string[]",
+            "inputBinding": {
+                "prefix": "reprehenderit occaecat sed amet irure",
+                "position": 1993554
+            }
+        }
+    },
+    "outputs": {
+        "rh": {
+            "type": "stdout"
+        }
+    }
+}

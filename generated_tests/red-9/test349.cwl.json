@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "D": {
+            "type": "string?",
+            "inputBinding": {
+                "prefix": "laborum voluptate amet aute",
+                "position": 9456727,
+                "itemSeparator": "aliqua commodo sit aute"
+            },
+            "doc": "elit officia dolor fugiat consequat"
+        }
+    },
+    "outputs": {},
+    "stdout": "minim labore",
+    "stderr": "aute exercitation cillum",
+    "doc": "cupidatat sint"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "0oNFpnU2U": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "fugiat"
+            },
+            "doc": "in cillum est non"
+        }
+    },
+    "stdout": "incididunt culpa occaecat",
+    "doc": "aliqua et proiden"
+}

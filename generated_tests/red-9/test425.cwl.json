@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "RAQ3olq": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "sed dolor"
+}

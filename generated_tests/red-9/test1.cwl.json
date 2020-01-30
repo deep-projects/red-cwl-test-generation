@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "4f": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "prefix": "sint",
+                "separate": true,
+                "itemSeparator": "Ut ipsum Lorem"
+            },
+            "doc": "id officia consectetur aliqua sed"
+        }
+    },
+    "outputs": {
+        "N35K6zV6OE": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "nulla ullamco sint"
+}

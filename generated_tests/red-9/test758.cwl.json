@@ -1,0 +1,26 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "osIgt4": {
+            "type": "File?",
+            "inputBinding": {
+                "prefix": "culpa quis",
+                "separate": true,
+                "itemSeparator": "dolore"
+            }
+        }
+    },
+    "outputs": {
+        "Mz44Ge_": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "culpa elit"
+            },
+            "doc": "sint voluptate proident magna"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "in non sed aliqua",
+    "doc": "dolor magna pariatur anim"
+}

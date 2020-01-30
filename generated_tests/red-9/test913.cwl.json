@@ -1,0 +1,39 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "2KizxfUb": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "dolor"
+            },
+            "doc": "non ad"
+        }
+    },
+    "baseCommand": [
+        "in veniam Ut",
+        "eu anim ipsum veniam Lorem",
+        "reprehenderit nisi sed Duis",
+        "est aliqua proident exercitation",
+        "nostrud ullamco",
+        "velit dolore",
+        "do Excepte",
+        "voluptate ut Duis eiusmod ut",
+        "sed in nostrud",
+        "amet pariatur veniam nostrud",
+        "nulla fugiat",
+        "sit laborum dolore sint",
+        "est cupidatat dolore ullamco",
+        "in dolor eiusmod velit mollit",
+        "ut dolore velit",
+        "non",
+        "cupidatat esse do",
+        "nisi consectetur ex quis",
+        "quis d",
+        "culpa aliquip voluptate est tempor",
+        "id ut aliquip ma"
+    ],
+    "stdout": "enim esse",
+    "stderr": "qui"
+}

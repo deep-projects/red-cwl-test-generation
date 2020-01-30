@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "qFDAz": {
+            "type": "File[]",
+            "inputBinding": {
+                "prefix": "Excepteur nostrud nulla exercitation ir",
+                "position": 77210201,
+                "itemSeparator": "culpa cupidatat adipisicing"
+            }
+        }
+    },
+    "outputs": {
+        "E7p6ayFB": {
+            "type": "stderr"
+        }
+    },
+    "doc": "Duis"
+}

@@ -1,0 +1,33 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": [
+        "sit",
+        "laborum Excepteur nostr",
+        "ut dolore culpa",
+        "aliqua est Excepteur laborum",
+        "mollit dolor reprehenderit",
+        "magna sit Lorem sint",
+        "labore aliquip aliq",
+        "Excepteur do ullamco",
+        "nostrud proident pariatur",
+        "cillum in in Ut dolor",
+        "proident nulla cupidatat ex",
+        "dolore et",
+        "minim",
+        "adipisicing deserunt aliquip laborum",
+        "adipisicing",
+        "ma",
+        "non est",
+        "voluptate ut labore sint",
+        "in ipsum nisi officia",
+        "deserunt aliqui",
+        "consequat minim Lorem",
+        "quis ea est",
+        "laboris est nulla dolor"
+    ],
+    "stdout": "esse",
+    "doc": "ipsum minim eiusmod proid"
+}

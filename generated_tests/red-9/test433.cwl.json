@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1Fl": {
+            "type": "File",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "ex dolor dolore",
+    "stderr": "labore"
+}

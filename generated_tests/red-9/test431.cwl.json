@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "MK4FC": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "eu"
+            },
+            "doc": "occaecat fugiat veniam"
+        }
+    },
+    "stdout": "elit est",
+    "stderr": "in adi"
+}

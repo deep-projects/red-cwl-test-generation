@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Wc1y_": {
+            "type": "long?",
+            "inputBinding": {
+                "position": 39134414
+            },
+            "doc": "dolore esse t"
+        }
+    },
+    "outputs": {},
+    "stdout": "cillum qui"
+}

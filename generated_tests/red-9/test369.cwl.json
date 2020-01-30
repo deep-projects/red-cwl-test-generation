@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "4VmoAC": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "velit n"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "consequat est labore"
+}

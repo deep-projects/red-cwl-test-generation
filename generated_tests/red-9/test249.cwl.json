@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "beGWhehV63": {
+            "type": "string?",
+            "inputBinding": {
+                "position": 66309932
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "in nostrud in anim proident",
+    "doc": "adipisicing"
+}

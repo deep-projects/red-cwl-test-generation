@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1Pn": {
+            "type": "boolean",
+            "inputBinding": {
+                "separate": true,
+                "position": 52237052,
+                "itemSeparator": "dolore est Lorem sunt no"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "in in dolor eu ut"
+}

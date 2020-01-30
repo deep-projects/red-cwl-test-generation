@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": [
+        "aliqua commodo nostrud cillum",
+        "eiusmod proident dolor aliquip",
+        "cupidatat anim pariatur laborum non"
+    ],
+    "stdout": "in mollit ea",
+    "stderr": "laborum commodo adipisicing quis"
+}

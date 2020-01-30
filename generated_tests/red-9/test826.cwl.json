@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "O7-5": {
+            "type": "boolean?",
+            "inputBinding": {},
+            "doc": "reprehenderit Excepteur ipsum pariatur"
+        }
+    },
+    "outputs": {
+        "XG2l_h8oP": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "ullamco velit amet dolore mollit"
+}

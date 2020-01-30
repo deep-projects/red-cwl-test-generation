@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "j54fIOBdD": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "laboris esse labore sint",
+    "stderr": "irure ea mollit tempor dolore"
+}

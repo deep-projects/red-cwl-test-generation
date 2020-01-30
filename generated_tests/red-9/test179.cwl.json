@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "QyNRG-jyCS": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "reprehenderit"
+            },
+            "doc": "irure Excepteur"
+        }
+    },
+    "doc": "in ipsum"
+}

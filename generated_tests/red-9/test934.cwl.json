@@ -1,0 +1,88 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "L": {
+            "type": "long",
+            "inputBinding": {
+                "position": 97604025
+            }
+        }
+    },
+    "outputs": {
+        "GZJwk0": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "reprehenderit"
+            },
+            "doc": "qui sed in"
+        }
+    },
+    "baseCommand": [
+        "magna do enim dol",
+        "dolor",
+        "dolor consequat Ut",
+        "ipsum ullamco deserunt culpa non",
+        "velit mollit laborum Ut dolore",
+        "occaecat magna nulla cillum pariatur",
+        "eu ut ut irure",
+        "sint",
+        "in quis ipsum culpa",
+        "elit tempor ut dolor dolore",
+        "non ex",
+        "Duis dolore labore in ullamco",
+        "nulla ullamco non ",
+        "commodo",
+        "u",
+        "elit volup",
+        "in ipsum",
+        "voluptate",
+        "aute est mollit",
+        "ea cillum consectetur dolore",
+        "occaecat labore nostrud cupidatat laborum",
+        "consequat aliquip eu",
+        "cillum in non est",
+        "mollit in",
+        "nisi est quis",
+        "cupidat",
+        "amet",
+        "ex",
+        "ipsum ex sed laborum no",
+        "commodo",
+        "exercitation nisi fugiat",
+        "in ullamco magna nulla",
+        "cupidatat aliquip dolor do est",
+        "ut proident ullamco in",
+        "tempor",
+        "aliquip minim",
+        "esse cillum dolor",
+        "aliquip veniam sed aute esse",
+        "Excepteur cupidatat dolore Lorem amet",
+        "laboris non anim labore",
+        "consectetur ut non tempor",
+        "id fugiat cupidatat aute",
+        "in",
+        "sed fugiat non",
+        "occae",
+        "commodo in eu ipsum non",
+        "elit",
+        "adipisicing com",
+        "reprehenderit ut consequat exercitation",
+        "magna",
+        "m",
+        "officia ve",
+        "ea ad laboris",
+        "sed id exercitation ea reprehenderit",
+        "laborum",
+        "officia",
+        "enim culpa cupidatat qui",
+        "aute tempor",
+        "ut in in eiusmod nostrud",
+        "eu ex",
+        "culpa fugiat",
+        "voluptate eu pro",
+        "enim ipsum mollit elit veniam"
+    ],
+    "stderr": "mollit esse",
+    "doc": "consectetur proident commodo ex exercitation"
+}

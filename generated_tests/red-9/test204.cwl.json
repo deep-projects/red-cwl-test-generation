@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ap": {
+            "type": "double[]",
+            "inputBinding": {
+                "prefix": "do cillum",
+                "separate": false,
+                "itemSeparator": "ex ullamco dolore"
+            },
+            "doc": "ea"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "deserunt Lorem culpa esse",
+    "stderr": "occaecat non aliqua velit",
+    "doc": "ut"
+}

@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "yQXp6QUzuA": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "ullamco consectetur",
+                "separate": false,
+                "itemSeparator": "nulla cillum pariatur Excepteur"
+            },
+            "doc": "e"
+        }
+    },
+    "outputs": {},
+    "stdout": "do",
+    "stderr": "nostrud non"
+}

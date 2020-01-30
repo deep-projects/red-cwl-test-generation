@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": "in",
+    "stdout": "sed nostrud et occaeca",
+    "stderr": "ea "
+}

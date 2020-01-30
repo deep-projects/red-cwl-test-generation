@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "y": {
+            "type": "boolean",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "doc": "dolor dolor consectetur irure ipsum"
+}

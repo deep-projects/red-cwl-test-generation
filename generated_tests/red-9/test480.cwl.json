@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "7hUxqdhg": {
+            "type": "long[]",
+            "inputBinding": {
+                "separate": false
+            },
+            "doc": "cupida"
+        }
+    },
+    "outputs": {
+        "1wkc": {
+            "type": "stderr"
+        }
+    }
+}

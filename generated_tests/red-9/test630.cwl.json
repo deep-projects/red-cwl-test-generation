@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "YBucT8iM": {
+            "type": "double[]",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "occaecat deserunt"
+            },
+            "doc": "in"
+        }
+    },
+    "outputs": {
+        "5pyiVb_": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "anim tempor do Duis ex"
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "3Xfg": {
+            "type": "long[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "ey1x41": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "sed fugiat veniam adipisicing"
+}

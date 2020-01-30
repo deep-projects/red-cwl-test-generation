@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "y": {
+            "type": "boolean[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "Mx8g": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "ut"
+            },
+            "doc": "Duis dolore nisi fugiat esse"
+        }
+    },
+    "doc": "dolor incididunt"
+}

@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "kff": {
+            "type": "string[]?",
+            "inputBinding": {
+                "position": 40347943,
+                "itemSeparator": "eu fugiat ullamco dolo"
+            },
+            "doc": "mollit nisi incididunt"
+        }
+    },
+    "outputs": {
+        "G": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "cupidatat labore fugiat"
+            },
+            "doc": "proident cupidatat sit"
+        }
+    },
+    "stdout": "proident fugiat deserunt minim consequat"
+}

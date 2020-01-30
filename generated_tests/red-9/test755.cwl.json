@@ -1,0 +1,61 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "bi-q": {
+            "type": "int[]?",
+            "inputBinding": {},
+            "doc": "nostrud ad"
+        }
+    },
+    "outputs": {
+        "4zq": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": [
+        "commodo amet ipsum",
+        "deserunt",
+        "elit aute sit",
+        "incididunt volup",
+        "Lorem eiusmo",
+        "consectetur",
+        "ea id elit",
+        "et ex",
+        "dolor nostrud culpa",
+        "Ut Excepteur eius",
+        "aliquip",
+        "dolore Excepteur est adipisicing occaecat",
+        "nostrud",
+        "aliqua",
+        "aute culpa consequat consectetur",
+        "Duis in magna",
+        "Lorem eiusmod",
+        "culpa ",
+        "culpa",
+        "laboris",
+        "dolor dolor",
+        "ut",
+        "anim",
+        "do esse",
+        "irure esse ad",
+        "ci",
+        "aute est tempo",
+        "dolor anim",
+        "occaecat ipsum",
+        "esse enim",
+        "do occaecat esse aliqua",
+        "dolore sunt",
+        "esse",
+        "anim eiusmod",
+        "",
+        "eiusmod incididunt",
+        "consectetur officia sunt in enim",
+        "occaecat e",
+        "tempor consectetur sunt",
+        "cillum nisi exercitation quis dolor",
+        "sunt Excepteur",
+        "labore Duis"
+    ],
+    "stdout": "quis id aliqua anim culpa"
+}

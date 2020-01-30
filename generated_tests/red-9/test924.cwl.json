@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "_edr": {
+            "type": "File",
+            "inputBinding": {
+                "prefix": "fugiat",
+                "separate": true
+            },
+            "doc": "laboris eu commodo sint"
+        }
+    },
+    "outputs": {
+        "JcjLSw": {
+            "type": "stdout"
+        }
+    }
+}

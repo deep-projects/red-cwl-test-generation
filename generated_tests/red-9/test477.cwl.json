@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "3Q_L": {
+            "type": "float[]",
+            "inputBinding": {
+                "prefix": "dolor ipsum et",
+                "itemSeparator": "dolore amet reprehenderit"
+            }
+        }
+    },
+    "outputs": {}
+}

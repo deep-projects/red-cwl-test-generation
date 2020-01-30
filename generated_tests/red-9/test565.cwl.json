@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "9qzdVYwdpb": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "dolore sed"
+            },
+            "doc": "elit"
+        }
+    },
+    "baseCommand": "exercitation do qui fugiat",
+    "stderr": "occaecat"
+}

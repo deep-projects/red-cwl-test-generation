@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "EA7": {
+            "type": "float[]",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "id commodo dolore"
+            },
+            "doc": "Duis incididunt consequat"
+        }
+    },
+    "outputs": {
+        "kvY": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "in ullamco commodo"
+            },
+            "doc": "adipisicing qui sunt et"
+        }
+    },
+    "stdout": "elit Ut dolore nulla"
+}

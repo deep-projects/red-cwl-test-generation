@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "JZ_5HyI": {
+            "type": "File?",
+            "inputBinding": {
+                "separate": true,
+                "position": 97065062,
+                "itemSeparator": "voluptate aliqu"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "laborum ea dolore",
+    "doc": "sit sint nostrud"
+}

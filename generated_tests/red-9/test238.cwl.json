@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "pcNyO8gycUx": {
+            "type": "double",
+            "inputBinding": {
+                "prefix": "Ut elit",
+                "position": 47124475
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "aute do"
+}

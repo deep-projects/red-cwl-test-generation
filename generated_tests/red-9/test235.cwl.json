@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "AnBrz": {
+            "type": "File",
+            "inputBinding": {
+                "prefix": "mollit ad dolore "
+            },
+            "doc": "qui ut cupidatat"
+        }
+    },
+    "outputs": {},
+    "doc": "laboris non elit aute sed"
+}

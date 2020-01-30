@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "CVYajt6K6v": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "nostrud ipsum laborum"
+            },
+            "doc": "incididunt"
+        }
+    },
+    "baseCommand": null,
+    "doc": "est deserunt ut"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rur5F4e9W": {
+            "type": "string?",
+            "inputBinding": {
+                "separate": true,
+                "position": 46721070
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "doc": "tempor"
+}

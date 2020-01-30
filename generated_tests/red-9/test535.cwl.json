@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "h7": {
+            "type": "float",
+            "inputBinding": {
+                "separate": true,
+                "position": 68336860
+            }
+        }
+    },
+    "outputs": {
+        "gv-7pNYsAQ": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "aliqua commodo"
+            },
+            "doc": "esse deserunt nostrud dolor reprehenderit"
+        }
+    }
+}

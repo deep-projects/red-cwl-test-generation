@@ -1,0 +1,47 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "qJ7Hn": {
+            "type": "string[]",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "esse",
+        "id ex",
+        "consequat ex",
+        "id nulla fugiat et commodo",
+        "commodo n",
+        "quis Duis ad",
+        "velit aliquip ipsum",
+        "aute ut ut minim",
+        "veniam",
+        "deserunt reprehenderit commodo",
+        "incididunt cupidatat",
+        "incididunt est",
+        "eu nulla",
+        "adipisicing sunt",
+        "dolore fugiat",
+        "consequat velit fugiat non",
+        "Lorem",
+        "elit ea est",
+        "consequat cillum minim",
+        "pariatur irure laborum nisi officia",
+        "reprehenderit aute anim",
+        "Ut reprehenderit",
+        "nisi quis",
+        "culpa occaecat pariatur quis",
+        "aliquip sunt ex",
+        "labore ut exercitation",
+        "eu",
+        "aliquip dolore sit ad",
+        "dolore",
+        "et eiusmod irure esse"
+    ],
+    "stderr": "velit",
+    "doc": "quis culpa officia incididunt aute"
+}

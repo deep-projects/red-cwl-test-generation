@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "g": {
+            "type": "float",
+            "inputBinding": {
+                "position": 96601333,
+                "itemSeparator": "do id Ut non"
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "id exercitation dolor Duis Excepteur",
+    "doc": "proident"
+}

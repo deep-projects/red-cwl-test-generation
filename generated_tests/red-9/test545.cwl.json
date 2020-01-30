@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-JodUzO4O-": {
+            "type": "float?",
+            "inputBinding": {
+                "prefix": "sit sed ullamco"
+            },
+            "doc": "consectetur ut ullamco"
+        }
+    },
+    "outputs": {
+        "Tqf-YIEE7": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "in"
+            }
+        }
+    },
+    "stdout": "nulla ut dolore officia",
+    "stderr": "mollit velit ipsum sit nisi",
+    "doc": "sunt nostrud"
+}

@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "z5qblzrLymd": {
+            "type": "boolean[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stderr": "aliqua ut ex aute",
+    "doc": "ut incididunt"
+}

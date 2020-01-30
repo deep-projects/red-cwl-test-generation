@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Cdo": {
+            "type": "double",
+            "inputBinding": {
+                "position": 8469042,
+                "itemSeparator": "minim ex officia"
+            },
+            "doc": "ut dolore"
+        }
+    },
+    "outputs": {
+        "v035YDgWO": {
+            "type": "stderr"
+        }
+    }
+}

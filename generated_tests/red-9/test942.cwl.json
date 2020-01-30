@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ux-t": {
+            "type": "string[]",
+            "inputBinding": {
+                "separate": true,
+                "position": 58180081,
+                "itemSeparator": "qui"
+            }
+        }
+    },
+    "outputs": {
+        "I7": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "elit labore"
+            }
+        }
+    },
+    "stderr": "deserunt in culpa Duis"
+}

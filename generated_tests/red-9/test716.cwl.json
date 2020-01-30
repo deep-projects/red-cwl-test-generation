@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8A": {
+            "type": "long[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "12": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "id sint tempor adip"
+            }
+        }
+    },
+    "doc": "dolore amet sint occaecat"
+}

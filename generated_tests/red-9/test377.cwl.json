@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "6O4kph": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "veniam",
+    "doc": "consectetur ipsum qui proident reprehender"
+}

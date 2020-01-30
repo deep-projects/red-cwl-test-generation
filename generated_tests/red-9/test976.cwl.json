@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "zl4xxkj": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "sed"
+            },
+            "doc": "commodo ut est ex"
+        }
+    },
+    "doc": "ut occaecat aliquip"
+}

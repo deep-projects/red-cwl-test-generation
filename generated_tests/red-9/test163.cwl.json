@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "t2wgwpF": {
+            "type": "File?",
+            "inputBinding": {
+                "position": 18930940
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "ex velit cupidatat",
+    "stderr": "non consectetur mollit"
+}

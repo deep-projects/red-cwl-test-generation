@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "re7": {
+            "type": "File[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "wIBLjAZ-M": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "in quis deserunt proident in",
+    "doc": "consectetur cupidatat ad reprehenderit aliquip"
+}

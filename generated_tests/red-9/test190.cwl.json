@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "u06Y5VEp": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "sunt amet commodo pro",
+    "stdout": "exercitation consequat",
+    "stderr": "mollit id do in"
+}

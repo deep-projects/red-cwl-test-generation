@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "cj9UMUJs-": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "dolor esse Excepteur"
+            }
+        }
+    },
+    "stdout": "pariatur commodo"
+}

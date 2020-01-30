@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "z-9O": {
+            "type": "double[]?",
+            "inputBinding": {
+                "prefix": "commodo laboris est",
+                "separate": false,
+                "position": 96680100
+            }
+        }
+    },
+    "outputs": {
+        "NzMzCmtgr7": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "esse officia"
+            },
+            "doc": "ullamco minim"
+        }
+    },
+    "stderr": "nisi fugiat"
+}

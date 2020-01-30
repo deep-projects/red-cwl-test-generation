@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "lP1": {
+            "type": "Directory?",
+            "inputBinding": {
+                "prefix": "cupidatat"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "in",
+        "pariatu",
+        "sint incididunt fugiat mollit sit"
+    ],
+    "stderr": "esse qui sed proident eu"
+}

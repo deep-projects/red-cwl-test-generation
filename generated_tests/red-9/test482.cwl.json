@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "AV": {
+            "type": "File[]",
+            "inputBinding": {
+                "prefix": "aute ut qui dolor quis"
+            },
+            "doc": "ex laboris enim"
+        }
+    },
+    "outputs": {
+        "L": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "in do exercitation amet"
+            }
+        }
+    },
+    "stdout": "et sunt non reprehenderit"
+}

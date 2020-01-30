@@ -1,0 +1,56 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "lqUAtTwMt": {
+            "type": "long?",
+            "inputBinding": {
+                "position": 89374101
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "quis ",
+        "ut",
+        "dolore cillum eiusmod fugiat",
+        "",
+        "sed et Lorem officia",
+        "enim ipsum Lorem",
+        "ut cillum sed",
+        "labore aliquip nulla ut voluptate",
+        "nisi qui ad sunt anim",
+        "ipsum",
+        "dolor aute",
+        "officia",
+        "dolore",
+        "consectetur fugiat",
+        "dolor Duis d",
+        "exercitation",
+        "nostrud",
+        "irur",
+        "dolore s",
+        "ea",
+        "mollit magna ullamco",
+        "ullamco voluptate",
+        "mollit Excepteur",
+        "proident ut",
+        "esse enim labore",
+        "eu tempor ",
+        "pariatur qui deserunt nisi irure",
+        "sed",
+        "ut",
+        "occaecat ullamco labore culpa",
+        "aliquip",
+        "adipisicing sunt voluptate in",
+        "tempor officia",
+        "occaecat ullamco nostrud",
+        "fugiat eu",
+        "et deserunt mollit non",
+        "dolor",
+        "magna exercitation ipsum",
+        ""
+    ],
+    "stderr": "su",
+    "doc": "eu irure in dolore"
+}

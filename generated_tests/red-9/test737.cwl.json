@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Q_DrJVccCik": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "eu aliqua nisi",
+    "stderr": "i"
+}

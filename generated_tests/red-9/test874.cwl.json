@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "J2wdBrbKZ": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "sit exercitation",
+    "stderr": "esse",
+    "doc": "anim proident mollit Duis consequat"
+}

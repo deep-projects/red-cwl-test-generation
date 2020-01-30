@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "UEb": {
+            "type": "int",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "mEBrKY": {
+            "type": "stdout"
+        }
+    },
+    "doc": "minim esse Ut"
+}

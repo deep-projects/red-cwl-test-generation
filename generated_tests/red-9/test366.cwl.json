@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "tUNmNFt": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "pariatur in quis veniam in"
+            },
+            "doc": "dolor non irure Ut incididunt"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "id",
+    "doc": "in anim ipsum ex"
+}

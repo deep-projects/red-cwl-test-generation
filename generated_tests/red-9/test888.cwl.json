@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "zep": {
+            "type": "int?",
+            "inputBinding": {
+                "prefix": "consectetur",
+                "position": 92954870,
+                "itemSeparator": "qui ut anim"
+            },
+            "doc": "proident incididunt in"
+        }
+    },
+    "outputs": {}
+}

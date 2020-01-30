@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "zOH6-y9NJ": {
+            "type": "double?",
+            "inputBinding": {
+                "position": 27685506
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "dolore sit",
+    "doc": "velit est cupidatat"
+}

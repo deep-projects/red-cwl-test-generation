@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "h0tRTDS": {
+            "type": "float?",
+            "inputBinding": {
+                "prefix": "adipisicing Excepteur",
+                "separate": false,
+                "position": 17868663
+            },
+            "doc": ""
+        }
+    },
+    "outputs": {
+        "rnExivs3JiB": {
+            "type": "stderr"
+        }
+    }
+}

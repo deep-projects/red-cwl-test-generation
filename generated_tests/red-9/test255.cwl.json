@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "PZfYIGZ8": {
+            "type": "float[]?",
+            "inputBinding": {},
+            "doc": "in do"
+        }
+    },
+    "outputs": {
+        "avZqxcPl37": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "dolore sint minim"
+            },
+            "doc": "anim cupidatat tempor"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stderr": "non",
+    "doc": "eiusmod Ut ut Excepteur"
+}

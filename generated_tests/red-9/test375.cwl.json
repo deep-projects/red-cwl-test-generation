@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Qvi4AQJRqLb": {
+            "type": "File[]",
+            "inputBinding": {
+                "prefix": "nostrud mollit consectetur ipsum et",
+                "itemSeparator": "veniam cupidatat ea ex"
+            },
+            "doc": "ipsum elit nostrud dolo"
+        }
+    },
+    "outputs": {
+        "-CyXFFJu": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "in sint aliquip voluptate labore"
+            },
+            "doc": "veniam Excepteur commodo"
+        }
+    }
+}

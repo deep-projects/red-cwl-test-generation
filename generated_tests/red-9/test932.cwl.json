@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "7jQ6": {
+            "type": "string[]?",
+            "inputBinding": {},
+            "doc": "Excepteur volu"
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "wVwN-hz4c7r": {
+            "type": "File[]",
+            "inputBinding": {
+                "separate": false,
+                "position": 85521647,
+                "itemSeparator": "dolore in"
+            }
+        }
+    },
+    "outputs": {
+        "RRSP4WS": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "culpa qui sed do"
+            }
+        }
+    },
+    "baseCommand": "tempor ea",
+    "stdout": "ipsum tempor deserunt cupidatat",
+    "doc": "Ut sit"
+}

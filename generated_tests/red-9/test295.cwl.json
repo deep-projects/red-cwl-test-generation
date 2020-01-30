@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "81x9S6sS0Bu": {
+            "type": "double[]?",
+            "inputBinding": {},
+            "doc": "proident do laboris voluptate ea"
+        }
+    },
+    "outputs": {}
+}

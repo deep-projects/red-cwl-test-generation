@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "4EC": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "enim veniam",
+    "stdout": "eiusmod ad ut dolor",
+    "doc": "quis in amet"
+}

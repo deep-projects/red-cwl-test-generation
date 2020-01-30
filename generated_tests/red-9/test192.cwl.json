@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "bhPtv": {
+            "type": "double",
+            "inputBinding": {
+                "separate": true,
+                "position": 57220799,
+                "itemSeparator": "in oc"
+            }
+        }
+    },
+    "outputs": {},
+    "doc": "officia sunt Excepteur"
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "_Vm": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "amet magna proident ad Lorem"
+            }
+        }
+    },
+    "stderr": "anim qui deserunt veniam",
+    "doc": "est"
+}

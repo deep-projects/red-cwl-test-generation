@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "sint",
+    "stderr": "irure elit non id",
+    "doc": "ipsum"
+}

@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "0SN": {
+            "type": "float",
+            "inputBinding": {
+                "prefix": "sunt fugiat cillum elit",
+                "separate": false,
+                "position": 30480060
+            }
+        }
+    },
+    "outputs": {
+        "F7": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "dolor anim amet elit"
+}

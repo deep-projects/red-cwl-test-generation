@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "TSgPV92jQDV": {
+            "type": "Directory?",
+            "inputBinding": {
+                "position": 90021344
+            }
+        }
+    },
+    "outputs": {},
+    "stderr": "culpa tempor enim"
+}

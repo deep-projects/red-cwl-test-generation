@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "2IY": {
+            "type": "boolean?",
+            "inputBinding": {
+                "itemSeparator": "in consectetur eiusm"
+            },
+            "doc": "officia iru"
+        }
+    },
+    "outputs": {
+        "a6LTbzs": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "id cupidatat consequat",
+    "doc": "elit et eiusmod cillum"
+}

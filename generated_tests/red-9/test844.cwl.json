@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8FTp5": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 94523809,
+                "itemSeparator": "voluptate aliquip Lorem pariatur"
+            },
+            "doc": "velit fugiat"
+        }
+    },
+    "outputs": {
+        "biK": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "dolore nisi elit in",
+    "doc": "amet"
+}

@@ -1,0 +1,45 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "UYUXDY": {
+            "type": "double[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "vS8": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "do enim dolore",
+        "irure velit",
+        "es",
+        "aliquip ut exercitation",
+        "do nulla qui",
+        "culpa",
+        "velit aute",
+        "cupida",
+        "Duis ut laborum voluptate dolor",
+        "sint sed voluptate dolor",
+        "aliquip pariatur ",
+        "aute",
+        "pariatur",
+        "magn",
+        "eiusmod qui labore ex",
+        "laborum in cupidatat voluptat",
+        "do ",
+        "deserunt eiusmod veniam proident",
+        "eiusmod sed exercitation in",
+        "ut sed deserunt Duis",
+        "deserunt",
+        "velit",
+        "aute aliqu",
+        "dolor in velit Ut ex",
+        "mollit irure sed ull",
+        "comm",
+        "eu"
+    ],
+    "doc": "nisi nulla"
+}

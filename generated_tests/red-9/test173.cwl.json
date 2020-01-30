@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ckPAPWn": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "prefix": "nostrud incididunt sint",
+                "position": 61842091,
+                "itemSeparator": "anim dolore"
+            },
+            "doc": "enim ipsum si"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "in l",
+        "cupidatat veniam commodo",
+        "aliquip laboris",
+        "sed tempor incididunt",
+        "eiusmod Lorem laborum exercitation",
+        "reprehenderit",
+        "Ut eu commodo laborum"
+    ]
+}

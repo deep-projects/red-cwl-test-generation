@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Y8": {
+            "type": "double?",
+            "inputBinding": {
+                "separate": true,
+                "position": 74166323
+            },
+            "doc": "Duis elit dolor"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "laboris labore qui tempor ea",
+    "doc": "deserunt id reprehenderit eiusmod"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "A5-W": {
+            "type": "int?",
+            "inputBinding": {
+                "prefix": "nostrud consectetur ea in",
+                "position": 13887789,
+                "itemSeparator": "in"
+            },
+            "doc": "dolor eiusmod ut consectetur occaecat"
+        }
+    },
+    "outputs": {}
+}

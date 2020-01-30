@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "AN0BdUM-EVA": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "separate": true
+            },
+            "doc": "quis adipisicing"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "nisi est Duis veniam",
+    "stderr": "dolore commodo ut"
+}

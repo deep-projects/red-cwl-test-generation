@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "nJ5": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "vel"
+            },
+            "doc": "do"
+        }
+    }
+}

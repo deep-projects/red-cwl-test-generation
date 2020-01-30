@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6qcCV": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "velit",
+                "separate": false,
+                "position": 8138902
+            }
+        }
+    },
+    "outputs": {
+        "sjDGiAoJYz": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "in reprehenderit"
+}

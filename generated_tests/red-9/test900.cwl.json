@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "x": {
+            "type": "float?",
+            "inputBinding": {
+                "position": 22314227,
+                "itemSeparator": "dolore veniam Excepteur reprehenderit proident"
+            }
+        }
+    },
+    "outputs": {
+        "5yRgfef2": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "proident tempor",
+    "stderr": "sed sunt",
+    "doc": "nulla dolor ipsum Ut pariatur"
+}

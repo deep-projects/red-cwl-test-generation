@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "2p": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "adipisicing cupidatat Ut dolor",
+    "doc": "do pariatur eiusmod"
+}

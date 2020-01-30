@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "V9YmA2cv": {
+            "type": "int",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "stdout": "exercitation ullamco mollit enim"
+}

@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Yj": {
+            "type": "File?",
+            "inputBinding": {
+                "prefix": "amet sit cillum elit",
+                "separate": false,
+                "position": 46031324
+            }
+        }
+    },
+    "outputs": {
+        "xS": {
+            "type": "stdout"
+        }
+    }
+}

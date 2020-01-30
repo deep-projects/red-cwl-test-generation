@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "DvW_-Y": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "incididunt magna Lorem aliquip",
+    "stderr": "elit laboris eiusmod tempor commodo"
+}

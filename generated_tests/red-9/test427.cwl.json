@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "U": {
+            "type": "File?",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "DuJQvZaWmr": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "ad minim commodo sit"
+            }
+        }
+    }
+}

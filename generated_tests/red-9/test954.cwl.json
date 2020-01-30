@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "JdYEQETi_y": {
+            "type": "boolean?",
+            "inputBinding": {
+                "separate": true,
+                "position": 88340856,
+                "itemSeparator": "incididunt in"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "voluptate est sunt culpa",
+    "stderr": "laborum quis adipisicing culpa",
+    "doc": "Excepteur id commodo Duis ipsum"
+}

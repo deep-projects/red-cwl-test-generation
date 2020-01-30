@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "EZOJeU0NQSL": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "laborum",
+                "separate": true,
+                "itemSeparator": "id"
+            },
+            "doc": "do culpa aliquip Excepteur"
+        }
+    },
+    "outputs": {
+        "3fBkkBkDO-q": {
+            "type": "stdout"
+        }
+    },
+    "doc": "dolore sunt amet aliqua"
+}

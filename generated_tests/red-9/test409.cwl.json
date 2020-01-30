@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "h": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "dolore adipisicing deserunt",
+    "stdout": "officia",
+    "doc": "esse la"
+}

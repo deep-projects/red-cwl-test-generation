@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "qT": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "laborum laboris ad"
+            },
+            "doc": "occaecat ex dolore"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "deserunt cupidatat",
+    "doc": "in l"
+}

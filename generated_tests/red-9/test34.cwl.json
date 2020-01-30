@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "6dm": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "eu amet enim esse"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stderr": "es",
+    "doc": "ut qui"
+}

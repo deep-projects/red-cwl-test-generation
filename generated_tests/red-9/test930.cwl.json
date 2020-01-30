@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "-f8H_z68ymd": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "non ad ipsum"
+            }
+        }
+    },
+    "stderr": "dolor minim occaecat exercitation"
+}

@@ -1,0 +1,32 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "kSWUP-": {
+            "type": "long?",
+            "inputBinding": {
+                "position": 36329107
+            },
+            "doc": "laboris in Lorem dolor veniam"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "nulla cillum",
+        "nisi labore Duis eu ipsum",
+        "veniam ut adipisicing",
+        "eiusmod nisi labore officia",
+        "in nisi do",
+        "ad voluptate ut qui",
+        "dol",
+        "nulla",
+        "nulla sint in",
+        "Ut et",
+        "sint reprehenderit exercitation eu",
+        "labore fugiat",
+        "amet id",
+        "veniam eu id dolor"
+    ],
+    "stderr": "elit et est aliqua",
+    "doc": "dolore mollit"
+}

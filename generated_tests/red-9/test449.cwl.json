@@ -1,0 +1,41 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "vKOYlbRuRI": {
+            "type": "double",
+            "inputBinding": {
+                "position": 56509369
+            }
+        }
+    },
+    "outputs": {
+        "AMGc573": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "laboris"
+            }
+        }
+    },
+    "baseCommand": [
+        "incididunt cillum irure ipsum adipisicing",
+        "velit aliqua nulla",
+        "Duis nostrud dolor",
+        "dolor pariatur ea ex",
+        "quis voluptate Lorem consequat",
+        "anim",
+        "do",
+        "labore adipisicing",
+        "pariatur officia reprehe",
+        "pari",
+        "nulla cupidatat a",
+        "fugiat",
+        "labore",
+        "Excep",
+        "consectetur occaecat",
+        "dolor incididunt sint cupida",
+        "Lorem in"
+    ],
+    "stdout": "veniam",
+    "stderr": "tempor adipisicing"
+}

@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "B": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "prefix": "dolor laboris quis",
+                "position": 51219091,
+                "itemSeparator": "aut"
+            },
+            "doc": "aliqua do est"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "proident consectetur Duis nulla",
+    "doc": "quis Excepteur sed elit"
+}

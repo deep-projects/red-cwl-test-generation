@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "E_": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "irure",
+                "position": 19650446,
+                "itemSeparator": "dolor velit"
+            },
+            "doc": "Excepteur ex aliqua"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "id"
+}

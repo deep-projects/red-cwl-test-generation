@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "AuG52": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "ea labore"
+            }
+        }
+    }
+}

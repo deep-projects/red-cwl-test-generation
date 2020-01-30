@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "B-VQO": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "in elit nulla"
+            }
+        }
+    }
+}

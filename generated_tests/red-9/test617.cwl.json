@@ -1,0 +1,86 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "k8l01cWJ": {
+            "type": "long[]",
+            "inputBinding": {
+                "separate": false,
+                "position": 98346008,
+                "itemSeparator": "nisi nostrud"
+            }
+        }
+    },
+    "outputs": {
+        "FyiRk69YuhS": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "commodo esse"
+            },
+            "doc": "enim"
+        }
+    },
+    "baseCommand": [
+        "eiu",
+        "aliquip",
+        "elit est",
+        "veniam voluptate Excepteur ad id",
+        "in reprehenderit consectetur sint",
+        "consequat ad non sit",
+        "ul",
+        "proident",
+        "ullamco",
+        "qui quis sint commodo",
+        "mollit quis",
+        "sit qui aute sunt nulla",
+        "irure deserunt do reprehenderit",
+        "aliqua ullamco sunt sint",
+        "reprehenderit dolore id",
+        "occaecat ex ut cillum ullamco",
+        "nulla aute",
+        "laboris",
+        "nisi",
+        "exercitation anim Lorem dolore",
+        "non consequat pariatur",
+        "incididunt dolor exercitation aute esse",
+        "nisi magna",
+        "aliquip",
+        "Excepteur quis irure qui labor",
+        "in",
+        "eiusmod occaecat veniam qui",
+        "dolore ad sed laborum",
+        "in",
+        "officia ad",
+        "in",
+        "occaecat minim deserunt eu ex",
+        "occaecat labore",
+        "quis sint occaecat cupidatat sit",
+        "sed id non",
+        "eu reprehenderit consequat commodo elit",
+        "nostrud",
+        "dolore commodo in",
+        "adipisicing esse",
+        "esse",
+        "Lorem",
+        "consequat et quis",
+        "sed eu ipsum",
+        "enim laboris",
+        "culpa",
+        "eu sit ea",
+        "exercitation",
+        "ex",
+        "veniam in",
+        "Duis",
+        "aliquip dolore Ut nostrud",
+        "in",
+        "consectetur",
+        "consequat velit ipsum occaecat mollit",
+        "nisi",
+        "nisi proident pariatur eu occaecat",
+        "veniam",
+        "et nostrud",
+        "in adipisicing"
+    ],
+    "stderr": "non",
+    "doc": "cupidatat"
+}

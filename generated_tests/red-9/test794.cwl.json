@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "z": {
+            "type": "File?",
+            "inputBinding": {
+                "prefix": "sunt quis est amet ex",
+                "separate": true,
+                "itemSeparator": "fugiat et"
+            }
+        }
+    },
+    "outputs": {
+        "yPg": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "doc": "minim aute nisi Lorem aliquip"
+}

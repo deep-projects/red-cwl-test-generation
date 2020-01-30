@@ -1,0 +1,10 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "q6vIAT674e2": {
+            "type": "stderr"
+        }
+    }
+}

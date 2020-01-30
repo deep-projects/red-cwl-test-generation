@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8SL0D": {
+            "type": "long?",
+            "inputBinding": {
+                "prefix": "pariatur",
+                "itemSeparator": "amet laboris"
+            },
+            "doc": "eiusmod eu"
+        }
+    },
+    "outputs": {}
+}

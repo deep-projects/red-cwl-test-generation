@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Tn": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "veniam ullamco commodo"
+            },
+            "doc": "in Excepteur velit reprehenderit quis"
+        }
+    },
+    "stdout": "est adipisicing",
+    "stderr": "laboris irure est ea"
+}

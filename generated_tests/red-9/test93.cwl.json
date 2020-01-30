@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "APpVOnq_w5C": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "aliqua eu incididunt nostrud u",
+                "separate": true,
+                "itemSeparator": "Ut"
+            }
+        }
+    },
+    "outputs": {}
+}

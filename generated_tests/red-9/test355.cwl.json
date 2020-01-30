@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Qepnr": {
+            "type": "int[]",
+            "inputBinding": {},
+            "doc": "veniam Lorem nostrud dolore"
+        }
+    },
+    "outputs": {
+        "5LF": {
+            "type": "stderr"
+        }
+    }
+}

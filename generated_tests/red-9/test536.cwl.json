@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sF3BdK2M7": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "veniam laborum",
+                "separate": true,
+                "position": 70849533
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "occaecat pariatur",
+    "stdout": "dolore pariatur",
+    "doc": "cillum "
+}

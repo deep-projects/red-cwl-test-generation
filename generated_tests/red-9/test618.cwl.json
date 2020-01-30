@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "FWtDfWke": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "do dolor ut",
+    "stderr": "in pariatur amet officia incididunt",
+    "doc": "dolor"
+}

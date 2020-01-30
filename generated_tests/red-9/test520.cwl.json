@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "ewVIGT6": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "exercitation adipisicing aute magna"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "3CeO6P": {
+            "type": "boolean?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "apuJI": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "consectetur aute"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "sed esse velit in cupidatat",
+    "doc": "ut"
+}

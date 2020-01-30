@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "_aoNIz0DUjz": {
+            "type": "File",
+            "inputBinding": {
+                "position": 75789632
+            }
+        }
+    },
+    "outputs": {}
+}

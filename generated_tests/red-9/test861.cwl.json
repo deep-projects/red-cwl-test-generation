@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "6mQtM22rEQu": {
+            "type": "stderr"
+        }
+    },
+    "doc": "culpa aliqua cillum"
+}

@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "IrcOxK": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "irure ut vel"
+            }
+        }
+    },
+    "stdout": ""
+}

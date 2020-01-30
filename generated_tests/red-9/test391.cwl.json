@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "tL": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "ea magna "
+            }
+        }
+    }
+}

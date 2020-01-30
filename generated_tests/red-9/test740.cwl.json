@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "p3oharM19lw": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "position": 38348519,
+                "itemSeparator": "sint ullamco"
+            }
+        }
+    },
+    "outputs": {
+        "2Eq7gzN": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": ""
+            }
+        }
+    },
+    "baseCommand": "nisi",
+    "stdout": "proident culpa enim sint",
+    "doc": "officia ullamco "
+}

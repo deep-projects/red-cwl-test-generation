@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "5jLfyA": {
+            "type": "stderr"
+        }
+    },
+    "doc": "ut mollit non sit ad"
+}

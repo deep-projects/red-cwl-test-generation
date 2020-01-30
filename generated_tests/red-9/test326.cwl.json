@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "ad cupidatat",
+    "doc": "qui dolore Ut aliquip repre"
+}

@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Tfih": {
+            "type": "boolean[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "doc": "dolore quis"
+}

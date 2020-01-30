@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "T3X": {
+            "type": "Directory",
+            "inputBinding": {
+                "prefix": "ex",
+                "position": 33963167,
+                "itemSeparator": "veniam ut tempor"
+            },
+            "doc": "laboris velit"
+        }
+    },
+    "outputs": {
+        "lHkApYWvK": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "ex"
+            }
+        }
+    },
+    "stdout": "consecte",
+    "stderr": "ut ea fugiat"
+}

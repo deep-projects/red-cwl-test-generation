@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "QJRFU": {
+            "type": "File[]",
+            "inputBinding": {
+                "itemSeparator": "elit"
+            }
+        }
+    },
+    "outputs": {
+        "WT615": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "veniam anim officia id ut"
+            },
+            "doc": "ea dolore labore"
+        }
+    },
+    "stdout": "ex nulla enim tempor fugiat"
+}

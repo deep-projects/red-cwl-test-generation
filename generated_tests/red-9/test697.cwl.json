@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fqPmM4": {
+            "type": "Directory?",
+            "inputBinding": {
+                "itemSeparator": "consequat ullamco reprehenderit magna non"
+            }
+        }
+    },
+    "outputs": {
+        "PE": {
+            "type": "stderr"
+        }
+    },
+    "doc": "ad velit nostrud consectetur"
+}

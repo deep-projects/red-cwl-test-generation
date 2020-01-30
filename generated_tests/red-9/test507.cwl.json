@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "BM": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "in ve"
+            }
+        }
+    },
+    "stdout": "cupidatat occaecat",
+    "doc": "ipsum mollit anim irure"
+}

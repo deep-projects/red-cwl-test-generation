@@ -1,0 +1,8 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "labore do laboris qui nostr",
+    "stderr": "reprehenderit nostrud eu"
+}

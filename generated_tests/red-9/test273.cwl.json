@@ -1,0 +1,59 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Ea": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "amet nisi laboris deserunt"
+            }
+        }
+    },
+    "baseCommand": [
+        "aliquip pariatur sunt nisi exercitation",
+        "velit ex",
+        "officia eu nisi",
+        "commodo",
+        "fugiat ex",
+        "laboris eu ea fugiat officia",
+        "exercitation Duis nulla ad el",
+        "aliquip veniam",
+        "magna",
+        "Lorem qui amet Ut sit",
+        "dolor nisi commodo ea",
+        "sunt c",
+        "ad minim",
+        "esse sed",
+        "mollit labore nulla anim Excepteur",
+        "reprehenderit",
+        "occaecat dolor veniam Excepteur et",
+        "sunt sint exercitation eiusmod",
+        "deserunt qui Duis in anim",
+        "commodo consectetur culpa anim dolore",
+        "ea",
+        "commodo pari",
+        "minim et culpa do",
+        "in adipisicing nisi id enim",
+        "nisi anim Lorem dolor aute",
+        "minim irure elit ut",
+        "nostrud amet tempor veniam",
+        "ut id enim exercitation dolore",
+        "Lorem elit Ut",
+        "in quis sit mollit laborum",
+        "sit",
+        "ut quis cupidat",
+        "nulla",
+        "",
+        "id eiusmod cupidatat do esse",
+        "non dolor id",
+        "qu",
+        "dolor",
+        "culpa ullamco eiusmod ut irure",
+        "minim in sint Excepteur",
+        "eiusmod",
+        "reprehenderit esse pariatur dolore"
+    ],
+    "stdout": "Excepteur",
+    "doc": "proident sed"
+}

@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "GrbN0zwi_VQ": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "position": 88498059
+            }
+        }
+    },
+    "outputs": {
+        "KcloZ": {
+            "type": "stdout"
+        }
+    },
+    "stderr": "eu"
+}

@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6koNnmcpU": {
+            "type": "double[]?",
+            "inputBinding": {},
+            "doc": "ad"
+        }
+    },
+    "outputs": {
+        "33ALUGpo": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laborum pariatur veniam sit dolor"
+            },
+            "doc": "commodo"
+        }
+    },
+    "baseCommand": null,
+    "stderr": "eiusmod cillum eu Duis"
+}

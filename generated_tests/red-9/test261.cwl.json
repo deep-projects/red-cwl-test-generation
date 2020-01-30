@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "dom": {
+            "type": "long[]?",
+            "inputBinding": {
+                "prefix": "laboris",
+                "separate": false,
+                "itemSeparator": "fugiat"
+            },
+            "doc": "fugiat id ullamco"
+        }
+    },
+    "outputs": {}
+}

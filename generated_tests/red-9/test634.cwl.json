@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "uYRD3": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "aliqua non tempor",
+    "doc": "in ut"
+}

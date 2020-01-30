@@ -1,0 +1,45 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "bKlqwXE5": {
+            "type": "File[]?",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {
+        "wU": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "",
+        "commodo elit sunt Duis",
+        "aliqua",
+        "quis ad enim ipsum",
+        "culpa proident",
+        "ipsum cillum proident aliqua",
+        "esse exercitation aliquip",
+        "proide",
+        "veniam",
+        "est in",
+        "voluptate aute et in",
+        "est fugiat culpa do incididunt",
+        "minim qui ex ut",
+        "Duis a",
+        "voluptate velit",
+        "in",
+        "consequat minim",
+        "Lorem laboris commodo dolor",
+        "anim cons",
+        "mollit velit",
+        "pariatur anim in esse incididunt",
+        "sit",
+        "exercitation ali",
+        "anim et laboris"
+    ],
+    "stderr": "nulla do",
+    "doc": "pariatur aliqua voluptate"
+}

@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "nFvv6ABws": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "voluptate do proident velit"
+            }
+        }
+    },
+    "outputs": {
+        "j": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "et incididunt minim in ullamco",
+    "stderr": "nulla",
+    "doc": "veniam proident mollit sunt"
+}

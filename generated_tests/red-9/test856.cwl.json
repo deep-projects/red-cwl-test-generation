@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "JduJA": {
+            "type": "int?",
+            "inputBinding": {
+                "prefix": "proident",
+                "separate": true,
+                "position": 13018172
+            },
+            "doc": "magna veniam laboris proident"
+        }
+    },
+    "outputs": {
+        "Dj2S_6": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "sunt nisi amet velit",
+    "stderr": "sint esse"
+}

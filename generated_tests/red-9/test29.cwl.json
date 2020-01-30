@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "IimfpkVt": {
+            "type": "int?",
+            "inputBinding": {
+                "separate": false,
+                "position": 40674979,
+                "itemSeparator": "consectetur cillum sint nisi"
+            }
+        }
+    },
+    "outputs": {}
+}

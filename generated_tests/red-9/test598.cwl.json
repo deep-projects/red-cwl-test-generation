@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "KTZ": {
+            "type": "File[]",
+            "inputBinding": {
+                "prefix": "pariatur cupidatat",
+                "position": 8152939,
+                "itemSeparator": "elit Lorem sit"
+            }
+        }
+    },
+    "outputs": {
+        "kYWFL8KbZAF": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "in in pariatur",
+    "doc": "Lorem laboris"
+}

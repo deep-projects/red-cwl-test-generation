@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "n0L-4zRMu-": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "do"
+            },
+            "doc": "occaecat Excepteur cupidatat do eu"
+        }
+    },
+    "stdout": "in labore Excepteur tempor"
+}

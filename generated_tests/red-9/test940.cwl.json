@@ -1,0 +1,31 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "9Ruj4U76gur": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "position": 86355402,
+                "itemSeparator": "adipisicing et culpa"
+            },
+            "doc": "sunt "
+        }
+    },
+    "outputs": {
+        "OXPTwAkBptA": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "eiusmod in magna",
+        "enim des",
+        "dolore qui minim id cupidatat",
+        "proident sit",
+        "qui sed elit ",
+        "veniam aute aliquip",
+        "nulla",
+        "in cillum",
+        "nisi incididunt quis nulla sint",
+        "quis sed velit"
+    ]
+}

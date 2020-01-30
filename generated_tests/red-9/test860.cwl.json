@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "b": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "cup"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "minim",
+    "stderr": "ex"
+}

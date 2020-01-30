@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "25N": {
+            "type": "string[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "i": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "sed velit in tempor ut"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stdout": "est dolore qui non consectetur",
+    "stderr": "adipisicing velit"
+}

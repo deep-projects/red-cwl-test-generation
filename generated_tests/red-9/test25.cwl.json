@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Amx8_9QNHhD": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "exercita",
+    "doc": "Excepteur"
+}

@@ -1,0 +1,48 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Jt5698c": {
+            "type": "string[]?",
+            "inputBinding": {
+                "separate": false
+            }
+        }
+    },
+    "outputs": {
+        "HU": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "dolore aliquip",
+        "eu proident",
+        "dolore eu consectetur deserunt",
+        "proident",
+        "aliquip culpa",
+        "ad dolore est ex reprehenderit",
+        "Ut in velit eiusmod magna",
+        "ipsum anim veniam aliquip",
+        "eiusmod laborum minim",
+        "nisi velit",
+        "quis a",
+        "non dolor fugi",
+        "fugiat laborum et",
+        "eiusmod ex",
+        "Excepteur est sed anim",
+        "ad Ut Excepteur irure",
+        "et id eiusmod i",
+        "nostrud labore re",
+        "cillum Duis voluptate ad",
+        "sed incididunt dolor",
+        "et",
+        "deserunt ut",
+        "dolore ex voluptate",
+        "veniam do cillum Ut",
+        "in id cillum consequat",
+        "eu incididunt",
+        "proident in"
+    ],
+    "stdout": "mollit Excepteur in cillum laboris",
+    "stderr": ""
+}

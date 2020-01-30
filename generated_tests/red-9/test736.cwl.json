@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "4yjP": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "quis dolor",
+    "stderr": "ea laborum enim in ei",
+    "doc": "ut quis ut non"
+}

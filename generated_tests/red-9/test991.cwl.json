@@ -1,0 +1,81 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6W": {
+            "type": "double",
+            "inputBinding": {
+                "prefix": "ullamco",
+                "separate": true,
+                "position": 43432000
+            }
+        }
+    },
+    "outputs": {
+        "Tjb6sPDgZc": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "aliquip",
+        "consectetur aliqua",
+        "adipisicing",
+        "in labore Duis ipsum adipisicing",
+        "nostrud anim sunt",
+        "in enim culpa ut",
+        "et ad voluptate in",
+        "aliquip",
+        "labore sed cillum ex",
+        "commodo tempor eu Ut et",
+        "mollit quis officia nisi",
+        "s",
+        "eiusmod",
+        "sint id dolore Duis",
+        "do proident ut dolore v",
+        "Lorem reprehenderit et anim",
+        "in sit exercitation",
+        "",
+        "non officia nostrud eiusmod qui",
+        "elit id des",
+        "occaecat quis in",
+        "id",
+        "in aliquip",
+        "magna proident in",
+        "i",
+        "est enim",
+        "veniam id eu m",
+        "elit tempor",
+        "aute dolor qui nulla",
+        "adipisic",
+        "aliquip u",
+        "Lorem minim irure deserunt",
+        "est ut ea enim sint",
+        "reprehenderit in commodo dolore ut",
+        "in",
+        "cupidatat quis ullamco consectetur",
+        "Lorem adipisicing ullamco dolore in",
+        "do consequat sit reprehenderit dolore",
+        "non culpa deserunt",
+        "exercitation sit officia ea dolor",
+        "do id",
+        "anim irure in occaecat",
+        "elit enim minim veniam",
+        "incididunt ipsum in ex dolor",
+        "dolore eiusmod occaecat ex enim",
+        "non",
+        "dolore do aliqua adipisicing",
+        "voluptate ut enim et id",
+        "ullamco in consectetur",
+        "amet nisi pariatur anim mollit",
+        "incidi",
+        "occaecat Excepteur proident",
+        "incididunt elit amet",
+        "nostrud ut ipsum do",
+        "enim Ut id dolor exercitation",
+        "in pariatur labore dolore quis",
+        "ex tempor",
+        "consequat dolore cillum nisi",
+        "veniam",
+        "irure dolor non ut"
+    ]
+}

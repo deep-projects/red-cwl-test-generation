@@ -1,0 +1,53 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "a": {
+            "type": "long?",
+            "inputBinding": {
+                "position": 61780014,
+                "itemSeparator": "Duis ex nostrud"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "cupidatat pariatur",
+        "exercitation aliqua",
+        "aute consectetur exercitation reprehenderit",
+        "sed adipisicing qui dolore tempor",
+        "sed laboris commodo l",
+        "pariatur amet nulla Excepteur",
+        "in id et",
+        "proident",
+        "est sint",
+        "magna",
+        "sunt ut magna in",
+        "qui adipisicing aliquip",
+        "in tempor Ut Lorem",
+        "dolor adipis",
+        "sint in ullamco laboris veniam",
+        "Lorem",
+        "Excepteur",
+        "sit nostrud",
+        "et anim magna officia",
+        "et",
+        "ut magna",
+        "nisi laboris veniam aliquip labore",
+        "Duis in dolore",
+        "nulla anim consectetur",
+        "culpa",
+        "qui ut",
+        "consectetur deserunt nostrud",
+        "ex qui",
+        "dolor",
+        "dolor nostrud tempor",
+        "incididunt si",
+        "amet aute",
+        "exercitation occaecat",
+        "do non ip",
+        "incididunt irure Lorem ea proident",
+        "dolore n",
+        "ut"
+    ]
+}

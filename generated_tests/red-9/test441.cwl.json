@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "5wFUCCGDkH": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "eiusmod minim anim"
+            }
+        }
+    }
+}

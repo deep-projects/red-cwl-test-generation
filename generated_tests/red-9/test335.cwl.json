@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Ki58mRNR": {
+            "type": "boolean",
+            "inputBinding": {
+                "separate": false,
+                "position": 34814590,
+                "itemSeparator": "non mollit in tempor exercitation"
+            },
+            "doc": "Lorem adipisicing anim officia"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "enim Lorem sed irure"
+}

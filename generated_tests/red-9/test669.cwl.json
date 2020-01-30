@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "00HMW-Yk": {
+            "type": "long",
+            "inputBinding": {
+                "prefix": "sit in ipsum eiusmod enim",
+                "itemSeparator": "s"
+            }
+        }
+    },
+    "outputs": {
+        "5": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "sit cillum qui id"
+            }
+        }
+    }
+}

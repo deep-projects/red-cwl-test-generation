@@ -1,0 +1,50 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "j197d": {
+            "type": "float?",
+            "inputBinding": {
+                "position": 4119072
+            },
+            "doc": "pariatur dolor Ut eu com"
+        }
+    },
+    "outputs": {
+        "Dd8co": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "ullamco incididunt sit non et",
+        "Excepteur consectetur Lo",
+        "dolore est voluptate",
+        "ullamco magna",
+        "sint sed id nisi anim",
+        "fugiat Excepteur",
+        "exercitation et ex",
+        "consectetur adipisicing si",
+        "nisi commodo in aliqua Except",
+        "dolore nostrud occaecat",
+        "adipisicing labore",
+        "aute adipisicing",
+        "cillum esse u",
+        "dolor ut qui",
+        "aliquip c",
+        "amet",
+        "ullamco Ut nulla",
+        "in nostrud mollit",
+        "cillum anim in",
+        "veniam occaecat officia ut",
+        "incididunt nisi Ut nulla eu",
+        "veniam non nulla",
+        "elit aute in labore",
+        "cillum consectetur est dolore consequat",
+        "cillum ea ipsum incididunt culpa",
+        "consectetur veniam velit dolor labore",
+        "do veniam labore",
+        "in"
+    ],
+    "stderr": "dolore labore Excepteur",
+    "doc": "Lorem aliqua ea ullamco"
+}

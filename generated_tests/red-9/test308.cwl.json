@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "nXP": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "esse",
+                "separate": false,
+                "position": 76793670
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "eiusmod"
+}

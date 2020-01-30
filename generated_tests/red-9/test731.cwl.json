@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "y0AI": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "labore Ut"
+            }
+        }
+    }
+}

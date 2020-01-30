@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "e7vO33Vc": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "stdout": "irure anim",
+    "stderr": "fugiat"
+}

@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "QJiXS": {
+            "type": "Directory[]",
+            "inputBinding": {
+                "separate": true,
+                "position": 26873420,
+                "itemSeparator": "cillum eu id ut"
+            },
+            "doc": "id"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "reprehenderit",
+    "doc": "exercitati"
+}

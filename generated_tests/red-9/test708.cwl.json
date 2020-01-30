@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "2aQpl65Qk2": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "cupidatat Dui"
+}

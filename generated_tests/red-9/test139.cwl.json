@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "xzq2wjw": {
+            "type": "Directory[]?",
+            "inputBinding": {},
+            "doc": "sit tempor amet"
+        }
+    },
+    "outputs": {
+        "5BqkEGz7": {
+            "type": "stderr"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "NzGO24": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "dolor"
+            },
+            "doc": "laboris"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stderr": "esse eiusmod occaecat ut",
+    "doc": "amet nulla in ullamco nisi"
+}

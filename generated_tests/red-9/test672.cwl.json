@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "n9": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "consequat"
+            }
+        }
+    },
+    "doc": "dolore minim Duis proident"
+}

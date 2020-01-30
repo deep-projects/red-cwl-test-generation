@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "9gjma": {
+            "type": "int[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "A": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "pariatur exercitation in"
+            }
+        }
+    }
+}

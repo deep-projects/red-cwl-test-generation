@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "15MiXP": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "eu ex sit ullamco voluptate"
+}

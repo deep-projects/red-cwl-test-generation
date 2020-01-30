@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "lJvX": {
+            "type": "string[]",
+            "inputBinding": {
+                "prefix": "fugiat qui esse"
+            }
+        }
+    },
+    "outputs": {
+        "NedjdLbdrw-": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "est deserunt quis"
+            },
+            "doc": "quis irure anim consequat laboris"
+        }
+    }
+}

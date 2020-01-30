@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "LQk5vlkwK": {
+            "type": "File[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "7Y-IKNm9": {
+            "type": "stderr"
+        }
+    }
+}

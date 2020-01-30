@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "t": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "nisi do",
+                "separate": false,
+                "itemSeparator": "ut"
+            }
+        }
+    },
+    "outputs": {
+        "P4VIk": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "nisi est"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stderr": "ea deserunt pariatur sed in",
+    "doc": "sint do ad in"
+}

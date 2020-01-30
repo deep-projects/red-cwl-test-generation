@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "9ufRT7F6y": {
+            "type": "float?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "YM27NodQp0J": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "dolor sunt"
+            },
+            "doc": "id in laborum nulla"
+        }
+    },
+    "stderr": "e"
+}

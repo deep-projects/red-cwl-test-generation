@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "oFwJJ": {
+            "type": "float[]",
+            "inputBinding": {
+                "position": 36049585
+            }
+        }
+    },
+    "outputs": {}
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1E65DrRSX": {
+            "type": "string",
+            "inputBinding": {
+                "prefix": "nostrud aliqua dolor culpa"
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "velit nulla magna eiusmod esse",
+    "doc": "dolor proident non deserunt do"
+}

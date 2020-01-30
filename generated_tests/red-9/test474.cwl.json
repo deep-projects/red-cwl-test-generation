@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Y9jeaI3Ojx": {
+            "type": "string",
+            "inputBinding": {},
+            "doc": "anim ea consequat Excepteur"
+        }
+    },
+    "outputs": {
+        "4l2Yp3D9-Hz": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "veniam Excepteur ut incididunt",
+    "stderr": "ipsum sit nulla sunt adipisicing"
+}

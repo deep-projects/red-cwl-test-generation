@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "B3": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laboris elit consequat"
+            }
+        }
+    },
+    "doc": "occaecat magna volup"
+}

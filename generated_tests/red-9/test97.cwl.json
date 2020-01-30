@@ -1,0 +1,18 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "C1XjdR": {
+            "type": "boolean",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "officia proident"
+            },
+            "doc": "occaecat"
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "fugiat occaecat id sed",
+    "doc": "dese"
+}

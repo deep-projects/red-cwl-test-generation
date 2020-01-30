@@ -1,0 +1,25 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "XE5Zt5g4D1M": {
+            "type": "int?",
+            "inputBinding": {
+                "prefix": "cupidatat dolor proident et Excepteur",
+                "separate": true,
+                "position": 74058179
+            },
+            "doc": "cupidatat eiusmod"
+        }
+    },
+    "outputs": {
+        "C0TaFj": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "laboris sit occaecat et Lorem"
+            },
+            "doc": "amet ad"
+        }
+    },
+    "baseCommand": "et commodo"
+}

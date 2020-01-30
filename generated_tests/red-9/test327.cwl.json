@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "Rs": {
+            "type": "boolean",
+            "inputBinding": {},
+            "doc": "nisi laboris"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "aute labor",
+    "stderr": "consequa"
+}

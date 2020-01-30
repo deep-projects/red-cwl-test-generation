@@ -1,0 +1,45 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "PW7O509": {
+            "type": "long[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "D5UxXwOtd": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "Duis",
+        "ut",
+        "incididunt cupidatat",
+        "enim dolor pariatur",
+        "dolor officia et",
+        "commodo elit sit sint incididunt",
+        "dol",
+        "est",
+        "laborum ut nostru",
+        "esse qui",
+        "in ut consectetur",
+        "labore ex ullamco d",
+        "Ut dolore nostrud",
+        "laborum dolor",
+        "nisi et ea",
+        "cupidatat est",
+        "ipsum eiusmod",
+        "sint",
+        "sit",
+        "pariatur fugiat Excepteur culpa",
+        "dolor mollit",
+        "esse",
+        "aliquip consequat qui dolore deserunt",
+        "nisi",
+        "commodo minim deserunt Ut sed",
+        "voluptate id dolor"
+    ],
+    "stderr": "ea",
+    "doc": "culpa"
+}

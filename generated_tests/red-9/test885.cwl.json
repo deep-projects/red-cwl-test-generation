@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "VNlTeZDntz": {
+            "type": "string[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "8cVICeL9w9": {
+            "type": "stdout"
+        }
+    }
+}

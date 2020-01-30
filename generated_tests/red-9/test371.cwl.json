@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "KzWt5HUd": {
+            "type": "float[]?",
+            "inputBinding": {
+                "prefix": "ut dolor laborum laboris"
+            },
+            "doc": "dolor incididunt in Lorem"
+        }
+    },
+    "outputs": {
+        "IPP0": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "sit",
+    "stderr": "pariatur"
+}

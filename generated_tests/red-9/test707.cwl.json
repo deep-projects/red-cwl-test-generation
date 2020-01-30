@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "10Uo48zc1q": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "sit reprehenderit"
+}

@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "FMIBZKj4A": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "Lorem"
+            },
+            "doc": "ex officia"
+        }
+    },
+    "outputs": {},
+    "stderr": "l",
+    "doc": "qui aliquip veniam"
+}

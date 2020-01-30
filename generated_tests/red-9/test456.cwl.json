@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "VZ": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "labore quis exercitation"
+            }
+        }
+    },
+    "baseCommand": "anim fugiat c",
+    "stderr": "ad incididunt reprehenderit tempor",
+    "doc": "commodo sunt"
+}

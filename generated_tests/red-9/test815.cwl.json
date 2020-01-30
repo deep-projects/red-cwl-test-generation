@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1SNI": {
+            "type": "File?",
+            "inputBinding": {
+                "position": 25732394
+            },
+            "doc": "ex eiusmod"
+        }
+    },
+    "outputs": {
+        "i76OUdl": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "dolor adipisicing",
+    "stderr": "id",
+    "doc": "laborum"
+}

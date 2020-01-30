@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "fGQR7k": {
+            "type": "int",
+            "inputBinding": {
+                "position": 38964917
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "enim amet consequat laborum adipisicing",
+    "doc": "ut occaecat deserunt"
+}

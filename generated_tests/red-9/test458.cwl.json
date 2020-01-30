@@ -1,0 +1,31 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "wHmjc7EXZK": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": [
+        "ex",
+        "qui in",
+        "in ex",
+        "magna",
+        "laborum adipisicing anim",
+        "sit",
+        "dolore",
+        "pariatur ad fugiat",
+        "cup",
+        "et in labore",
+        "labore irure aliqua incididunt dolor",
+        "labore",
+        "non",
+        "anim",
+        "et incididunt in Duis",
+        "cupidatat nisi",
+        "Duis temp"
+    ],
+    "stdout": "id",
+    "stderr": "incididunt"
+}

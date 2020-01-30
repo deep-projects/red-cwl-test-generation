@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "0KS8PY5z": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "non"
+            },
+            "doc": "quis do Lorem"
+        }
+    },
+    "stdout": "ex id",
+    "doc": "ut eiusmod"
+}

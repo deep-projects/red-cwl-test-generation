@@ -1,0 +1,9 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {},
+    "stdout": "consequat minim sit labore",
+    "stderr": "fugiat reprehenderit",
+    "doc": "proident "
+}

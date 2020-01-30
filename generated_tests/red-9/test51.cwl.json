@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8DDY6x2Z6": {
+            "type": "boolean?",
+            "inputBinding": {
+                "prefix": "eiusmod amet Exc",
+                "position": 64482828
+            }
+        }
+    },
+    "outputs": {}
+}

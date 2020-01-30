@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "8cg": {
+            "type": "long[]?",
+            "inputBinding": {
+                "position": 20167742
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "nisi magna proident",
+    "stderr": "officia qui"
+}

@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "g": {
+            "type": "int[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "-EB-4": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "proident reprehenderit veniam"
+}

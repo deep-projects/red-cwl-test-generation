@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "IJttvb": {
+            "type": "double[]?",
+            "inputBinding": {
+                "prefix": "nostrud Excepteur eiusmod",
+                "position": 40437011,
+                "itemSeparator": "ullamco et minim laboris"
+            },
+            "doc": "dolore Ut nisi"
+        }
+    },
+    "outputs": {}
+}

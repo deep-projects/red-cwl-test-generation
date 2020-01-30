@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "5mNLKPj": {
+            "type": "string",
+            "inputBinding": {
+                "position": 34396629
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "magna laborum sint dolore",
+    "stderr": "eu consequat"
+}

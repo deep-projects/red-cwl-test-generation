@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "r_uxIOCcO8": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "ex incididunt minim",
+    "stderr": "ut fugiat dolor enim",
+    "doc": "ut sunt"
+}

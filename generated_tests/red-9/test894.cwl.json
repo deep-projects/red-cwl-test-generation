@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "VE5": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "ut"
+            },
+            "doc": "Ut dolor qui est"
+        }
+    },
+    "baseCommand": "sed mollit laborum",
+    "doc": "commodo"
+}

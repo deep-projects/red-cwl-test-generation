@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "l6pRgv_kqb": {
+            "type": "float",
+            "inputBinding": {
+                "prefix": "anim nostrud aute consectetur culpa",
+                "position": 77451737,
+                "itemSeparator": "in"
+            }
+        }
+    },
+    "outputs": {
+        "0wTSxOQF3_l": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "et cillum commodo"
+            }
+        }
+    }
+}

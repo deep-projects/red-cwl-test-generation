@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "v": {
+            "type": "boolean?",
+            "inputBinding": {
+                "prefix": "p",
+                "separate": false,
+                "position": 76549201
+            },
+            "doc": "ut amet ad"
+        }
+    },
+    "outputs": {},
+    "stdout": "qui do sit"
+}

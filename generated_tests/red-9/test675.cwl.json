@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "R": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "Duis"
+            }
+        }
+    },
+    "baseCommand": null,
+    "stderr": "cillum commodo in occaecat",
+    "doc": "tempor esse"
+}

@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "SUwVAR2__Wo": {
+            "type": "File[]?",
+            "inputBinding": {
+                "prefix": "enim tempor culpa"
+            },
+            "doc": "ex irure consequat"
+        }
+    },
+    "outputs": {},
+    "baseCommand": "ex ipsum dolor Excepteur"
+}

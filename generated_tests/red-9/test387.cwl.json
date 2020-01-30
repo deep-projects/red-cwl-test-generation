@@ -1,0 +1,46 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "FU": {
+            "type": "string?",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "pariatur laboris laborum"
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "cupidatat",
+        "in in laborum dolore",
+        "qui c",
+        "in proident",
+        "Excepteur enim eiusmod",
+        "incididunt aliquip nostrud sit elit",
+        "pariatur Duis dolore",
+        "sed nostrud",
+        "esse culpa nisi Lorem",
+        "consequ",
+        "sunt consectetur et Ut adipisicing",
+        "exercitation sint eu in enim",
+        "commodo in",
+        "eiusmod irure",
+        "labore sint velit pariatur",
+        "eiusmod tempor minim",
+        "sint anim laboris",
+        "irure laborum aliqua sint",
+        "cillum proident dolore",
+        "aliquip Lorem incididunt ipsum laboris",
+        "exercitation dolore",
+        "minim",
+        "pariatur incididunt aute mollit",
+        "ad labore adipisicing tempor",
+        "dolor nisi",
+        "veniam ut enim",
+        "irure in commodo",
+        "qui incididunt Ut",
+        "ut sit dolor non",
+        "nisi nulla commodo aute"
+    ]
+}

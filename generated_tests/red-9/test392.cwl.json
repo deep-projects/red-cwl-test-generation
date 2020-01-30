@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "FUp": {
+            "type": "float",
+            "inputBinding": {
+                "prefix": "aliquip sit",
+                "separate": false
+            }
+        }
+    },
+    "outputs": {},
+    "stdout": "ut",
+    "doc": "reprehenderit deserunt nostrud"
+}

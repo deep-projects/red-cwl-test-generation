@@ -1,0 +1,23 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "5rKWRJC": {
+            "type": "float[]",
+            "inputBinding": {
+                "position": 96690590
+            }
+        }
+    },
+    "outputs": {
+        "lnmCR41d_Yd": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "culpa quis"
+            }
+        }
+    },
+    "baseCommand": "exercitation cupidatat dolore",
+    "stdout": "eu pariatur",
+    "stderr": "proident"
+}

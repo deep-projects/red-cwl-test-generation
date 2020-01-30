@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "gDcpEY25pH": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "reprehenderit ullamco"
+            }
+        }
+    },
+    "stdout": "sint",
+    "doc": "officia"
+}

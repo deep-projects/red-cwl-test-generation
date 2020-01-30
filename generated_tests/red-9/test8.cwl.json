@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-": {
+            "type": "boolean[]?",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "sit e"
+            },
+            "doc": "Excepteur dolore"
+        }
+    },
+    "outputs": {
+        "kMI5zNMNR": {
+            "type": "stdout"
+        }
+    }
+}

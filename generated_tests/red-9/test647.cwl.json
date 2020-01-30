@@ -1,0 +1,27 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "DS": {
+            "type": "long[]?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "aute",
+        "aliqua do non sit ex",
+        "voluptate",
+        "adipisicing esse",
+        "nulla deserunt cillum",
+        "amet ut esse pariatur",
+        "sunt aliqua moll",
+        "sed nulla ea exercitation",
+        "ut ea nisi do mollit",
+        "ut n",
+        "exercitation",
+        "in exercitation"
+    ],
+    "stdout": "proident et",
+    "doc": "magna"
+}

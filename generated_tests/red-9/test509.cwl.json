@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "PLyPAmFD": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "et qui ad ex",
+    "stdout": "dolore ea",
+    "doc": "exercitation"
+}

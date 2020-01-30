@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "tZcjD0ljJk_": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "do"
+            }
+        }
+    }
+}

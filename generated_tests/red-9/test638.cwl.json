@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sm6_": {
+            "type": "double?",
+            "inputBinding": {
+                "prefix": "adipisicing labore voluptate",
+                "position": 96996428
+            },
+            "doc": "incididunt nulla"
+        }
+    },
+    "outputs": {}
+}

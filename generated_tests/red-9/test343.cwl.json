@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "EgAPl5HSE": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "in exercitation sed"
+            }
+        }
+    },
+    "stdout": "veniam labore",
+    "stderr": "ad laboris in magna sit"
+}

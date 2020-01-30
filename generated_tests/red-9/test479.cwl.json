@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "xcBK9N78": {
+            "type": "float",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {
+        "x": {
+            "type": "stdout"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "B-vLxAYBNb": {
+            "type": "int[]",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "ad ",
+        "volu",
+        "aliqua fugiat cillum",
+        "ut voluptate in pariatur cupidatat",
+        "cillum magna culpa consectetur ea",
+        "cillum occaecat ad",
+        "et",
+        "dolor",
+        "velit enim veniam Lorem",
+        "in magna",
+        "magna",
+        "dolore do",
+        "ex Lorem",
+        "elit dolor velit",
+        "consectet",
+        "sint ut",
+        "magna"
+    ],
+    "stdout": "ea",
+    "stderr": "ut sit"
+}

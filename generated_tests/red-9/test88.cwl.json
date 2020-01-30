@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "x7gsLgGl0FQ": {
+            "type": "long[]?",
+            "inputBinding": {
+                "prefix": "sint ea",
+                "position": 77685235
+            }
+        }
+    },
+    "outputs": {},
+    "baseCommand": "dolore laboris",
+    "stderr": "amet"
+}

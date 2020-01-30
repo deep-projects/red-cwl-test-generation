@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "DB": {
+            "type": "float?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "H": {
+            "type": "stderr"
+        }
+    },
+    "doc": "deserunt in"
+}

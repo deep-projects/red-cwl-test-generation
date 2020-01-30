@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rLfOP": {
+            "type": "long[]?",
+            "inputBinding": {
+                "separate": false,
+                "itemSeparator": "elit ullamco aute"
+            },
+            "doc": "qui nulla"
+        }
+    },
+    "outputs": {}
+}

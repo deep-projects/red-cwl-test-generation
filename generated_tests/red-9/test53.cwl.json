@@ -1,0 +1,63 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "I": {
+            "type": "int?",
+            "inputBinding": {
+                "separate": false,
+                "position": 43343371
+            },
+            "doc": "cillum nostrud nisi reprehenderit"
+        }
+    },
+    "outputs": {},
+    "baseCommand": [
+        "dolore",
+        "ex dolore in Ut esse",
+        "aliqua adipisicing",
+        "magna dolor",
+        "amet enim dolor",
+        "in laborum ad",
+        "sunt laborum aute",
+        "incididunt magna",
+        "Ut labore deserunt c",
+        "sed dolor",
+        "quis veniam ",
+        "occaecat dolor",
+        "nisi et amet Lorem",
+        "eiusmod ullamco ex labore non",
+        "occaecat",
+        "Duis nos",
+        "reprehenderit",
+        "ad pariatur Excepteur ",
+        "id dolor proident magna reprehenderit",
+        "do cupidatat minim laborum nisi",
+        "labore dolor com",
+        "lab",
+        "labore dolore",
+        "esse ut eiusmod",
+        "aliqua in voluptate",
+        "in ullamco consequat in",
+        "tempor mollit eiusmod irure",
+        "consectetur",
+        "enim",
+        "sit officia occaecat et",
+        "aliqua ut ex quis adipisicing",
+        "deserunt",
+        "proident magna nulla cupidatat commodo",
+        "ea",
+        "sed ad nostrud mollit",
+        "irure culpa enim",
+        "dolor eu labore a",
+        "eu deserunt q",
+        "do",
+        "Excepteur do commodo tempor veniam",
+        "ut",
+        "ullamco commodo dolore anim in",
+        "deserunt commodo culpa dolor ullamco",
+        "ad"
+    ],
+    "stdout": "reprehenderit",
+    "stderr": "Lorem id"
+}

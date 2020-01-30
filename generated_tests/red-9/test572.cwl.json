@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "rN02Pf": {
+            "type": "File",
+            "inputBinding": {
+                "prefix": "ea in commodo laboris",
+                "position": 34513292
+            },
+            "doc": "quis sed in sint"
+        }
+    },
+    "outputs": {}
+}

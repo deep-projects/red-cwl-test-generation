@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "6": {
+            "type": "double[]",
+            "inputBinding": {
+                "position": 98508370
+            },
+            "doc": "cillum incididunt"
+        }
+    },
+    "outputs": {
+        "Kol7MWg0Z": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "sunt culpa ut sed"
+}

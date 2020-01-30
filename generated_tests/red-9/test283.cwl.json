@@ -1,0 +1,17 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "ih0Vyc": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": [
+        "magna",
+        "consequat esse",
+        "Duis aute"
+    ],
+    "stdout": "enim laboris non cons",
+    "doc": "Duis voluptate dolor consectetur"
+}

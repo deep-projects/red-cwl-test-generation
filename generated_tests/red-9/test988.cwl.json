@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "aqzqBwPD0M": {
+            "type": "Directory[]",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "M": {
+            "type": "File?",
+            "outputBinding": {
+                "glob": "Excepteur mollit dolor repre"
+            }
+        }
+    },
+    "stdout": "fugiat de"
+}

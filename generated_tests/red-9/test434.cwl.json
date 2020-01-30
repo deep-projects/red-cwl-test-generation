@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "2": {
+            "type": "File",
+            "outputBinding": {
+                "glob": "Lorem sed sit exercitation consequat"
+            }
+        }
+    },
+    "stdout": "pariatur Lorem"
+}

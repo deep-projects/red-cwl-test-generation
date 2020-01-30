@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "7q4Tvs": {
+            "type": "int?",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "baseCommand": null,
+    "stdout": "laborum",
+    "stderr": "incididunt sed exercitation in"
+}

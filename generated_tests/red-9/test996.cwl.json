@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "RdUj3qpSpQ5": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": "esse",
+    "stdout": "enim occaecat"
+}

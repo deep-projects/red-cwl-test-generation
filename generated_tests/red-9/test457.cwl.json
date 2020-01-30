@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "XzNreM2-lXp": {
+            "type": "stderr"
+        }
+    },
+    "stdout": "non in officia dolor",
+    "stderr": "laborum commodo mollit sit elit"
+}

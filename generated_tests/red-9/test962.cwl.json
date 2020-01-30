@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "sts8": {
+            "type": "Directory",
+            "inputBinding": {
+                "prefix": "do velit Duis",
+                "separate": true,
+                "position": 79453551
+            },
+            "doc": "exercitation aute quis adipisicing tempor"
+        }
+    },
+    "outputs": {
+        "6VDELAiW6J7": {
+            "type": "stderr"
+        }
+    },
+    "doc": "id"
+}

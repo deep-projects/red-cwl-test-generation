@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "M": {
+            "type": "File",
+            "inputBinding": {
+                "prefix": "proident amet",
+                "separate": true,
+                "itemSeparator": "sit minim"
+            },
+            "doc": "dolore enim"
+        }
+    },
+    "outputs": {}
+}

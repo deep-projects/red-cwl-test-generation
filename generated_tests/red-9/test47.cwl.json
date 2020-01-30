@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "1CE4v6": {
+            "type": "Directory",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {},
+    "doc": "ipsum occaecat consequat pariatur Lorem"
+}

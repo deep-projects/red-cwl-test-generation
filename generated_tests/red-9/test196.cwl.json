@@ -1,0 +1,12 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "Rj0Bmkai9-V": {
+            "type": "stderr"
+        }
+    },
+    "baseCommand": null,
+    "doc": "laboris"
+}

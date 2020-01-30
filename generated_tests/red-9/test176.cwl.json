@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "ebPwji": {
+            "type": "float[]?",
+            "inputBinding": {
+                "separate": true,
+                "itemSeparator": "sint in ea occ"
+            },
+            "doc": "proident tempor mollit"
+        }
+    },
+    "outputs": {},
+    "stderr": "veniam"
+}

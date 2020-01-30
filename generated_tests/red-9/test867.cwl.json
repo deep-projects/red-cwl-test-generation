@@ -1,0 +1,22 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "-NT3ePbzDgc": {
+            "type": "Directory",
+            "inputBinding": {
+                "separate": true
+            }
+        }
+    },
+    "outputs": {
+        "Epi": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "nisi tempor sit anim Duis"
+            },
+            "doc": "in aliqua velit enim aut"
+        }
+    },
+    "stderr": "proident"
+}

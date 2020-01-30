@@ -1,0 +1,21 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "oi9d4Lik": {
+            "type": "int[]",
+            "inputBinding": {
+                "prefix": "ea magna"
+            },
+            "doc": "deserunt eiusmod"
+        }
+    },
+    "outputs": {
+        "8a": {
+            "type": "stdout"
+        }
+    },
+    "stdout": "nostrud ipsum ea ut non",
+    "stderr": "magna",
+    "doc": "incididunt voluptate amet velit cupidatat"
+}

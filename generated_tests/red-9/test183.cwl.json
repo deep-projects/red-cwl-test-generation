@@ -1,0 +1,14 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "D7uSRGiVS": {
+            "type": "string?",
+            "inputBinding": {
+                "prefix": "tempor Excepteur et"
+            },
+            "doc": "fugiat"
+        }
+    },
+    "outputs": {}
+}

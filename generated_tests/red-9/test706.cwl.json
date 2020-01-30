@@ -1,0 +1,24 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "1EatSInU": {
+            "type": "Directory",
+            "outputBinding": {
+                "glob": "ex pariatur deserunt"
+            },
+            "doc": "magna cillum minim adipisicing amet"
+        }
+    },
+    "baseCommand": [
+        "in laborum eu nostrud elit",
+        "sed nisi voluptate quis non",
+        "velit veniam et eiusmod",
+        "Lorem id incididunt",
+        "sint",
+        "in",
+        "eiusmod cupidatat exercitation et pariatur"
+    ],
+    "stdout": "ullamco"
+}

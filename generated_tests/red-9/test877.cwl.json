@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "HAL_3Y": {
+            "type": "long[]?",
+            "inputBinding": {
+                "prefix": "ex officia elit",
+                "position": 9825811,
+                "itemSeparator": "nostrud tempor dolor"
+            }
+        }
+    },
+    "outputs": {}
+}

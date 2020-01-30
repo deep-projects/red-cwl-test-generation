@@ -1,0 +1,11 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "GNj9tZwf": {
+            "type": "stderr"
+        }
+    },
+    "stderr": "adipisicing in commodo quis sunt"
+}

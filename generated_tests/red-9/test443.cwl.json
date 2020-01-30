@@ -1,0 +1,19 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "VpngOdA": {
+            "type": "Directory[]?",
+            "inputBinding": {
+                "prefix": "officia quis culpa irure",
+                "separate": false,
+                "itemSeparator": "proident"
+            }
+        }
+    },
+    "outputs": {
+        "YNnsMDwRR35": {
+            "type": "stderr"
+        }
+    }
+}

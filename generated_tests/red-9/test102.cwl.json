@@ -1,0 +1,16 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "BMroi9UCAH": {
+            "type": "File",
+            "inputBinding": {}
+        }
+    },
+    "outputs": {
+        "K": {
+            "type": "stderr"
+        }
+    },
+    "doc": "irure consectetur consequat ut"
+}

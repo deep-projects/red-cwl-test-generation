@@ -1,0 +1,15 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "L1JJaJAg": {
+            "type": "double[]?",
+            "inputBinding": {
+                "separate": true,
+                "position": 99857196,
+                "itemSeparator": "nostrud cillum"
+            }
+        }
+    },
+    "outputs": {}
+}

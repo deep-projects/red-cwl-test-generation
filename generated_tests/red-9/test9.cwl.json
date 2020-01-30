@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "_9": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "in pariatur veniam deserunt sint",
+    "stderr": "commodo nostrud",
+    "doc": "sunt Ut dolor ut in"
+}

@@ -1,0 +1,13 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {},
+    "outputs": {
+        "OK": {
+            "type": "stdout"
+        }
+    },
+    "baseCommand": "est aliquip",
+    "stdout": "adipisicing minim officia Ut",
+    "doc": "sunt in ad ullamco"
+}

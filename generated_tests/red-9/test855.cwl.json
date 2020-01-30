@@ -1,0 +1,20 @@
+{
+    "cwlVersion": "v1.0",
+    "class": "CommandLineTool",
+    "inputs": {
+        "HH2x7Gdoz-f": {
+            "type": "File[]",
+            "inputBinding": {
+                "itemSeparator": "cupidatat voluptate"
+            }
+        }
+    },
+    "outputs": {
+        "JK": {
+            "type": "Directory?",
+            "outputBinding": {
+                "glob": "dolor non adipisicing in do"
+            }
+        }
+    }
+}
